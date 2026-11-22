@@ -507,9 +507,28 @@ async function onbellekOku() {
 
 const gunFarki = (iso) => (iso ? (Date.now() - new Date(iso).getTime()) / 86400e3 : Infinity);
 
+/**
+ * Maç sonu kontrolü (ELAZIGSPOR_KIP=macsonu): başlama saati 1,5–8 saat önce olan ve skoru bizde henüz
+ * olmayan bir maç yoksa hiç istek atmadan çıkılır. Böylece maç günü skor akşamı beklemeden gelir.
+ */
+export function macSonuBekleniyor(onceki, simdi = Date.now()) {
+  for (const m of onceki?.fikstur || []) {
+    if (m.skor || !m.tarih) continue;
+    const bas = Date.parse(`${m.tarih}T${m.saat || '12:00'}:00+03:00`);
+    if (!Number.isFinite(bas)) continue;
+    const fark = simdi - bas;
+    if (fark >= 90 * 60_000 && fark <= 8 * 3600_000) return true;
+  }
+  return false;
+}
+
 export async function main() {
   const simdi = new Date().toISOString();
   const onceki = await oncekiniOku(AD);
+  if (process.env.ELAZIGSPOR_KIP === 'macsonu' && !macSonuBekleniyor(onceki)) {
+    console.log(`· ${AD}: bekleyen maç sonucu yok, atlandı`);
+    return onceki;
+  }
   const onbellek = await onbellekOku();
   onbellek.oyuncular ||= {};
   onbellek.maclar ||= {};

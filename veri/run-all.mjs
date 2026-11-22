@@ -32,7 +32,8 @@ export const GRUPLAR = {
   eczane: ['eczane'], // günde 3
   orta: ['elektrik-kesintileri'], // 3 saatte bir
   seyrek: ['vefat', 'is-ilanlari', 'etkinlikler', 'su-kesintileri', 'yemekhane'], // 6 saatte bir
-  gunluk: ['elazigspor'], // günde 1 (TR 06:30)
+  gunluk: ['elazigspor'],
+  macsonu: ['elazigspor'], // her gün TR 15-23 saat başı; yalnız biten maçın skoru bekleniyorsa istek atar // günde 1 (TR 06:30)
 };
 
 function secilenler(argv) {

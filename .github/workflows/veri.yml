@@ -28,6 +28,7 @@ on:
     - cron: '20 */3 * * *'   # orta: elektrik kesintileri (3 saatte bir; TR 03:20, 06:20, ...)
     - cron: '50 */6 * * *'   # seyrek: vefat, iş ilanları, etkinlikler, su kesintileri, yemekhane (6 saatte bir; TR 03:50, 09:50, 15:50, 21:50)
     - cron: '30 3 * * *'     # gunluk: elazigspor (günde 1; TR 06:30)
+    - cron: '40 12-20 * * *'  # macsonu: TR 15:40-23:40 saat başı (biten maç yoksa istek yok)
     - cron: '15 19 * * 0,6'  # gunluk ek: hafta sonu akşamı maç sonucu (TR 22:15, Cmt-Paz)
   push:
     branches: [main]
@@ -75,6 +76,7 @@ jobs:
             '20 */3 * * *') G=orta ;;
             '50 */6 * * *') G=seyrek ;;
             '30 3 * * *') G=gunluk ;;
+            '40 12-20 * * *') G=macsonu ;;
             '15 19 * * 0,6') G=gunluk ;;
             *) G="${{ github.event.inputs.grup || 'hepsi' }}" ;;
           esac
@@ -86,6 +88,7 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          ELAZIGSPOR_KIP: ${{ steps.grup.outputs.ad == 'macsonu' && 'macsonu' || '' }}
         run: |
           if [ "${{ steps.grup.outputs.ad }}" = "hepsi" ]; then node run-all.mjs; else node run-all.mjs --grup "${{ steps.grup.outputs.ad }}"; fi
 
