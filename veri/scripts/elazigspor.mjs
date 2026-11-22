@@ -512,6 +512,11 @@ const gunFarki = (iso) => (iso ? (Date.now() - new Date(iso).getTime()) / 86400e
  * olmayan bir maç yoksa hiç istek atmadan çıkılır. Böylece maç günü skor akşamı beklemeden gelir.
  */
 export function macSonuBekleniyor(onceki, simdi = Date.now()) {
+  // Skor geldi ama puan cetveli henüz o maçı içermiyorsa (TFF cetveli sonradan günceller) de beklemeye devam.
+  const biz = (onceki?.puanDurumu || []).find((r) => r.biz);
+  const ligOynanan = (onceki?.fikstur || []).filter((m) => m.skor && /2\. Lig/i.test(m.turnuva || ''));
+  const sonOynanan = ligOynanan.map((m) => Date.parse(`${m.tarih}T${m.saat || '12:00'}:00+03:00`)).filter(Number.isFinite).sort((a, b) => b - a)[0];
+  if (biz && ligOynanan.length > biz.o && sonOynanan && simdi - sonOynanan <= 30 * 3600_000) return true;
   for (const m of onceki?.fikstur || []) {
     if (m.skor || !m.tarih) continue;
     const bas = Date.parse(`${m.tarih}T${m.saat || '12:00'}:00+03:00`);
@@ -590,6 +595,17 @@ export async function main() {
       if (ligMac) {
         const g = ligMac.turnuva.match(/2\. Lig\s+(\S+)/)?.[1];
         if (g) lig.grup = baslikHarfi(g);
+      }
+      // TFF oynanmış maçın satırında tarihi/saati vermeyebiliyor: önceki kayıttan koru (uygulama "son maç"ı tarihe göre seçer).
+      const eski = new Map((onceki?.fikstur || []).filter((m) => m.macId).map((m) => [m.macId, m]));
+      for (const m of tekil) {
+        const o = m.macId && eski.get(m.macId);
+        if (o && !m.tarih && o.tarih) m.tarih = o.tarih;
+        if (o && !m.saat && o.saat) m.saat = o.saat;
+        // Yoksa maç sayfasından okunmuş bilgiden (önbellek) al.
+        const k = m.macId && onbellek.maclar[m.macId];
+        if (k && !m.tarih && k.tarih) m.tarih = k.tarih;
+        if (k && !m.saat && k.saat) m.saat = k.saat;
       }
       sonuc.fikstur = { veri: tekil, plan: 'A' };
     } catch (e) { hatalar.push(`fikstür A: ${e.message}`); }
