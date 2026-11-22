@@ -1,0 +1,175 @@
+{{short description|Association football team in Turkey}}
+{{Infobox football club
+| clubname = Elazığspor
+| image = Elazigspor.png
+| image_size = 220px
+| fullname = Elazığspor Kulübü
+| nickname = Gakgoşlar
+| founded = {{start date and age|df=yes|1967}}
+| ground = [[Elazığ Atatürk Stadium]]
+| capacity = 18,423<ref name=AA/>
+| chairman = Ahmet Feti Yılmaz
+| manager = Mustafa Sarıgül
+| mgrtitle = Head coach
+| league  = {{Turkish football updater|Elazığspor}}
+| season  = {{Turkish football updater|Elazığspor2}}
+| position = {{Turkish football updater|Elazığspor3}}
+| website = {{URL|https://elazigspor.net/|elazigspor.net}} 
+| pattern_la1 = _elazig1819a
+| pattern_b1 = _elazig1819h
+| pattern_ra1 = _elazig1819a
+| pattern_sh1 = _elazig1819a
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = 800000
+| socks1 = 800000
+| pattern_la2 = _elazig1819a
+| pattern_b2 = _elazig1819a
+| pattern_ra2 = _elazig1819a
+| pattern_sh2 = _elazig1819a
+| leftarm2 = 800000
+| body2 = 800000
+| rightarm2 = 800000
+| shorts2 = 800000
+| socks2 = 800000
+| pattern_la3 = _elazig1819t
+| pattern_b3 = _elazig1819t
+| pattern_ra3 = _elazig1819t
+| pattern_sh3 = _elazig1819t
+| leftarm3 = FFFFFF
+| body3 = FFFFFF
+| rightarm3 = FFFFFF
+| shorts3 = FFFFFF
+| socks3 = FFFFFF
+}}
+
+'''Elazığspor''' is a Turkish professional [[Association football|football]] club located in [[Elazığ]] and currently competes in the [[TFF Second League]]. They play their home games at [[Elazığ Atatürk Stadium]] in Elazığ, which has a maximum capacity of 18,423.<ref name=AA>{{Cite web |title=Elazığ'ın "yaşayan stadı"nda uluslararası başarılara hazırlanıyorlar |url=https://www.aa.com.tr/tr/futbol/elazigin-yasayan-stadinda-uluslararasi-basarilara-hazirlaniyorlar/3095354# |access-date=2025-05-04 |website=www.aa.com.tr}}</ref> The club was founded in 1967.<ref>{{cite journal|title=The Introduction, Early Development and Historiography of Soccer in Turkey: 1890-1914|journal=Soccer & Society|volume=3|issue=3|pages=1–10|doi=10.1080/714004887|year=2002|last1=Okay|first1=Cüneyd|s2cid=144787624}}</ref> They have also played in the [[Süper Lig]] many times in the past.
+
+==History==
+Elazığspor was founded in 1967 when three clubs (Merkez Gençlik, Güvenspor and Harputspor) were united to form a strong team for the city of [[Elazığ]].<ref>{{Cite web |title=Tarihçe {{!}} Elazığspor Kulübü |url=https://www.elazigspor.org.tr/index.php/tarihce/ |access-date=2023-06-24 |language=tr-TR}}</ref> The club's emblem refers to a famous local dance called [[Çayda Çıra]]. This dance is performed with candles in the hands. Elazığspor's main rivals are [[Malatyaspor]]. The cities Elazığ and Malatya, were Malatyaspor play, are neighboring cities.<ref name="auto1">{{cite web|title=NEW APPOINTMENT IN EAST|date=19 February 2016 |url=http://www.milliyet.com.tr/dogu-derbisinde-yeni-randevu-malatya-yerelhaber-1223324/}}</ref> Due to the rivalry meaning a lot to those fan bases, extra security is almost a necessity to make sure of safety.  Due to the fan bases dislike for each other, sometimes the visiting team's fans will not be allowed to attend the game due to security reasons.<ref name="auto1"/> Usually, there will be around 30 journalists from Malatya to attend the game whenever the rivalry is being hosted by Elazığspor.<ref name="auto1"/> The “Doğunun derbisi” has become one of the biggest [[Football derbies in Turkey|football rivalries in Turkey]].
+
+One friendly match that Elazığspor played versus Diyarbakırspor on September 5, 2011, turned tragic. Fans of both teams threw stones and hard objects at each other.<ref name="auto2">{{cite web|title=Diyarbakırspor Elazığspor- Match Events|url=http://www.bismilhaber.com/diyarbakirspor-elazigspor-macinda-olaylar-cikti-141h.htm|date=2011-09-05}}</ref> One lieutenant and 1 expert sergeant died to the fan's behaviors.<ref name="auto2" /> A total of 6 people were injured.<ref name="auto2" /> These events happened during the middle of the match, as the game had to be delayed until the events that were going on came down. The club has played in the Second and Third Leagues for several years. Finally in 2002, the club was promoted to the [[Turkish First Football League]]. However, in 2004, they were relegated to the [[TFF First League]] again. They were relegated to the [[TFF Second League]] in 2008 after finishing in 16th place.
+
+In January 2019, Elazığspor hit the news after signing 22 players in 2 hours on 30 January, after negotiating the end of a transfer ban imposed by the [[Turkish Football Federation]].<ref>{{cite news|url=http://www.espn.co.uk/football/soccer-transfers/story/3764610/turkish-club-elazigspor-sign-record-22-players-in-two-hours|title=Turkish club Elazigspor sign record 22 players in two hours|last=Sarigul|first=Erin|work=ESPN|access-date=2 February 2019}}</ref> The club, which made so many transfers in such a short time, entered the Guinness Book of Records.<ref>{{Cite web |last=Bişkin |first=Beyza |date=2023-10-18 |title=Elazığspor’un geçmişe dönüşü mümkün mü? |url=https://www.elazigfirat.com/haber/19423328/elazigsporun-gecmise-donusu-mumkun-mu |access-date=2025-05-04 |website=Elazığ Fırat Gazetesi |language=tr}}</ref>
+
+The club withdrew from the 2019-20 2. Lig after the [[2020 Elazığ earthquake]]. Next season, the club was allowed to compete in the 2020-21 2. Lig.<ref>{{Cite web |date=7 February 2020 |title=Kamuoyuna Duyuru |url=https://www.elazigspor.org.tr/index.php/2020/02/07/kamuoyuna-duyuru-76/ |access-date=8 February 2023 |website=Elazığspor Kulübü Resmi İnternet Sitesi |archive-date=22 February 2020 |archive-url=https://web.archive.org/web/20200222134218/https://www.elazigspor.org.tr/index.php/2020/02/07/kamuoyuna-duyuru-76/ |url-status=dead }}</ref>
+
+==League participation==
+* [[Süper Lig]]: 2002–04, 2012–2014
+* [[TFF First League]]: 1974–82, 1983–85, 1986–87, 1990–92, 1995–02, 2004–08, 2011–12, 2014–2019
+* [[TFF Second League]]: 1968–75, 1985–86, 1987–90, 1992–95, 2008–11, 2019–2021, 2024–
+* [[TFF Third League]]: 1982–83, 2021–2022, 2022–2024
+
+==Current squad==
+{{updated|1 October 2026|<ref>{{cite web|url=http://www.mackolik.com/Takim/16/Elazigspor|title=Elazığspor|website=Mackolik.com|access-date=17 April 2018}}</ref><ref>{{cite web|url=http://www.tff.org/Default.aspx?pageId=535&kulupId=37|title=TETİŞ YAPI ELAZIĞSPOR – Club Details TFF|website=tff.org|access-date=17 April 2018}}</ref>}}
+<section begin=squad />
+{{Fs start|nonumber=|bg=800000|color=FFFFFF|border=ffffff}}
+{{Fs player|no= 1|pos=FW|nat=TUR|name=Sertaç Çam}}
+{{Fs player|no= 3|pos=DF|nat=TUR|name=Veli Çetin}}
+{{Fs player|no= 4|pos=DF|nat=TUR|name=Çağlayan Menderes}}
+{{Fs player|no= 5|pos=MF|nat=TUR|name=Emir Alagöz}}
+{{Fs player|no= 6|pos=DF|nat=TUR|name=Feyyaz Belen}}
+{{Fs player|no= 7|pos=FW|nat=AZE|name=[[Barış Ekincier]]}}
+{{Fs player|no= 8|pos=MF|nat=TUR|name=Hakan Yavuz}}
+{{Fs player|no= 9|pos=FW|nat=TUR|name=[[Kemal Rüzgar]]}}
+{{Fs player|no=10|pos=DF|nat=TUR|name=Onur Eriş}}
+{{Fs player|no=11|pos=FW|nat=TUR|name=Enes Soy}}
+{{Fs player|no=17|pos=MF|nat=TUR|name=Ali Altınöz}}
+{{Fs player|no=19|pos=FW|nat=TUR|name=Serhat Genç}}
+{{Fs player|no=20|pos=DF|nat=TUR|name=[[Erhan Kartal]]}}
+{{Fs player|no=22|pos=MF|nat=TUR|name=Alperen Pak}}
+{{fs mid|nonumber=|bg=800000|color=FFFFFF|border=ffffff}}
+{{Fs player|no=23|pos=FW|nat=TUR|name=[[Mert Örnek]]}}
+{{Fs player|no=25|pos=GK|nat=TUR|name=Atakan Ordu|other={{small|on loan from [[Galata SK]]}}}}
+{{Fs player|no=26|pos=GK|nat=TUR|name=Yusuf Ayaz}}
+{{Fs player|no=27|pos=MF|nat=TUR|name=Bünyamin Güler}}
+{{Fs player|no=30|pos=MF|nat=TUR|name=Esat Buğa|other={{small|on loan from [[Konyaspor]]}}}}
+{{Fs player|no=35|pos=DF|nat=TUR|name=Alp Arda Abay|other={{small|on loan from [[Antalyaspor]]}}}}
+{{Fs player|no=44|pos=MF|nat=TUR|name=[[Efe Tatlı]]}}
+{{Fs player|no=55|pos=DF|nat=TUR|name=Mustafa Akyıldız|other={{small|on loan from [[Fenerbahçe S.K. (football)|Fenerbahçe]]}}}}
+{{Fs player|no=58|pos=DF|nat=TUR|name=Ali Yeşilyurt|other={{small|on loan from [[Galatasaray S.K. (football)|Galatasaray]]}}}}
+{{Fs player|no=67|pos=GK|nat=TUR|name=Habib Zeybek}}
+{{Fs player|no=77|pos=GK|nat=TUR|name=Furkan Köse}}
+{{Fs player|no=80|pos=MF|nat=TUR|name=[[Muhammed Demirci]]}}
+{{Fs player|no=97|pos=FW|nat=TUR|name=Fuat Bavuk}}
+{{fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs mid}}
+{{Fs end}}
+
+==Notable players==
+;Bosnia and Herzegovina
+*{{flagicon|BIH}} [[Aldin Čajić]]
+*{{flagicon|BIH}} [[Ivan Sesar]]
+*{{flagicon|BIH}} [[Ognjen Vranješ]]
+;Croatia
+*{{flagicon|CRO}} [[Vanja Iveša]]
+;France
+*{{flagicon|FRA}} [[Julien Faubert]]
+;Iceland
+*{{flagicon|ISL}} [[Theódór Elmar Bjarnason]] 
+;Netherlands
+*{{flagicon|NED}} [[Marvin Zeegelaar]] 
+;Sweden
+*{{flagicon|SWE}} [[Emir Kujović]]
+;Turkey
+*{{flagicon|TUR}} [[Ersan Gülüm]]
+*{{flagicon|TUR}} [[Kadir Bekmezci]]
+*{{flagicon|TUR}} [[Kerim Frei]]
+*{{flagicon|TUR}} [[Serdar Gürler]]
+
+==Managers==
+{{div col|colwidth=20em}}
+*{{flagicon|Serbia}}  [[Milorad Mitrović (footballer, born 1949)|Milorad Mitroviç]] (2003-2003)
+*{{flagicon|Turkey}}  [[Güvenç Kurtar]] (2003–2004)
+*{{flagicon|Turkey}} [[:tr:Erol Tok|Erol Tok]] (2007–2008)
+*{{flagicon|Turkey}} [[Şerafettin Tutaş]] (2008–2008)
+*{{flagicon|Turkey}} [[Osman Özköylü]] (2010–2011)
+*{{flagicon|Turkey}} [[Hüsnü Özkara]] (2011–2012)
+*{{flagicon|Turkey}} [[Bülent Uygun]] (2012–2012)
+*{{flagicon|Turkey}} [[Yılmaz Vural]] (2012–2013)
+*{{flagicon|Norway}} [[Trond Sollied]] (2013–2013)
+*{{flagicon|Turkey}} [[Okan Buruk]] (2013–2014)
+*{{flagicon|Turkey}} [[Ümit Özat]] (2014–2015)
+*{{flagicon|Turkey}} [[Bayram Bektaş]] (2015-2015)
+*{{flagicon|Turkey}}  [[İbrahim Üzülmez]] (2015–2015)
+*{{flagicon|Turkey}}  [[Kemal Özdeş]] (2016–2016)
+*{{flagicon|Turkey}}  [[Coşkun Demirbakan]] (2016–2016)
+*{{flagicon|Turkey}}  [[Ogün Temizkanoğlu]] (2016–2016)
+*{{flagicon|Turkey}}  [[Bayram Bektaş]] (2016–2017)
+*{{flagicon|Turkey}}  [[Mehmet Altıparmak]] (2017–2017)
+*{{flagicon|Turkey}}  [[Hüseyin Kalpar]] (2017–2018)
+*{{flagicon|Turkey}}  [[Muammer Sürmeli]] (2017–2018)
+*{{flagicon|Turkey}}  [[Orhan Kaynak]] (2018–2019)
+*{{flagicon|Turkey}}  [[Erhan Altın]] (2018–2019)
+*{{flagicon|Turkey}}  [[Serhat Gülpınar]] (2018–2019)
+*{{flagicon|Turkey}}  [[Sefer Yılmaz]] (2019–2019)
+*{{flagicon|Turkey}}  [[Levent Eriş]] (2019–2020)
+*{{flagicon|Turkey}}  [[Orhan Kaynak]] (2020–2020)
+*{{flagicon|Turkey}}  [[Ümit Tekoğlu]] (2021–2021)
+*{{flagicon|Turkey}}  [[Cafer Aydın]] (2021–2021)
+*{{flagicon|Turkey}}  [[Kenan Kamaç]] (2021–2021)
+*{{flagicon|Turkey}}  [[Cafer Aydın]] (2021–2022)
+*{{flagicon|Turkey}}  [[Alaettin Tutaş]] (2022–2021)
+*{{flagicon|Turkey}}  [[Ramazan Çelik]] (2022–2022)
+{{colend|colwidth=20em}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website|https://elazigspor.net/}}
+*[http://www.tff.org/Default.aspx?pageId=535&kulupID=37 Elazığspor] on TFF.org
+{{Elazığ}}
+{{TFF Second League}}
+{{Süper Lig clubs}}
+
+{{DEFAULTSORT:Elazigspor}}
+[[Category:Elazığspor| ]]
+[[Category:Association football clubs established in 1967]]
+[[Category:Sport in Elazığ]]
+[[Category:Football clubs in Turkey|Elazığspor]]
+[[Category:1967 establishments in Turkey]]

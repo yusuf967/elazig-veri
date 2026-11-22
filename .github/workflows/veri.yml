@@ -1,0 +1,107 @@
+# ÖRNEK iş akışı — kullanmak için depo kökünde .github/workflows/veri.yml olarak kopyalayın.
+# Varsayım: uygulama deposunun kökünde "veri/" klasörü var. Ayrı bir veri deposu kullanırsanız
+# "working-directory: veri" ve "path: veri/public" satırlarını uyarlayın.
+#
+# Nasıl çalışır:
+#  1) main dalından betikleri, gh-pages dalından önceki JSON'ları (veri/public içine) çeker.
+#     Böylece bir betik hata verirse o dosyanın önceki hali yerinde kalır, diğer gruplar ezilmez.
+#  2) Zamanlamaya göre ilgili grubu çalıştırır (run-all.mjs --grup ...).
+#  3) Değişiklik varsa gh-pages dalına tek commit olarak iter. GitHub Pages ayarı: Source = "Deploy from a branch", gh-pages / (root).
+#     Yayın adresi: https://<kullanici>.github.io/<depo>/eczane.json
+#
+# Notlar:
+#  - Cron UTC'dir (Türkiye = UTC+3). GitHub zamanlanmış işleri 5-20 dk gecikebilir, yoğunlukta atlayabilir.
+#  - Sıklıklar (TR = UTC+3): sik (deprem, piyasa, hava; açık API'ler) 30 dk; eczane günde 3; orta (elektrik kesintileri)
+#    3 saatte bir; seyrek (vefat, iş ilanları, etkinlikler, su kesintileri, yemekhane) 6 saatte bir; gunluk (elazigspor) günde 1.
+#    Kazınan siteler zorlanmaz.
+#  - */30 sıklığı ayda ~1500 çalıştırma eder: GENEL (public) depoda ücretsiz/sınırsızdır; ÖZEL depoda 2000 dk/ay kotası aşılır.
+#  - Genel depoda 60 gün etkinlik olmazsa GitHub zamanlanmış işleri kapatır; Actions sekmesinden tekrar açılır.
+
+name: veri
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # sik: deprem, piyasa, hava (30 dk; açık API'ler)
+    - cron: '45 5 * * *'     # eczane 08:45 TR (gündüz listesi)
+    - cron: '15 15 * * *'    # eczane 18:15 TR (akşam nöbeti başladıktan sonra)
+    - cron: '10 21 * * *'    # eczane 00:10 TR (gün dönümü)
+    - cron: '20 */3 * * *'   # orta: elektrik kesintileri (3 saatte bir; TR 03:20, 06:20, ...)
+    - cron: '50 */6 * * *'   # seyrek: vefat, iş ilanları, etkinlikler, su kesintileri, yemekhane (6 saatte bir; TR 03:50, 09:50, 15:50, 21:50)
+    - cron: '30 3 * * *'     # gunluk: elazigspor (günde 1; TR 06:30)
+    - cron: '15 19 * * 0,6'  # gunluk ek: hafta sonu akşamı maç sonucu (TR 22:15, Cmt-Paz)
+  push:
+    branches: [main]
+    paths: ['veri/**', 'site/**', '.github/workflows/veri.yml']
+  workflow_dispatch:
+    inputs:
+      grup:
+        description: 'sik | eczane | orta | seyrek | gunluk | hepsi'
+        required: false
+        default: 'hepsi'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veri-yayin
+  cancel-in-progress: false
+
+jobs:
+  kazi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Betikleri al
+        uses: actions/checkout@v4
+
+      - name: Önceki JSON'ları al (gh-pages)
+        uses: actions/checkout@v4
+        continue-on-error: true   # ilk çalıştırmada gh-pages yoktur
+        with:
+          ref: gh-pages
+          path: veri/public
+
+      - name: Node 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Grubu belirle
+        id: grup
+        run: |
+          case "${{ github.event.schedule }}" in
+            '*/30 * * * *') G=sik ;;
+            '45 5 * * *'|'15 15 * * *'|'10 21 * * *') G=eczane ;;
+            '20 */3 * * *') G=orta ;;
+            '50 */6 * * *') G=seyrek ;;
+            '30 3 * * *') G=gunluk ;;
+            '15 19 * * 0,6') G=gunluk ;;
+            *) G="${{ github.event.inputs.grup || 'hepsi' }}" ;;
+          esac
+          echo "ad=$G" >> "$GITHUB_OUTPUT"
+          echo "Grup: $G"
+
+      - name: Kazı
+        working-directory: veri
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          if [ "${{ steps.grup.outputs.ad }}" = "hepsi" ]; then node run-all.mjs; else node run-all.mjs --grup "${{ steps.grup.outputs.ad }}"; fi
+
+      # gh-pages her seferinde TEK commit olarak zorla itilir: geçmiş birikmez (ayda ~1500 commit olurdu),
+      # depo küçük kalır. Önceki JSON'lar yukarıda zaten veri/public'e alındığı için veri kaybolmaz.
+      - name: gh-pages'e yayınla
+        working-directory: veri/public
+        run: |
+          # Gizlilik ve destek sayfaları (App Store için) her yayında korunur.
+          cp -r ../../site/. .
+          touch .nojekyll
+          rm -f *.tmp
+          rm -rf .git
+          git init -q -b gh-pages
+          git config user.name  "veri-botu"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "veri: ${{ steps.grup.outputs.ad }} $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" gh-pages

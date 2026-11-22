@@ -1,0 +1,556 @@
+{{Multiple issues|
+{{notability|1=Sport|date=May 2026}}
+{{one source|date=May 2026}}
+}}
+{{Short description|26th season of TFF Second League}}
+{{Infobox football league season
+| competition = [[TFF 2. Lig]]
+| season = 2026–27
+| dates = {{nowrap|5 September 2026 – May 2027}}
+| logo = 
+| caption = 
+| winners = 
+| relegated = 
+| league topscorer = 
+| biggest home win = 
+| biggest away win = 
+| highest scoring = 
+| matches = 
+| total goals = 
+| longest wins = 
+| longest unbeaten = 
+| longest winless = 
+| longest losses = 
+| highest attendance = 
+| lowest attendance = 
+| attendance = 
+| average attendance = 
+| prevseason = [[2025–26 TFF 2. Lig|2025–26]]
+| nextseason = 2027–28
+| updated = 
+}}
+The '''2026–27 [[TFF Second League]]''' is the 26th season of the third-level [[Association football|football]] league of [[Turkey]] since the league was established in 2001. It will begin on 5 September 2026. The season is set to end in May 2027.<ref>{{cite web|access-date=24 March 2026 |date=6 March 2026 |language=tr |publisher=[[Turkish Football Federation]] |title=Profesyonel Liglerde 2026-2027 Sezonu Başlangıç Tarihleri Belli Oldu |url=https://www.tff.org/default.aspx?pageID=204&ftxtID=49875}}</ref>
+
+==Teams==
+===Team changes===
+
+{| class="wikitable" style="width:100%;"
+|-
+!width="50%"| Promoted to [[2026–27 TFF 1. Lig]] !!width="50%"| Relegated from [[2025–26 TFF 1. Lig]]
+|- valign="top"
+|
+*[[Batman Petrolspor]]
+*[[Bursaspor]]
+*[[Mardin 1969 SK|Mardin 1969]]
+*[[Muğlaspor]]
+|
+*[[Serikspor]]
+*[[Sakaryaspor]]
+*[[Hatayspor]]
+*[[Adana Demirspor]]
+|-
+! Promoted from [[2025–26 TFF 3. Lig]] !! Relegated to [[2026–27 TFF 3. Lig]]
+|- valign="top"
+|
+*[[12 Bingölspor]]
+*[[İnegöl Kafkasspor]]
+*[[Kütahyaspor]]
+*[[Sebat Gençlikspor]]
+*
+*
+|
+*[[Adanaspor]]
+*[[Beykoz Anadoluspor]]
+*[[Bucaspor 1928]]
+*[[Karaman FK|Karaman]]
+*[[Kepezspor (1995)|Kepezspor]]
+*[[Yeni Malatyaspor]]
+*[[Yeni Mersin İdmanyurdu]]
+|}
+
+==White Group==
+=== Team information ===
+{{Location map+|Turkey|float=left|width=800|caption= Locations of '''2026–27 2. Lig White Group''' teams on the map of Turkey |places=
+{{Location map~|Turkey|lat=38.367866|long=34.033892|label=[[68 Aksaray Belediyespor|68 Aksaray]]|position=right}}
+{{Location map~|Turkey|lat=37.021616|long=35.327295|label=[[Adana Demirspor]]|position=bottom}}
+{{Location map~|Turkey|lat=38.845146|long=27.183545|label=[[Aliağa FK|Aliağa]]|position=top}}
+{{Location map~|Turkey|lat=39.940094|long=32.845681|label=[[Ankaraspor]]|position=right}}
+{{Location map~|Turkey|lat=41.217473|long=28.731745|label=[[Arnavutköy Belediyespor|Arnavutköy Bld.]]|position=left}}
+{{Location map~|Turkey|lat=41.159375|long=27.807084|label=[[Çorluspor 1947]]|position=right}}
+{{Location map~|Turkey|lat=38.672967|long=39.231949|label=[[Elazığspor]]|position=right}}
+{{Location map~|Turkey|lat=41.376389|long=33.77638|label=[[Kastamonuspor 1966|Kastamonuspor]]|position=right}}
+{{Location map~|Turkey|lat=40.785807|long=29.424469|label=[[Gebzespor|Gebze SK]]|position=right}}
+{{Location map~|Turkey|lat=36.595361|long=36.173305|label=[[Hatayspor]]|position=right}}
+{{Location map~|Turkey|lat=37.766762|long=30.546994|label=[[Isparta 32 SK|Isparta 32]]|position=top}}
+{{Location map~|Turkey|lat=40.018952|long=29.535205|label=[[İnegöl Kafkas SK|İnegöl Kafkas]]|position=right}}
+{{Location map~|Turkey|lat=37.007817|long=38.984423|label=[[Şanlıurfaspor]]|position=right}}
+{{Location map~|Turkey|lat=38.425372|long=27.139684|label=[[Menemen FK|Menemen]]|position=bottom}}
+{{Location map~|Turkey|lat=40.6737887|long=36.5577403|label=[[Erbaaspor]]|position=right}}
+{{Location map~|Turkey|lat=38.726542|long=41.493367|label=[[Muşspor]]|position=right}}
+{{Location map~|Turkey|lat=40.985287|long=39.763502|label=[[Sebat Gençlikspor|Sebat Gençlik]]|position=right}}
+{{Location map~|Turkey|lat=39.144706|long=27.618603|label=[[Somaspor]]|position=right}}
+}}
+{{Clear}}
+=== League table ===
+
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=White Group
+|update=31 October 2026
+|source=[https://www.haberler.com/spor/nesine-2-lig-de-8-hafta-sona-erdi-aliaga-futbol-20364615-haberi/ Haberler.com (AA)] [https://www.weltfussball.com/wettbewerb/co3515/tuerkei-2-lig-beyaz/se125380/2026-2027/ro328600/spieltag/md33/ergebnisse-und-tabellen/ Weltfussball]
+
+<!--Update team positions here-->
+|team_order = MUS, ALI, ELA, GGE, IKG, ŞAN, COR, I32, ERB, MEN, 68A, ANK, SOM, SGE, KST, ARN, HAT, ADS
+
+<!--Update team results and positions here. Don't forget to update the date (update parameter)-->
+|win_ALI= 7 |draw_ALI= 0 |loss_ALI= 1 |gf_ALI= 17 |ga_ALI= 11
+|win_ELA= 6 |draw_ELA= 1 |loss_ELA= 1 |gf_ELA= 22 |ga_ELA= 7
+|win_MUS= 7 |draw_MUS= 1 |loss_MUS= 1 |gf_MUS= 29 |ga_MUS= 13
+|win_GGE= 5 |draw_GGE= 3 |loss_GGE= 0 |gf_GGE= 14 |ga_GGE= 6
+|win_IKG= 5 |draw_IKG= 1 |loss_IKG= 2 |gf_IKG= 14 |ga_IKG= 9
+|win_ŞAN= 4 |draw_ŞAN= 3 |loss_ŞAN= 1 |gf_ŞAN= 16 |ga_ŞAN= 11
+|win_COR= 4 |draw_COR= 2 |loss_COR= 2 |gf_COR= 15 |ga_COR= 9
+|win_I32= 3 |draw_I32= 2 |loss_I32= 3 |gf_I32= 16 |ga_I32= 16
+|win_ERB= 3 |draw_ERB= 1 |loss_ERB= 4 |gf_ERB= 17 |ga_ERB= 15
+|win_MEN= 3 |draw_MEN= 1 |loss_MEN= 4 |gf_MEN= 8 |ga_MEN= 10
+|win_68A= 2 |draw_68A= 3 |loss_68A= 3 |gf_68A= 13 |ga_68A= 11
+|win_ANK= 3 |draw_ANK= 0 |loss_ANK= 5 |gf_ANK= 11 |ga_ANK= 13
+|win_SOM= 2 |draw_SOM= 1 |loss_SOM= 4 |gf_SOM= 10 |ga_SOM= 16
+|win_SGE= 1 |draw_SGE= 2 |loss_SGE= 4 |gf_SGE= 11 |ga_SGE= 15
+|win_KST= 2 |draw_KST= 1 |loss_KST= 5 |gf_KST= 7 |ga_KST= 21
+|win_ARN= 0 |draw_ARN= 0 |loss_ARN= 8 |gf_ARN= 4 |ga_ARN= 19
+|win_HAT= 1 |draw_HAT= 1 |loss_HAT= 6 |gf_HAT= 4 |ga_HAT= 14
+|win_ADS= 2 |draw_ADS= 1 |loss_ADS= 6 |gf_ADS= 7 |ga_ADS= 19
+
+<!--Head-to-head-->
+
+<!--Status-->
+
+<!--Team definitions (wikilinks in table)-->
+|name_ALI = [[Aliağa FK|Aliağa]]
+|name_ELA = [[Elazığspor]]
+|name_MUS = [[Muşspor]]
+|name_GGE = [[Güzide Gebzespor]]
+|name_IKG = [[İnegöl Kafkasspor]]
+|name_ŞAN = [[Şanlıurfaspor]]
+|name_COR = [[Çorluspor 1947]]
+|name_I32 = [[Isparta 32 SK|Isparta 32]]
+|name_ERB = [[Erbaaspor]]
+|name_MEN = [[Menemen F.K.|Menemen]]
+|name_68A = [[68 Aksaray Belediyespor]]
+|name_ANK = [[Ankaraspor]]
+|name_SOM = [[Somaspor]]
+|name_SGE = [[Sebatspor]]
+|name_KST = [[Kastamonuspor 1966|Kastamonuspor]]
+|name_ARN = [[Arnavutköy Belediyespor]]
+|name_HAT = [[Hatayspor]]
+|name_ADS = [[Adana Demirspor]]
+
+<!--Notes-->
+|note_ADS=[[Adana Demirspor]] have been deducted 51 points.
+|note_HAT=[[Hatayspor]] have been deducted 9 points.
+|note_KST=[[Kastamonuspor 1966|Kastamonuspor]] have been deducted 3 points.
+|note_ARN=[[Arnavutköy Belediyespor]] have been deducted 3 points.
+
+<!--Table settings and rules-->
+|show_limit=5
+|class_rules=1) Points; 2) Head-to-head points; 3) Head-to-head goal difference; 4) Head-to-head goals scored; 5) Goal difference; 6) Goals scored
+
+<!--Point deductions-->
+|adjust_points_ADS=-51
+|adjust_points_HAT=-9
+|adjust_points_KST=-3
+|adjust_points_ARN=-3
+
+<!--Update team qualifications here (defined below)-->
+|result1=PROM |result2=PO |result3=PO |result4=PO |result5=PO |result16=REL |result17=REL |result18=REL
+
+<!--Qualification and relegation column definitions-->
+|res_col_header=QR
+|col_PROM=green1 |text_PROM=Promotion to [[2027–28 TFF 1. Lig|TFF 1. Lig]]
+|col_PO=blue1 |text_PO=Qualification for [[2026–27 TFF 2. Lig#Promotion Playoffs|promotion play-offs]]
+|col_REL=red1 |text_REL=Relegation to [[2027–28 TFF 3. Lig|TFF 3. Lig]]
+}}</onlyinclude>
+
+=== Results ===
+{{#invoke:Sports results|main
+| source = [http://www.tff.org/Default.aspx?pageID=976 TFF]
+| matches_style = FBR |team_align=left |solid_cell=grey
+|update=13 September 2026
+
+|match_68A_ADS= |match_68A_ALİ= |match_68A_ANK= |match_68A_ARV= |match_68A_ÇOR= |match_68A_ELA= |match_68A_KAS=3–0 |match_68A_GEB= |match_68A_HAT= |match_68A_ISP= |match_68A_İKG= |match_68A_ŞAN= |match_68A_MEN= |match_68A_ERB= |match_68A_MUŞ= |match_68A_SEB= |match_68A_SOM=
+|match_ADS_ALİ= |match_ADS_ANK= |match_ADS_ARV= |match_ADS_ÇOR= |match_ADS_KAS= |match_ADS_GEB= |match_ADS_HAT= |match_ADS_ISP= |match_ADS_İKG= |match_ADS_ŞAN= |match_ADS_MEN= |match_ADS_ELA=0–2 |match_ADS_MUŞ= |match_ADS_SEB= |match_ADS_SOM=
+|match_ALİ_ANK= |match_ALİ_ARV= |match_ALİ_ÇOR= |match_ALİ_ELA= |match_ALİ_KAS= |match_ALİ_GEB= |match_ALİ_HAT= |match_ALİ_İKG= |match_ALİ_ŞAN= |match_ALİ_MEN= |match_ALİ_ERB= |match_ALİ_ISP=2–0 |match_ALİ_SEB= |match_ALİ_SOM=
+|match_ANK_ARV= |match_ANK_ÇOR= |match_ANK_ELA= |match_ANK_KAS= |match_ANK_GEB= |match_ANK_HAT= |match_ANK_ISP= |match_ANK_İKG= |match_ANK_ŞAN= |match_ANK_MEN= |match_ANK_ERB=2–1 |match_ANK_SEB= |match_ANK_SOM=
+|match_ARV_ALİ=1–4 |match_ARV_ÇOR= |match_ARV_ELA= |match_ARV_KAS= |match_ARV_GEB= |match_ARV_HAT= |match_ARV_ISP= |match_ARV_İKG= |match_ARV_ŞAN= |match_ARV_MEN= |match_ARV_ERB= |match_ARV_MUŞ= |match_ARV_SEB= |match_ARV_SOM=
+|match_ÇOR_ELA= |match_ÇOR_KAS= |match_ÇOR_GEB= |match_ÇOR_HAT=0–0 |match_ÇOR_ISP= |match_ÇOR_İKG= |match_ÇOR_ŞAN= |match_ÇOR_MEN= |match_ÇOR_ERB= |match_ÇOR_MUŞ= |match_ÇOR_SEB= |match_ÇOR_SOM=
+|match_ELA_KAS= |match_ELA_GEB= |match_ELA_HAT= |match_ELA_ISP= |match_ELA_İKG= |match_ELA_ŞAN= |match_ELA_MEN= |match_ELA_ERB= |match_ELA_MUŞ= |match_ELA_SEB=3–1 |match_ELA_SOM=
+|match_KAS_ÇOR=0–5 |match_KAS_HAT= |match_KAS_ISP= |match_KAS_İKG= |match_KAS_ŞAN= |match_KAS_MEN= |match_KAS_ERB= |match_KAS_MUŞ= |match_KAS_SEB= |match_KAS_SOM=
+|match_GEB_ARV=1–0 |match_GEB_ISP= |match_GEB_İKG= |match_GEB_ŞAN= |match_GEB_MEN= |match_GEB_ERB= |match_GEB_MUŞ= |match_GEB_SEB= |match_GEB_SOM=
+|match_HAT_GEB=0–2 |match_HAT_İKG= |match_HAT_ŞAN= |match_HAT_MEN= |match_HAT_ERB= |match_HAT_MUŞ= |match_HAT_SEB= |match_HAT_SOM=
+|match_ISP_ADS=1–2 |match_ISP_İKG= |match_ISP_ŞAN= |match_ISP_MEN= |match_ISP_ERB= |match_ISP_MUŞ= |match_ISP_SEB= |match_ISP_SOM=
+|match_İKG_ŞAN= |match_İKG_MEN= |match_İKG_ERB= |match_İKG_MUŞ= |match_İKG_SEB= |match_İKG_SOM=1–3
+|match_ŞAN_ANK=1–0  |match_ŞAN_MEN= |match_ŞAN_ERB= |match_ŞAN_MUŞ= |match_ŞAN_SEB= |match_ŞAN_SOM=
+|match_MEN_ERB= |match_MEN_İKG=1–3  |match_MEN_MUŞ= |match_MEN_SEB= |match_MEN_SOM=
+|match_ERB_MUŞ=4–4 |match_ERB_SEB= |match_ERB_SOM=
+|match_MUŞ_MEN=4–0 |match_MUŞ_SOM=
+|match_SEB_ŞAN=3–3
+|match_SOM_68A=3–3
+
+|team1= 68A |name_68A = [[68 Aksaray Belediyespor|68 Aksaray]]
+|team2= ADS |name_ADS = [[Adana Demirspor]]
+|team3= ALİ |name_ALİ = [[Aliağa FK|Aliağa]]
+|team4= ANK |name_ANK = [[Ankaraspor]]
+|team5= ARV |name_ARV = [[Arnavutköy Belediyespor|Arnavutköy Belediye]]
+|team6= ÇOR |name_ÇOR = [[Çorluspor 1947]]
+|team7= ELA |name_ELA = [[Elazığspor]]
+|team8= KAS |name_KAS = [[Kastamonuspor 1966|Kastamonuspor]]
+|team9= GEB |name_GEB = [[Gebzespor|Gebze SK]]
+|team10=HAT |name_HAT = [[Hatayspor]]
+|team11=ISP |name_ISP = [[Isparta 32 SK|Isparta 32]]
+|team12=İKG |name_İKG = [[İnegöl Kafkas SK|İnegöl Kafkas]]
+|team13=ŞAN |name_ŞAN = [[Şanlıurfaspor]]
+|team14=MEN |name_MEN = [[Menemen FK|Menemen]]
+|team15=ERB |name_ERB = [[Erbaaspor]]
+|team16=MUŞ |name_MUŞ = [[Muşspor]]
+|team17=SEB |name_SEB = [[Sebat Gençlikspor|Sebat Gençlik]]
+|team18=SOM |name_SOM = [[Somaspor]]
+}}
+
+=== Positions by round ===
+{{small|'''Notes''':The table will be adjusted retrospectively after the postponed match(es) have been played.}}
+{{#invoke:Sports rbr table|table|sortable=y|legendpos=bl
+|update=future
+|team1 =68A |pos_68A= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team2 =ADS |pos_ADS= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team3 =ALİ |pos_ALİ= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team4 =ANK |pos_ANK= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team5 =ARV |pos_ARV= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team6 =ÇOR |pos_ÇOR= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team7 =ELA |pos_ELA= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team8 =KAS |pos_KAS= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team9 =GEB |pos_GEB= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team10=HAT |pos_HAT= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team11=ISP |pos_ISP= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team12=İKG |pos_İKG= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team13=ŞAN |pos_ŞAN= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team14=MEN |pos_MEN= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team15=ERB |pos_ERB= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team16=MUŞ |pos_MUŞ= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team17=SEB |pos_SEB= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team18=SOM |pos_SOM= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+
+|name_68A = [[68 Aksaray Belediyespor|68 Aksaray]]
+|name_ADS = [[Adana Demirspor]]
+|name_ALİ = [[Aliağa FK|Aliağa]]
+|name_ANK = [[Ankaraspor]]
+|name_ARV = [[Arnavutköy Belediyespor|Arnavutköy Belediye]]
+|name_ÇOR = [[Çorluspor 1947]]
+|name_ELA = [[Elazığspor]]
+|name_KAS = [[Kastamonuspor 1966|Kastamonuspor]]
+|name_GEB = [[Gebzespor|Gebze SK]]
+|name_HAT = [[Hatayspor]]
+|name_ISP = [[Isparta 32 SK|Isparta 32]]
+|name_İKG = [[İnegöl Kafkas SK|İnegöl Kafkas]]
+|name_ŞAN = [[Şanlıurfaspor]]
+|name_MEN = [[Menemen FK|Menemen]]
+|name_ERB = [[Erbaaspor]]
+|name_MUŞ = [[Muşspor]]
+|name_SEB = [[Sebat Gençlikspor|Sebat Gençlik]]
+|name_SOM = [[Somaspor]]
+
+| color_1 = green1|text_1=[[1. Lig|2027–28 1. Lig]]
+| color_2-5 = blue1|text_2-5=[[#Play-off|Play-off]]
+| color_16- = red1|text_16-=[[3. Lig|2027–28 3. Lig]]
+|source=[http://www.tff.org/Default.aspx?pageID=976&grupID=1622#hmac TFF]
+}}
+
+==Red Group==
+=== Team information ===
+{{Location map+|Turkey|float=left|width=800|caption= Locations of '''2026–27 2. Lig Red Group''' teams on the map of Turkey |places=
+{{Location map~|Turkey|lat=38.8941962|long=40.5004685|label=[[12 Bingölspor]]|position=bottom}}
+{{Location map~|Turkey|lat=41.107986 |long=39.476312|label=[[1461 Trabzon FK|1461 Trabzon]]|position=right}}
+{{Location map~|Turkey|lat=40.935096|long=37.877198|label=[[52 Orduspor]]|position=left}}
+{{Location map~|Turkey|lat=37.021616|long=35.327295|label=[[Adana 01 FK|Adana 01]]|position=top}}
+{{Location map~|Turkey|lat=38.422556 |long=27.033484|label=[[Altınordu FK|Altınordu]]|position=bottom}}
+{{Location map~|Turkey|lat=39.970964|long=32.96505|label=[[Ankara Demirspor]]|position=top}}
+{{Location map~|Turkey|lat=41.218920|long=28.882942|label=[[Beyoğlu Yeni Çarşı SF|Beyoğlu Yeni Çarşı]]|position=right}}
+{{Location map~|Turkey|lat=39.908952|long=38.90182|label=[[Erzincanspor (1984)|Erzincanspor]]|position=right}}
+{{Location map~|Turkey|lat=36.507817 |long=29.204423|label=[[Fethiyespor]]|position=right}}
+{{Location map~|Turkey|lat=40.018952 |long=29.535205|label=[[İnegölspor]]|position=right}}
+{{Location map~|Turkey|lat=36.95     |long=36.183333|label=[[İskenderunspor (1978)|İskenderunspor]]|position=right}}
+{{Location map~|Turkey|lat=37.807817 |long=36.684423|label=[[Kahramanmaraş İstiklalspor]]|position=right}}
+{{Location map~|Turkey|lat=40.216667|long=28.35|label=[[Karacabey Belediyespor]]|position=left}}
+{{Location map~|Turkey|lat=41.685279 |long=27.232942|label=[[Kırklarelispor]]|position=top}}
+{{Location map~|Turkey|lat=39.4183|long=29.9917|label=[[Kütahyaspor]]|position=bottom}}
+{{Location map~|Turkey|lat=39.940094 |long=32.845681|label=[[MKE Ankaragücü|MKE Ankaragücü]]|position=left}}
+{{Location map~|Turkey|lat=40.7793   |long=30.4013   |label=[[Sakaryaspor]]|position=right}}
+{{Location map~|Turkey|lat=36.9174   |long=31.1044   |label=[[Serikspor]]|position=top}}
+}}
+{{Clear}}
+=== League table ===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Red Group
+|update= 1 November 2026
+|source=[https://www.ajans344.com/spor/tff-2-lig-kirmizi-grupta-8-haftanin-mac-sonuclari/411223 Ajans344] [https://www.superkanaltv.com/2-ligde-gol-yagmuru-beyaz-ve-kirmizi-grupta-8-hafta-sonuclari Süper Kanal TV] [https://www.egealternatif.com/haber/sakaryaspor-evinde-erzincanspor-a-yenildi_98813/ Ege Alternatif] [https://footballnation.eu/match/tff-2-lig/2026/804280/ Football Nation]
+
+<!--Update team positions here-->
+|team_order = SAK, 52O, A01, AND, ERC, 61T, KIS, KRC, BYC, 12B, KUT, AGU, KRK, FET, INE, SER, ISK, ATO
+
+<!--Update team results and positions here. Don't forget to update the date (update parameter)-->
+|win_52O= 6 |draw_52O= 0 |loss_52O= 2 |gf_52O= 19 |ga_52O= 9
+|win_61T= 3 |draw_61T= 3 |loss_61T= 2 |gf_61T= 16 |ga_61T= 13
+|win_12B= 2 |draw_12B= 4 |loss_12B= 2 |gf_12B= 9 |ga_12B= 9
+|win_A01= 5 |draw_A01= 2 |loss_A01= 1 |gf_A01= 17 |ga_A01= 11
+|win_AND= 5 |draw_AND= 1 |loss_AND= 2 |gf_AND= 25 |ga_AND= 11
+|win_BYC= 3 |draw_BYC= 1 |loss_BYC= 3 |gf_BYC= 15 |ga_BYC= 12
+|win_ERC= 4 |draw_ERC= 3 |loss_ERC= 0 |gf_ERC= 15 |ga_ERC= 9
+|win_FET= 1 |draw_FET= 2 |loss_FET= 4 |gf_FET= 6 |ga_FET= 12
+|win_INE= 1 |draw_INE= 2 |loss_INE= 4 |gf_INE= 8 |ga_INE= 13
+|win_ISK= 0 |draw_ISK= 1 |loss_ISK= 6 |gf_ISK= 5 |ga_ISK= 24
+|win_KIS= 3 |draw_KIS= 2 |loss_KIS= 3 |gf_KIS= 11 |ga_KIS= 11
+|win_KRC= 3 |draw_KRC= 2 |loss_KRC= 2 |gf_KRC= 9 |ga_KRC= 12
+|win_KRK= 1 |draw_KRK= 2 |loss_KRK= 4 |gf_KRK= 6 |ga_KRK= 11
+|win_KUT= 2 |draw_KUT= 1 |loss_KUT= 5 |gf_KUT= 10 |ga_KUT= 17
+|win_AGU= 2 |draw_AGU= 3 |loss_AGU= 2 |gf_AGU= 13 |ga_AGU= 9
+|win_SAK= 6 |draw_SAK= 1 |loss_SAK= 1 |gf_SAK= 18 |ga_SAK= 10
+|win_SER= 1 |draw_SER= 2 |loss_SER= 5 |gf_SER= 6 |ga_SER= 15
+
+<!--Head-to-head-->
+
+<!--Status-->
+|status_ATO=R
+
+<!--Team definitions (wikilinks in table)-->
+|name_12B = [[12 Bingölspor]]
+|name_61T = [[1461 Trabzon F.K.|1461 Trabzon]]
+|name_52O = [[52 Orduspor]]
+|name_A01 = [[Adana 01 FK|Adana 01]]
+|name_AND = [[Ankara Demirspor]]
+|name_BYC = [[Beyoğlu Yeni Çarşı S.F.|Beyoğlu Yeni Çarşı]]
+|name_ERC = [[Erzincanspor (1984)|Erzincanspor]]
+|name_FET = [[Fethiyespor]]
+|name_INE = [[İnegölspor]]
+|name_ISK = [[İskenderunspor (1978)|İskenderunspor]]
+|name_KIS = [[Kahramanmaraş İstiklalspor]]
+|name_KRC = [[Karacabey Belediyespor]]
+|name_KRK = [[Kırklarelispor]]
+|name_KUT = [[Kütahyaspor]]
+|name_AGU = [[MKE Ankaragücü|Ankaragücü]]
+|name_SAK = [[Sakaryaspor]]
+|name_SER = [[Serikspor]]
+|name_ATO = [[Altınordu F.K.|Altınordu]]
+
+<!--Notes-->
+|note_ATO=Altınordu were relegated by the Turkish Football Federation following the club's withdrawal from the league.
+|note_AGU=[[MKE Ankaragücü]] have been deducted 3 points.
+|note_SER=[[Serikspor]] have been deducted 3 points.
+|note_INE=[[İnegölspor]] have been deducted 3 points.
+|note_ISK=[[İskenderunspor (1978)|İskenderunspor]] have been deducted 3 points.
+
+<!--Table settings and rules-->
+|show_limit=5
+|class_rules=1) Points; 2) Head-to-head points; 3) Head-to-head goal difference; 4) Head-to-head goals scored; 5) Goal difference; 6) Goals scored
+
+<!--Point deductions-->
+|adjust_points_AGU=-3
+|adjust_points_SER=-3
+|adjust_points_INE=-3
+|adjust_points_ISK=-3
+
+<!--Update team qualifications here (defined below)-->
+|result1=PROM |result2=PO |result3=PO |result4=PO |result5=PO |result14=REL |result15=REL |result16=REL |result17=REL
+
+<!--Qualification and relegation column definitions-->
+|res_col_header=QR
+|col_PROM=green1 |text_PROM=Promotion to [[2027–28 TFF 1. Lig|TFF 1. Lig]]
+|col_PO=blue1 |text_PO=Qualification for [[2026–27 TFF 2. Lig#Promotion Playoffs|promotion play-offs]]
+|col_REL=red1 |text_REL=Relegation to [[2027–28 TFF 3. Lig|TFF 3. Lig]]
+}}</onlyinclude>
+
+=== Results ===
+{{#invoke:Sports results|main
+| source = [http://www.tff.org/Default.aspx?pageID=976 TFF]
+| matches_style = FBR |team_align=left |solid_cell=grey
+|update=future |start_date=5 September 2026
+
+<!-- 2026-27 White Group Teams -->
+|team1= 68A |name_68A = [[68 Aksaray Belediyespor|68 Aksaray]]
+|team2= ADS |name_ADS = [[Adana Demirspor]]
+|team3= ALİ |name_ALİ = [[Aliağa FK|Aliağa]]
+|team4= ANK |name_ANK = [[Ankaraspor]]
+|team5= ARN |name_ARN = [[Arnavutköy Belediyespor|Arnavutköy Belediye]]
+|team6= ÇOR |name_ÇOR = [[Çorluspor 1947]]
+|team7= ELA |name_ELA = [[Elazığspor]]
+|team8= ERB |name_ERB = [[Erbaaspor]]
+|team9= GGE |name_GGE = [[Güzide Gebzespor|Gebze SK]]
+|team10=HAT |name_HAT = [[Hatayspor]]
+|team11=I32 |name_I32 = [[Isparta 32 SK|Isparta 32]]
+|team12=İKG |name_İKG = [[İnegöl Kafkas SK|İnegöl Kafkas]]
+|team13=KST |name_KST = [[Kastamonuspor 1966|Kastamonuspor]]
+|team14=MEN |name_MEN = [[Menemen FK|Menemen]]
+|team15=MUŞ |name_MUŞ = [[Muşspor (2015)|Muşspor]]
+|team16=SEB |name_SEB = [[Sebat Gençlikspor|Sebat Gençlik]]
+|team17=SOM |name_SOM = [[Somaspor]]
+|team18=ŞAN |name_ŞAN = [[Şanlıurfaspor]]
+
+<!-- All match result fields are empty as the season has not started -->
+|match_68A_ADS= |match_68A_ALİ= |match_68A_ANK= |match_68A_ARN= |match_68A_ÇOR= |match_68A_ELA= |match_68A_ERB= |match_68A_GGE= |match_68A_HAT= |match_68A_I32= |match_68A_İKG= |match_68A_KST= |match_68A_MEN= |match_68A_MUŞ= |match_68A_SEB= |match_68A_SOM= |match_68A_ŞAN=
+|match_ADS_ALİ= |match_ADS_ANK= |match_ADS_ARN= |match_ADS_ÇOR= |match_ADS_ELA= |match_ADS_ERB= |match_ADS_GGE= |match_ADS_HAT= |match_ADS_I32= |match_ADS_İKG= |match_ADS_KST= |match_ADS_MEN= |match_ADS_MUŞ= |match_ADS_SEB= |match_ADS_SOM= |match_ADS_ŞAN=
+|match_ALİ_ANK= |match_ALİ_ARN= |match_ALİ_ÇOR= |match_ALİ_ELA= |match_ALİ_ERB= |match_ALİ_GGE= |match_ALİ_HAT= |match_ALİ_I32= |match_ALİ_İKG= |match_ALİ_KST= |match_ALİ_MEN= |match_ALİ_MUŞ= |match_ALİ_SEB= |match_ALİ_SOM= |match_ALİ_ŞAN=
+|match_ANK_ARN= |match_ANK_ÇOR= |match_ANK_ELA= |match_ANK_ERB= |match_ANK_GGE= |match_ANK_HAT= |match_ANK_I32= |match_ANK_İKG= |match_ANK_KST= |match_ANK_MEN= |match_ANK_MUŞ= |match_ANK_SEB= |match_ANK_SOM= |match_ANK_ŞAN=
+|match_ARN_ÇOR= |match_ARN_ELA= |match_ARN_ERB= |match_ARN_GGE= |match_ARN_HAT= |match_ARN_I32= |match_ARN_İKG= |match_ARN_KST= |match_ARN_MEN= |match_ARN_MUŞ= |match_ARN_SEB= |match_ARN_SOM= |match_ARN_ŞAN=
+|match_ÇOR_ELA= |match_ÇOR_ERB= |match_ÇOR_GGE= |match_ÇOR_HAT= |match_ÇOR_I32= |match_ÇOR_İKG= |match_ÇOR_KST= |match_ÇOR_MEN= |match_ÇOR_MUŞ= |match_ÇOR_SEB= |match_ÇOR_SOM= |match_ÇOR_ŞAN=
+|match_ELA_ERB= |match_ELA_GGE= |match_ELA_HAT= |match_ELA_I32= |match_ELA_İKG= |match_ELA_KST= |match_ELA_MEN= |match_ELA_MUŞ= |match_ELA_SEB= |match_ELA_SOM= |match_ELA_ŞAN=
+|match_ERB_GGE= |match_ERB_HAT= |match_ERB_I32= |match_ERB_İKG= |match_ERB_KST= |match_ERB_MEN= |match_ERB_MUŞ= |match_ERB_SEB= |match_ERB_SOM= |match_ERB_ŞAN=
+|match_GGE_HAT= |match_GGE_I32= |match_GGE_İKG= |match_GGE_KST= |match_GGE_MEN= |match_GGE_MUŞ= |match_GGE_SEB= |match_GGE_SOM= |match_GGE_ŞAN=
+|match_HAT_I32= |match_HAT_İKG= |match_HAT_KST= |match_HAT_MEN= |match_HAT_MUŞ= |match_HAT_SEB= |match_HAT_SOM= |match_HAT_ŞAN=
+|match_I32_İKG= |match_I32_KST= |match_I32_MEN= |match_I32_MUŞ= |match_I32_SEB= |match_I32_SOM= |match_I32_ŞAN=
+|match_İKG_KST= |match_İKG_MEN= |match_İKG_MUŞ= |match_İKG_SEB= |match_İKG_SOM= |match_İKG_ŞAN=
+|match_KST_MEN= |match_KST_MUŞ= |match_KST_SEB= |match_KST_SOM= |match_KST_ŞAN=
+|match_MEN_MUŞ= |match_MEN_SEB= |match_MEN_SOM= |match_MEN_ŞAN=
+|match_MUŞ_SEB= |match_MUŞ_SOM= |match_MUŞ_ŞAN=
+|match_SEB_SOM= |match_SEB_ŞAN=
+|match_SOM_ŞAN=
+}}
+=== Positions by round ===
+{{small|'''Notes''':The table will be adjusted retrospectively after the postponed match(es) have been played.}}
+
+{{#invoke:Sports rbr table|table|sortable=y|legendpos=bl
+|update=future|start_date=5 September 2026
+|team1 =68A |pos_68A= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team2 =ADS |pos_ADS= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team3 =ALİ |pos_ALİ= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team4 =ANK |pos_ANK= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team5 =ARN |pos_ARN= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team6 =ÇOR |pos_ÇOR= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team7 =ELA |pos_ELA= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team8 =ERB |pos_ERB= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team9 =GGE |pos_GGE= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team10=HAT |pos_HAT= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team11=I32 |pos_I32= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team12=İKG |pos_İKG= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team13=KST |pos_KST= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team14=MEN |pos_MEN= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team15=MUŞ |pos_MUŞ= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team16=SEB |pos_SEB= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team17=SOM |pos_SOM= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+|team18=ŞAN |pos_ŞAN= / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+
+|name_68A = [[68 Aksaray Belediyespor|68 Aksaray]]
+|name_ADS = [[Adana Demirspor]]
+|name_ALİ = [[Aliağa FK|Aliağa]]
+|name_ANK = [[Ankaraspor]]
+|name_ARN = [[Arnavutköy Belediyespor|Arnavutköy Belediye]]
+|name_ÇOR = [[Çorluspor 1947]]
+|name_ELA = [[Elazığspor]]
+|name_ERB = [[Erbaaspor]]
+|name_GGE = [[Güzide Gebzespor|Gebze SK]]
+|name_HAT = [[Hatayspor]]
+|name_I32 = [[Isparta 32 SK|Isparta 32]]
+|name_İKG = [[İnegöl Kafkas SK|İnegöl Kafkas]]
+|name_KST = [[Kastamonuspor 1966|Kastamonuspor]]
+|name_MEN = [[Menemen FK|Menemen]]
+|name_MUŞ = [[Muşspor (2015)|Muşspor]]
+|name_SEB = [[Sebat Gençlikspor|Sebat Gençlik]]
+|name_SOM = [[Somaspor]]
+|name_ŞAN = [[Şanlıurfaspor]]
+
+| color_1 = green1|text_1=[[1. Lig|2027–28 1. Lig]]
+| color_2-5 = blue1|text_2-5=[[#Play-off|Play-off]]
+| color_16- = red1|text_16-=[[3. Lig|2027–28 3. Lig]]
+|source=[http://www.tff.org/Default.aspx?pageID=976 TFF]
+}}
+
+==Promotion Playoffs==
+===Bracket===
+{{#invoke:Build bracket|main
+| rounds=2
+| legs = 2
+| RD2-legs = 1
+| aggregate = y
+| nowrap = yes
+| boldwinner = yes
+
+| col1-headers = 1
+| col2-headers = 1
+| col1-matches = 3,6,9,12
+| col2-matches = 4.5,10.5
+| col1-col2-paths = (3,6)-4.5,(9,12)-10.5
+| col2-col3-paths = (4.5,10.5)-7.5
+
+| RD1 = Semifinals
+| RD2 = Finals
+| RD1-text2 = {{center|'''White Group'''}}
+| RD1-text4 = {{center|'''Red Group'''}}
+
+| RD1-seed1   = W5
+| RD1-team1   = TBD (White Group 5th)
+| RD1-score1-1 = 
+| RD1-score1-2 = 
+| RD1-score1-agg = 
+| RD1-seed2   = W2
+| RD1-team2   = TBD (White Group 2nd)
+| RD1-score2-1= 
+| RD1-score2-2= 
+| RD1-score2-agg = 
+
+| RD1-seed3   = W4
+| RD1-team3   = TBD (White Group 4th)
+| RD1-score3-1 = 
+| RD1-score3-2 = 
+| RD1-score3-agg = 
+| RD1-seed4   = W3
+| RD1-team4   = TBD (White Group 3rd)
+| RD1-score4-1= 
+| RD1-score4-2= 
+| RD1-score4-agg = 
+
+| RD1-seed5   = R5
+| RD1-team5   = TBD (Red Group 5th)
+| RD1-score5-1 = 
+| RD1-score5-2 = 
+| RD1-score5-agg = 
+| RD1-seed6   = R2
+| RD1-team6   = TBD (Red Group 2nd)
+| RD1-score6-1= 
+| RD1-score6-2= 
+| RD1-score6-agg = 
+
+| RD1-seed7   = R4
+| RD1-team7   = TBD (Red Group 4th)
+| RD1-score7-1 = 
+| RD1-score7-2 = 
+| RD1-score7-agg = 
+| RD1-seed8   = R3
+| RD1-team8   = TBD (Red Group 3rd)
+| RD1-score8-1= 
+| RD1-score8-2= 
+| RD1-score8-agg = 
+
+| RD2-seed1 = 
+| RD2-team1   = Winner Semifinal 1
+| RD2-score1 = 
+| RD2-seed2   = 
+| RD2-team2   = Winner Semifinal 2
+| RD2-score2= 
+
+| RD2-seed3 = 
+| RD2-team3   = Winner Semifinal 3
+| RD2-score3 = 
+| RD2-seed4   = 
+| RD2-team4   = Winner Semifinal 4
+| RD2-score4 = 
+}}
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{in lang|tr}} [https://www.tff.org/default.aspx?pageID=976 Turkish Football Federation TFF Second League]
+
+{{TFF Second League seasons}}
+{{2026–27 in Turkish football}}
+
+{{DEFAULTSORT:2026-27 TFF Second League}}
+[[Category:2026–27 in European third-tier association football leagues|Turkey]]
+[[Category:TFF 2. Lig seasons]]
+[[Category:2026–27 in Turkish football]]

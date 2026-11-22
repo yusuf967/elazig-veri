@@ -1,0 +1,4 @@
+# Üretilen JSON'lar main'e girmez; Actions onları gh-pages dalında tutar ve iş akışı oradan geri çeker
+# (main'de de olursa checkout veri/public klasörüyle çakışır). Yerel örnekler diskte kalır.
+public/
+*.tmp

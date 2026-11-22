@@ -1,0 +1,19 @@
+{
+  "name": "elazig-veri",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Elazığ şehir uygulaması için sunucusuz veri katmanı: GitHub Actions ile toplanıp GitHub Pages'te yayınlanan JSON dosyaları.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "hepsi": "node run-all.mjs",
+    "sik": "node run-all.mjs --grup sik",
+    "eczane": "node run-all.mjs --grup eczane",
+    "orta": "node run-all.mjs --grup orta",
+    "seyrek": "node run-all.mjs --grup seyrek",
+    "gunluk": "node run-all.mjs --grup gunluk",
+    "test": "node --test \"test/*.test.mjs\""
+  }
+}
