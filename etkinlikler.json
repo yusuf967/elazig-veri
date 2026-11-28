@@ -1,0 +1,309 @@
+{
+ "guncelleme": "2026-11-27T21:41:48.269Z",
+ "durum": "eski",
+ "plan": "A",
+ "kaynak": "Elazığ Belediyesi",
+ "kaynakUrl": "https://www.elazig.bel.tr/etkinlikler/",
+ "sonBasari": "2026-11-27T21:41:48.269Z",
+ "not": "gecmis=true olanlar tarihi geçmiş etkinliklerdir; belediye bu bölümü seyrek güncelliyor.",
+ "sonDeneme": "2026-11-28T08:30:33.863Z",
+ "ogeler": [
+  {
+   "id": 275,
+   "baslik": "Elazığlı Usta Yönetmen \"Süleyman Ağa Baydili\" Vefa Gecesi",
+   "tarih": "2026-05-12",
+   "yer": "Bünyamin Eroğlu Kültür ve Kongre Salonu",
+   "kategoriler": [
+    "Anma"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/elazigli-usta-yonetmen-suleyman-aga-baydili-vefa-gecesi/275/",
+   "gecmis": true
+  },
+  {
+   "id": 274,
+   "baslik": "Efsaneler Ölmez, Sahnede Yaşar",
+   "tarih": "2026-04-30",
+   "yer": "Bünyamin Eroğlu Kültür ve Kongre Merkezi",
+   "kategoriler": [
+    "Konser"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/efsaneler-olmez-sahnede-yasar/274/",
+   "gecmis": true
+  },
+  {
+   "id": 273,
+   "baslik": "Elazığ Belediyesi Ramazan Etkinlikleri",
+   "tarih": "2026-02-20",
+   "yer": "Ahmet Tevfik Ozan Fuar ve Kongre Merkezi",
+   "kategoriler": [
+    "Konser"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/elazig-belediyesi-ramazan-etkinlikleri/273/",
+   "gecmis": true
+  },
+  {
+   "id": 272,
+   "baslik": "Dünya Engelliler Farkındalık Günü",
+   "tarih": "2025-12-03",
+   "yer": "Ahmet Tevfik Ozan Fuar ve Kongre Merkezi",
+   "kategoriler": [
+    "Davet"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/dunya-engelliler-gunu/272/",
+   "gecmis": true
+  },
+  {
+   "id": 271,
+   "baslik": "Enstrüman Kursları",
+   "tarih": "2025-09-30",
+   "yer": "Elazığ Belediyesi Kültür ve Sosyal İşler Müdürlüğü",
+   "kategoriler": [
+    "Eğitim & Seminer"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/enstruman-kurslari/271/",
+   "gecmis": true
+  },
+  {
+   "id": 270,
+   "baslik": "Alzheimer Hastalığı, Hasta Bakımı ve Yönetiminde Yaşanan Zorluklar",
+   "tarih": "2025-09-18",
+   "yer": "Elazığ Belediyesi Kültür Sosyal İsler Müdürlüğü Kat:2",
+   "kategoriler": [
+    "Eğitim & Seminer"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/alzheimer-hastaligi-hasta-bakimi-ve-yonetiminde-yasanan-zorluklar/270/",
+   "gecmis": true
+  },
+  {
+   "id": 269,
+   "baslik": "Elazığ Belediyesi Gezici Tiyatro Şenliği Her Yerde",
+   "tarih": "2025-08-04",
+   "yer": "Her Mahallede Gezici Tiyatro Şenliği",
+   "kategoriler": [
+    "Eğlence"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/elazig-belediyesi-gezici-tiyatro-senligi-her-yerde/269/",
+   "gecmis": true
+  },
+  {
+   "id": 266,
+   "baslik": "Bayram Coşkusu Çocuk Festivali İle Taçlanıyor",
+   "tarih": "2025-03-31",
+   "yer": "Ahmet Tevfik Ozan Fuar ve Kongre Merkezi",
+   "kategoriler": [
+    "Eğlence"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/bayram-coskusu-cocuk-festivali-ile-taclaniyor/266/",
+   "gecmis": true
+  },
+  {
+   "id": 267,
+   "baslik": "Ramazan Etkinlikleri \"Ömer Demirbağ\"",
+   "tarih": "2025-03-26",
+   "yer": "Ahmet Tevfik Ozan Fuar ve Kongre Merkezi",
+   "kategoriler": [
+    "Söyleşi"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/ramazan-etkinlikleri-omer-demirbag/267/",
+   "gecmis": true
+  },
+  {
+   "id": 264,
+   "baslik": "Elazığ Kent Müzesi Açılıyor",
+   "tarih": "2024-10-29",
+   "yer": "15 Temmuz Demokrasi Meydanı (Eski Valilik Binası)",
+   "kategoriler": [
+    "Açılış"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/elazig-kent-muzesi-aciliyor/264/",
+   "gecmis": true
+  },
+  {
+   "id": 253,
+   "baslik": "Açık Hava Sineması",
+   "tarih": "2024-07-25",
+   "yer": "Hoca Hasan Hamam Müzesi",
+   "kategoriler": [
+    "Sinema"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/acik-hava-sinemasi/253/",
+   "gecmis": true
+  },
+  {
+   "id": 263,
+   "baslik": "Haydi Çocuklar Spora !",
+   "tarih": "2024-06-17",
+   "yer": "Kültür Park Spor Tesisleri",
+   "kategoriler": [
+    "Etkinlik"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/haydi-cocuklar-spora/263/",
+   "gecmis": true
+  },
+  {
+   "id": 257,
+   "baslik": "\"Gün Doğmadan\" Tiyatro Etkinliği",
+   "tarih": "2024-02-26",
+   "yer": "Elazığ Belediyesi Bünyamin Eroğlu Kültür ve Kongre Merkezi",
+   "kategoriler": [
+    "Tiyatro"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/gun-dogmadan-tiyatro-etkinligi/257/",
+   "gecmis": true
+  },
+  {
+   "id": 258,
+   "baslik": "\"Bir Sabah Gelecek Kardan Aydınık\" Tiyatro Etkinliği",
+   "tarih": "2024-02-08",
+   "yer": "Elazığ Belediyesi Bünyamin Eroğlu Kültür ve Kongre Merkezi",
+   "kategoriler": [
+    "Tiyatro"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/bir-sabah-gelecek-kardan-aydinik-tiyatro-etkinligi/258/",
+   "gecmis": true
+  },
+  {
+   "id": 260,
+   "baslik": "4. Elazığ Kitap Fuarı",
+   "tarih": "2023-10-28",
+   "yer": "Ahmet Tevfik Ozan Fuar ve Kongre Merkezi",
+   "kategoriler": [
+    "Kitap Fuarı"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/4-elazig-kitap-fuari/260/",
+   "gecmis": true
+  },
+  {
+   "id": 261,
+   "baslik": "Sema Ayin-i Şerif'i",
+   "tarih": "2023-10-20",
+   "yer": "Ahmet Tevfik Ozan Fuar ve Kongre Merkezi",
+   "kategoriler": [
+    "Etkinlik"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/sema-ayin-i-serif-i/261/",
+   "gecmis": true
+  },
+  {
+   "id": 262,
+   "baslik": "\"Hoca Hasan Hamam Müzesi\" Açılıyor",
+   "tarih": "2023-09-16",
+   "yer": "Harput Hoca Hasan Hamamı",
+   "kategoriler": [
+    "Açılış"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/hoca-hasan-hamam-muzesi-aciliyor/262/",
+   "gecmis": true
+  },
+  {
+   "id": 250,
+   "baslik": "Nihat Kazezoğlu’na Vefa etkinliği",
+   "tarih": "2023-06-20",
+   "yer": "Elazığ Belediyesi Bünyamin Eroğlu Kültür ve Kongre Merkezi",
+   "kategoriler": [
+    "Anma"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/nihat-kazezoglu-na-vefa-etkinligi/250/",
+   "gecmis": true
+  },
+  {
+   "id": 249,
+   "baslik": "Hanımeli El Sanatları Sergisi",
+   "tarih": "2023-05-05",
+   "yer": "Elazığ Belediyesi Ekonomi Geliştirme ve Eğitim Merkezi (EBEGEM)",
+   "kategoriler": [
+    "Sergi"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/hanimeli-el-sanatlari-sergisi/249/",
+   "gecmis": true
+  },
+  {
+   "id": 202,
+   "baslik": "Özel Çocuk Ailesi Olmak",
+   "tarih": "2022-09-21",
+   "yer": "Elazığ Belediyesi Engelsiz Yaşam Merkezi",
+   "kategoriler": [
+    "Söyleşi"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/ozel-cocuk-ailesi-olmak/202/",
+   "gecmis": true
+  },
+  {
+   "id": 190,
+   "baslik": "Cep Herkülü Naim Süleymanoğlu",
+   "tarih": "2022-08-10",
+   "yer": "Doğukent Mah. Muhtarlık Yanı",
+   "kategoriler": [
+    "Sinema"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/cep-herkulu-naim-suleymanoglu/190/",
+   "gecmis": true
+  },
+  {
+   "id": 173,
+   "baslik": "Mesut Kurtis Etkinliğine Davet",
+   "tarih": "2022-04-30",
+   "yer": "A. Tevfik Ozan Fuar ve Kongre Merkezi",
+   "kategoriler": [
+    "Ramazan Etkinlikleri"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/mesut-kurtis-etkinligine-davet/173/",
+   "gecmis": true
+  },
+  {
+   "id": 170,
+   "baslik": "Eşref Ziya Terzi Etkinliğine Davet",
+   "tarih": "2022-04-29",
+   "yer": "A. Tevfik Ozan Fuar ve Kongre Merkezi",
+   "kategoriler": [
+    "Ramazan Etkinlikleri"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/esref-ziya-terzi-etkinligine-davet/170/",
+   "gecmis": true
+  },
+  {
+   "id": 134,
+   "baslik": "8 Mart Dünya Kadınlar Günü Özel Programı",
+   "tarih": "2022-03-08",
+   "yer": "Elazığ Belediyesi Bünyamin Eroğlu Kültür ve Kongre Merkezi",
+   "kategoriler": [
+    "Davet"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/8-mart-dunya-kadinlar-gunu-ozel-programi/134/",
+   "gecmis": true
+  },
+  {
+   "id": 101,
+   "baslik": "23 Nisan Etkinlikleri",
+   "tarih": "2021-04-23",
+   "yer": "Osmanlı 1299 Parkı",
+   "kategoriler": [
+    "Gezi"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/23-nisan-etkinlikleri/101/",
+   "gecmis": true
+  },
+  {
+   "id": 85,
+   "baslik": "İslam'da Kadının Yeri ve Önemi",
+   "tarih": "2021-03-03",
+   "yer": "Elazığ Belediyesi ADEM",
+   "kategoriler": [
+    "Konferans"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/islam-da-kadinin-yeri-ve-onemi/85/",
+   "gecmis": true
+  },
+  {
+   "id": 87,
+   "baslik": "Aile, Bireysel , Evlilik, Çocuk Danışmanlığı ve Grup Terapisi",
+   "tarih": "2021-03-01",
+   "yer": "Eğitim Merkezi ADEM Birimi",
+   "kategoriler": [
+    "Konferans"
+   ],
+   "baglanti": "https://www.elazig.bel.tr/etkinlik/aile-bireysel-evlilik-cocuk-danismanligi-ve-grup-terapisi/87/",
+   "gecmis": true
+  }
+ ]
+}

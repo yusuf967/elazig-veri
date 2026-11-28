@@ -1,0 +1,7740 @@
+{
+ "guncelleme": "2026-11-22T08:02:20.632Z",
+ "oyuncular": {
+  "111545": {
+   "dogum": "1990-11-10",
+   "dogumYeri": "Antalya",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "766034": {
+   "dogum": "1993-05-28",
+   "dogumYeri": "Samsun",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "856257": {
+   "dogum": "1993-02-24",
+   "dogumYeri": "Osmangazi",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "877646": {
+   "dogum": "1993-03-01",
+   "dogumYeri": "Milas",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "897776": {
+   "dogum": "1992-01-28",
+   "dogumYeri": "Kartal",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "898116": {
+   "dogum": "1992-11-28",
+   "dogumYeri": "Bakırköy",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "938777": {
+   "dogum": "1995-12-20",
+   "dogumYeri": "Fatih",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "958783": {
+   "dogum": "1995-01-03",
+   "dogumYeri": "Göynücek",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "972735": {
+   "dogum": "1995-12-05",
+   "dogumYeri": "19 Mayıs",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1030237": {
+   "dogum": "1994-11-01",
+   "dogumYeri": "Bakırköy",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1119772": {
+   "dogum": "1997-02-12",
+   "dogumYeri": "Aydın",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1373277": {
+   "dogum": "1999-06-09",
+   "dogumYeri": "Aydın",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1400771": {
+   "dogum": "1997-10-15",
+   "dogumYeri": "Gemlik",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1546355": {
+   "dogum": "1995-06-20",
+   "dogumYeri": "Dıllenburg",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1694770": {
+   "dogum": "2002-07-29",
+   "dogumYeri": "Gaziosmanpaşa",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1754246": {
+   "dogum": "2005-07-30",
+   "dogumYeri": "Küçükçekmece",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1792945": {
+   "dogum": "2005-03-29",
+   "dogumYeri": "Denizli",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1802810": {
+   "dogum": "2005-04-17",
+   "dogumYeri": "Antakya",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1866897": {
+   "dogum": "2006-03-23",
+   "dogumYeri": "Sultanbeyli",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1919486": {
+   "dogum": "2006-08-08",
+   "dogumYeri": "Selçuklu",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1963359": {
+   "dogum": "2007-01-11",
+   "dogumYeri": "Elazığ",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "1996845": {
+   "dogum": "2006-11-25",
+   "dogumYeri": "Konak",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "2010639": {
+   "dogum": "2006-05-11",
+   "dogumYeri": "Altındağ",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "2106723": {
+   "dogum": "2006-01-01",
+   "dogumYeri": "Alacakaya",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "2294684": {
+   "dogum": "2007-01-01",
+   "dogumYeri": "Elazığ",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "2305851": {
+   "dogum": "2006-03-26",
+   "dogumYeri": "Elazığ",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  },
+  "2552343": {
+   "dogum": "1999-03-24",
+   "dogumYeri": "Hemer",
+   "uyruk": "Türkiye",
+   "alindi": "2026-11-22T08:02:20.632Z"
+  }
+ },
+ "maclar": {
+  "318472": {
+   "tarih": "2026-11-08",
+   "saat": "15:30",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "ev": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "2015273",
+      "numara": 18
+     },
+     {
+      "id": "2106723",
+      "numara": 27
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "1996845",
+      "numara": 66
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     },
+     {
+      "id": "2193035",
+      "numara": 99
+     }
+    ],
+    "girenler": [
+     "1866897",
+     "958783",
+     "1919486"
+    ],
+    "goller": [
+     {
+      "id": "1030237",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "111545",
+      "kirmizi": false
+     },
+     {
+      "id": "972735",
+      "kirmizi": false
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "31",
+    "ilk11": [
+     {
+      "id": "1226755",
+      "numara": 45
+     },
+     {
+      "id": "1446952",
+      "numara": 3
+     },
+     {
+      "id": "2000355",
+      "numara": 6
+     },
+     {
+      "id": "1209334",
+      "numara": 23
+     },
+     {
+      "id": "1283090",
+      "numara": 27
+     },
+     {
+      "id": "997822",
+      "numara": 4
+     },
+     {
+      "id": "1446038",
+      "numara": 8
+     },
+     {
+      "id": "982381",
+      "numara": 16
+     },
+     {
+      "id": "2019025",
+      "numara": 10
+     },
+     {
+      "id": "1222566",
+      "numara": 14
+     },
+     {
+      "id": "1046365",
+      "numara": 11
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1760158",
+      "numara": 35
+     },
+     {
+      "id": "657075",
+      "numara": 39
+     },
+     {
+      "id": "995191",
+      "numara": 77
+     },
+     {
+      "id": "2022359",
+      "numara": 63
+     },
+     {
+      "id": "1851340",
+      "numara": 66
+     },
+     {
+      "id": "2021942",
+      "numara": 19
+     },
+     {
+      "id": "1510665",
+      "numara": 25
+     },
+     {
+      "id": "1009305",
+      "numara": 52
+     },
+     {
+      "id": "1963489",
+      "numara": 9
+     },
+     {
+      "id": "1433352",
+      "numara": 7
+     }
+    ],
+    "girenler": [
+     "1433352",
+     "2021942",
+     "995191",
+     "1009305",
+     "1510665"
+    ],
+    "goller": [],
+    "kartlar": [
+     {
+      "id": "1222566",
+      "kirmizi": false
+     },
+     {
+      "id": "2021942",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 4,
+      "oyuncu": "Veli Çetin",
+      "takim": "ev",
+      "id": "1030237"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 13,
+      "oyuncu": "Alperen Pak",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "972735"
+     },
+     {
+      "dk": 41,
+      "oyuncu": "Özcan Aydın",
+      "takim": "dep",
+      "renk": "sari"
+     },
+     {
+      "dk": 61,
+      "oyuncu": "Feyyaz Belen",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "111545"
+     },
+     {
+      "dk": 90,
+      "oyuncu": "Tahsin Bülbül",
+      "takim": "dep",
+      "renk": "sari"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 18,
+        "ad": "Yiğit Ekrem Karakaş",
+        "id": "2015273"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 99,
+        "ad": "Özkan Bal",
+        "id": "2193035"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 45,
+        "ad": "Aydın Bağ"
+       },
+       {
+        "no": 3,
+        "ad": "Alper Tursun"
+       },
+       {
+        "no": 6,
+        "ad": "Umut Mert Toy"
+       },
+       {
+        "no": 23,
+        "ad": "Sedat Dursun"
+       },
+       {
+        "no": 27,
+        "ad": "İlker Günaslan"
+       },
+       {
+        "no": 4,
+        "ad": "Muhammed Gönülaçar"
+       },
+       {
+        "no": 8,
+        "ad": "Ferhan Evren"
+       },
+       {
+        "no": 16,
+        "ad": "Yiğitali Bayrak"
+       },
+       {
+        "no": 10,
+        "ad": "Çekdar Orhan"
+       },
+       {
+        "no": 14,
+        "ad": "Özcan Aydın"
+       },
+       {
+        "no": 11,
+        "ad": "Ali Aydemir"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 35,
+        "ad": "Baran Demir"
+       },
+       {
+        "no": 39,
+        "ad": "İbrahim Sürgülü"
+       },
+       {
+        "no": 77,
+        "ad": "Aslan Gök"
+       },
+       {
+        "no": 63,
+        "ad": "Mahmut Küçük"
+       },
+       {
+        "no": 66,
+        "ad": "Cebrail İrtürk"
+       },
+       {
+        "no": 19,
+        "ad": "Tahsin Bülbül"
+       },
+       {
+        "no": 25,
+        "ad": "Özgür Sert"
+       },
+       {
+        "no": 52,
+        "ad": "Hüsamettin Yener"
+       },
+       {
+        "no": 9,
+        "ad": "İbrahim Burak Işık"
+       },
+       {
+        "no": 7,
+        "ad": "Oğuzhan Doğan"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Aslan Gök",
+      "cikan": "Özcan Aydın"
+     },
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Hüsamettin Yener",
+      "cikan": "İlker Günaslan"
+     },
+     {
+      "dk": 60,
+      "takim": "dep",
+      "giren": "Oğuzhan Doğan",
+      "cikan": "Yiğitali Bayrak"
+     },
+     {
+      "dk": 77,
+      "takim": "dep",
+      "giren": "Tahsin Bülbül",
+      "cikan": "Ali Aydemir"
+     },
+     {
+      "dk": 81,
+      "takim": "ev",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Barış Ekincier",
+      "cikanId": "2552343"
+     },
+     {
+      "dk": 84,
+      "takim": "dep",
+      "giren": "Özgür Sert",
+      "cikan": "Ferhan Evren"
+     },
+     {
+      "dk": 88,
+      "takim": "ev",
+      "giren": "Mustafa Emir Akyıldız",
+      "girenId": "1866897",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     },
+     {
+      "dk": 90,
+      "ek": 3,
+      "takim": "ev",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     }
+    ],
+    "hakem": "Levent Buğra Vartemel"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318480": {
+   "tarih": "2026-11-14",
+   "saat": "13:00",
+   "stat": "Erbaa İlçe",
+   "ev": {
+    "kulupId": "3641",
+    "ilk11": [
+     {
+      "id": "928942",
+      "numara": 1
+     },
+     {
+      "id": "1532133",
+      "numara": 5
+     },
+     {
+      "id": "1668998",
+      "numara": 7
+     },
+     {
+      "id": "1151587",
+      "numara": 10
+     },
+     {
+      "id": "1473360",
+      "numara": 11
+     },
+     {
+      "id": "1626907",
+      "numara": 12
+     },
+     {
+      "id": "937295",
+      "numara": 70
+     },
+     {
+      "id": "1645144",
+      "numara": 33
+     },
+     {
+      "id": "2294057",
+      "numara": 57
+     },
+     {
+      "id": "1529478",
+      "numara": 61
+     },
+     {
+      "id": "1221304",
+      "numara": 99
+     }
+    ],
+    "yedek": [
+     {
+      "id": "2399429",
+      "numara": 74
+     },
+     {
+      "id": "2001963",
+      "numara": 3
+     },
+     {
+      "id": "1383310",
+      "numara": 9
+     },
+     {
+      "id": "2022696",
+      "numara": 13
+     },
+     {
+      "id": "1845396",
+      "numara": 17
+     },
+     {
+      "id": "2108434",
+      "numara": 19
+     },
+     {
+      "id": "1153870",
+      "numara": 20
+     },
+     {
+      "id": "1693156",
+      "numara": 30
+     },
+     {
+      "id": "2178599",
+      "numara": 31
+     },
+     {
+      "id": "2066730",
+      "numara": 68
+     }
+    ],
+    "girenler": [
+     "1845396",
+     "1383310",
+     "1153870",
+     "2108434"
+    ],
+    "goller": [],
+    "kartlar": [
+     {
+      "id": "928942",
+      "kirmizi": false
+     },
+     {
+      "id": "1383310",
+      "kirmizi": false
+     },
+     {
+      "id": "1529478",
+      "kirmizi": false
+     },
+     {
+      "id": "1668998",
+      "kirmizi": false
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1996845",
+      "numara": 66
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "2015273",
+      "numara": 18
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     },
+     {
+      "id": "2106723",
+      "numara": 27
+     },
+     {
+      "id": "2294684",
+      "numara": 19
+     },
+     {
+      "id": "2193035",
+      "numara": 99
+     }
+    ],
+    "girenler": [
+     "1866897",
+     "1754246",
+     "958783",
+     "1919486"
+    ],
+    "goller": [],
+    "kartlar": [
+     {
+      "id": "1030237",
+      "kirmizi": false
+     },
+     {
+      "id": "1754246",
+      "kirmizi": false
+     },
+     {
+      "id": "1919486",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [],
+    "kartlar": [
+     {
+      "dk": 11,
+      "oyuncu": "Yunus Emre Aydemir",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 12,
+      "oyuncu": "Veli Çetin",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1030237"
+     },
+     {
+      "dk": 33,
+      "oyuncu": "Oğuz Han Aynaoğlu",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 60,
+      "oyuncu": "Alp Arda",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 64,
+      "oyuncu": "Tugay Keleş",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 80,
+      "oyuncu": "Ali Yeşilyurt",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1754246"
+     },
+     {
+      "dk": 90,
+      "oyuncu": "İsmail Esat Buğa",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1919486"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 1,
+        "ad": "Alp Arda"
+       },
+       {
+        "no": 5,
+        "ad": "Ramazan Kallıoğlu"
+       },
+       {
+        "no": 7,
+        "ad": "Oğuz Han Aynaoğlu"
+       },
+       {
+        "no": 10,
+        "ad": "Cemal Şener"
+       },
+       {
+        "no": 11,
+        "ad": "Yasin Kargı"
+       },
+       {
+        "no": 12,
+        "ad": "Muhammed Ali Doğan"
+       },
+       {
+        "no": 70,
+        "ad": "Oğulcan Enes Demiroğlu"
+       },
+       {
+        "no": 33,
+        "ad": "Ömer Önder"
+       },
+       {
+        "no": 57,
+        "ad": "Melih Altıkulaç"
+       },
+       {
+        "no": 61,
+        "ad": "Yunus Emre Aydemir"
+       },
+       {
+        "no": 99,
+        "ad": "Oktay Balcı"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 74,
+        "ad": "Abdullah Yılmaz"
+       },
+       {
+        "no": 3,
+        "ad": "Ömer Alp Gülay"
+       },
+       {
+        "no": 9,
+        "ad": "Tugay Keleş"
+       },
+       {
+        "no": 13,
+        "ad": "Ertuğrul Yıldırım"
+       },
+       {
+        "no": 17,
+        "ad": "Dağhan Erdoğan"
+       },
+       {
+        "no": 19,
+        "ad": "Yunus Azrak"
+       },
+       {
+        "no": 20,
+        "ad": "Eslem Öztürk"
+       },
+       {
+        "no": 30,
+        "ad": "Adar Aygür"
+       },
+       {
+        "no": 31,
+        "ad": "Ali Emre Keklikçi"
+       },
+       {
+        "no": 68,
+        "ad": "Tolga Köksal"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 18,
+        "ad": "Yiğit Ekrem Karakaş",
+        "id": "2015273"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       },
+       {
+        "no": 99,
+        "ad": "Özkan Bal",
+        "id": "2193035"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 52,
+      "takim": "ev",
+      "giren": "Tugay Keleş",
+      "cikan": "Oktay Balcı"
+     },
+     {
+      "dk": 65,
+      "takim": "dep",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Ali Altınöz",
+      "cikanId": "1802810"
+     },
+     {
+      "dk": 68,
+      "takim": "ev",
+      "giren": "Dağhan Erdoğan",
+      "cikan": "Cemal Şener"
+     },
+     {
+      "dk": 69,
+      "takim": "dep",
+      "giren": "Ali Yeşilyurt",
+      "girenId": "1754246",
+      "cikan": "Çağlayan Menderes",
+      "cikanId": "1373277"
+     },
+     {
+      "dk": 80,
+      "takim": "ev",
+      "giren": "Eslem Öztürk",
+      "cikan": "Yasin Kargı"
+     },
+     {
+      "dk": 80,
+      "takim": "ev",
+      "giren": "Yunus Azrak",
+      "cikan": "Muhammed Ali Doğan"
+     },
+     {
+      "dk": 87,
+      "takim": "dep",
+      "giren": "Mustafa Emir Akyıldız",
+      "girenId": "1866897",
+      "cikan": "Abdurrahman Emir Alagöz",
+      "cikanId": "897776"
+     },
+     {
+      "dk": 87,
+      "takim": "dep",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Barış Ekincier",
+      "cikanId": "2552343"
+     }
+    ],
+    "hakem": "Mustafa Ünver"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318484": {
+   "tarih": "2026-11-18",
+   "saat": "13:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "ev": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "1996845",
+      "numara": 66
+     },
+     {
+      "id": "2015273",
+      "numara": 18
+     },
+     {
+      "id": "2294684",
+      "numara": 19
+     }
+    ],
+    "girenler": [
+     "1802810",
+     "1866897",
+     "1754246"
+    ],
+    "goller": [
+     {
+      "id": "1119772",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "111545",
+      "kirmizi": false
+     },
+     {
+      "id": "877646",
+      "kirmizi": false
+     },
+     {
+      "id": "958783",
+      "kirmizi": false
+     },
+     {
+      "id": "1030237",
+      "kirmizi": false
+     },
+     {
+      "id": "1802810",
+      "kirmizi": false
+     },
+     {
+      "id": "1919486",
+      "kirmizi": false
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "1120",
+    "ilk11": [
+     {
+      "id": "2014205",
+      "numara": 99
+     },
+     {
+      "id": "1712076",
+      "numara": 35
+     },
+     {
+      "id": "2031256",
+      "numara": 26
+     },
+     {
+      "id": "1996844",
+      "numara": 5
+     },
+     {
+      "id": "2686104",
+      "numara": 55
+     },
+     {
+      "id": "1272939",
+      "numara": 77
+     },
+     {
+      "id": "1745221",
+      "numara": 25
+     },
+     {
+      "id": "1033985",
+      "numara": 14
+     },
+     {
+      "id": "1286839",
+      "numara": 36
+     },
+     {
+      "id": "1898151",
+      "numara": 8
+     },
+     {
+      "id": "1146544",
+      "numara": 10
+     }
+    ],
+    "yedek": [
+     {
+      "id": "2133908",
+      "numara": 23
+     },
+     {
+      "id": "1725560",
+      "numara": 53
+     },
+     {
+      "id": "2124081",
+      "numara": 48
+     },
+     {
+      "id": "1988155",
+      "numara": 6
+     },
+     {
+      "id": "2542822",
+      "numara": 18
+     },
+     {
+      "id": "2210950",
+      "numara": 9
+     },
+     {
+      "id": "1806356",
+      "numara": 24
+     }
+    ],
+    "girenler": [
+     "2124081",
+     "2210950",
+     "1725560",
+     "1806356",
+     "2542822"
+    ],
+    "goller": [
+     {
+      "id": "1146544",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "1286839",
+      "kirmizi": false
+     },
+     {
+      "id": "2124081",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 13,
+      "oyuncu": "Mert Örnek",
+      "takim": "ev",
+      "id": "1119772"
+     },
+     {
+      "dk": 30,
+      "oyuncu": "Doğukan Emeksiz",
+      "takim": "dep"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 52,
+      "oyuncu": "İsmail Esat Buğa",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1919486"
+     },
+     {
+      "dk": 64,
+      "oyuncu": "Feyyaz Belen",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "111545"
+     },
+     {
+      "dk": 74,
+      "oyuncu": "Veli Çetin",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1030237"
+     },
+     {
+      "dk": 79,
+      "oyuncu": "Burak Tranova",
+      "takim": "dep",
+      "renk": "sari"
+     },
+     {
+      "dk": 87,
+      "oyuncu": "Erhan Kartal",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "877646"
+     },
+     {
+      "dk": 87,
+      "oyuncu": "Erkan Gövercin",
+      "takim": "dep",
+      "renk": "sari"
+     },
+     {
+      "dk": 90,
+      "ek": 6,
+      "oyuncu": "Muhammed Demirci",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "958783"
+     },
+     {
+      "dk": 90,
+      "ek": 6,
+      "oyuncu": "Ali Altınöz",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1802810"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 18,
+        "ad": "Yiğit Ekrem Karakaş",
+        "id": "2015273"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 99,
+        "ad": "Mehmet Emin Sapancı"
+       },
+       {
+        "no": 35,
+        "ad": "Eren Fansa"
+       },
+       {
+        "no": 26,
+        "ad": "Göktürk Efe Görgün"
+       },
+       {
+        "no": 5,
+        "ad": "Mustafa Can Birol"
+       },
+       {
+        "no": 55,
+        "ad": "Selim Can Sönmez"
+       },
+       {
+        "no": 77,
+        "ad": "Eyüp Poyraz"
+       },
+       {
+        "no": 25,
+        "ad": "Yiğit Kerem"
+       },
+       {
+        "no": 14,
+        "ad": "Alican Özfesli"
+       },
+       {
+        "no": 36,
+        "ad": "Erkan Gövercin"
+       },
+       {
+        "no": 8,
+        "ad": "Burak İngenç"
+       },
+       {
+        "no": 10,
+        "ad": "Doğukan Emeksiz"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 23,
+        "ad": "İsmail Buğra Torkut"
+       },
+       {
+        "no": 53,
+        "ad": "Hakan Selim Yıldız"
+       },
+       {
+        "no": 48,
+        "ad": "Burak Tranova"
+       },
+       {
+        "no": 6,
+        "ad": "Musa Kaan Pehlivan"
+       },
+       {
+        "no": 18,
+        "ad": "Aydın Ali"
+       },
+       {
+        "no": 9,
+        "ad": "Ömer Ege Ökte"
+       },
+       {
+        "no": 24,
+        "ad": "Burak Enes Fıstıkçıoğlu"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 50,
+      "takim": "dep",
+      "giren": "Burak Enes Fıstıkçıoğlu",
+      "cikan": "Göktürk Efe Görgün"
+     },
+     {
+      "dk": 60,
+      "takim": "ev",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Muhammed Demirci",
+      "cikanId": "958783"
+     },
+     {
+      "dk": 60,
+      "takim": "dep",
+      "giren": "Ömer Ege Ökte",
+      "cikan": "Doğukan Emeksiz"
+     },
+     {
+      "dk": 60,
+      "takim": "dep",
+      "giren": "Aydın Ali",
+      "cikan": "Yiğit Kerem"
+     },
+     {
+      "dk": 78,
+      "takim": "dep",
+      "giren": "Burak Tranova",
+      "cikan": "Alican Özfesli"
+     },
+     {
+      "dk": 78,
+      "takim": "dep",
+      "giren": "Hakan Selim Yıldız",
+      "cikan": "Burak İngenç"
+     },
+     {
+      "dk": 85,
+      "takim": "ev",
+      "giren": "Mustafa Emir Akyıldız",
+      "girenId": "1866897",
+      "cikan": "İsmail Esat Buğa",
+      "cikanId": "1919486"
+     },
+     {
+      "dk": 89,
+      "takim": "ev",
+      "giren": "Ali Yeşilyurt",
+      "girenId": "1754246",
+      "cikan": "Barış Ekincier",
+      "cikanId": "2552343"
+     }
+    ],
+    "hakem": "Berkay Ağış"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318493": {
+   "tarih": "2026-11-22",
+   "saat": "13:00",
+   "stat": "Soma Nazım Yavuz",
+   "ev": {
+    "kulupId": "497",
+    "ilk11": [
+     {
+      "id": "1537221",
+      "numara": 25
+     },
+     {
+      "id": "1557740",
+      "numara": 6
+     },
+     {
+      "id": "2272496",
+      "numara": 7
+     },
+     {
+      "id": "1839016",
+      "numara": 8
+     },
+     {
+      "id": "1588001",
+      "numara": 10
+     },
+     {
+      "id": "1551132",
+      "numara": 20
+     },
+     {
+      "id": "2012353",
+      "numara": 23
+     },
+     {
+      "id": "1781064",
+      "numara": 5
+     },
+     {
+      "id": "1681186",
+      "numara": 33
+     },
+     {
+      "id": "1606452",
+      "numara": 41
+     },
+     {
+      "id": "2936986",
+      "numara": 97
+     }
+    ],
+    "yedek": [
+     {
+      "id": "2054766",
+      "numara": 1
+     },
+     {
+      "id": "1770452",
+      "numara": 3
+     },
+     {
+      "id": "2094354",
+      "numara": 21
+     },
+     {
+      "id": "2821550",
+      "numara": 9
+     },
+     {
+      "id": "1808663",
+      "numara": 19
+     },
+     {
+      "id": "2005965",
+      "numara": 42
+     },
+     {
+      "id": "2108624",
+      "numara": 45
+     },
+     {
+      "id": "1976047",
+      "numara": 66
+     },
+     {
+      "id": "1855355",
+      "numara": 98
+     }
+    ],
+    "girenler": [],
+    "goller": [],
+    "kartlar": []
+   },
+   "dep": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "1996845",
+      "numara": 66
+     },
+     {
+      "id": "2106723",
+      "numara": 27
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "938777",
+      "numara": 11
+     },
+     {
+      "id": "1546355",
+      "numara": 9
+     }
+    ],
+    "girenler": [],
+    "goller": [],
+    "kartlar": []
+   },
+   "olaylar": {
+    "goller": [],
+    "kartlar": [],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 25,
+        "ad": "Batuhan Ataç"
+       },
+       {
+        "no": 6,
+        "ad": "Enes Tayfun"
+       },
+       {
+        "no": 7,
+        "ad": "Berk Çetin"
+       },
+       {
+        "no": 8,
+        "ad": "Enes Yetkin"
+       },
+       {
+        "no": 10,
+        "ad": "Emir Şenocak"
+       },
+       {
+        "no": 20,
+        "ad": "Mehmet Gündüz"
+       },
+       {
+        "no": 23,
+        "ad": "Mustafa Taner Tamer"
+       },
+       {
+        "no": 5,
+        "ad": "Ferit Bay Gündüz"
+       },
+       {
+        "no": 33,
+        "ad": "Eniscan Atik"
+       },
+       {
+        "no": 41,
+        "ad": "Berke Kayar"
+       },
+       {
+        "no": 97,
+        "ad": "Sadettin Derviş Erkan"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 1,
+        "ad": "Eran Şenol"
+       },
+       {
+        "no": 3,
+        "ad": "Bilal Selamet"
+       },
+       {
+        "no": 21,
+        "ad": "Yağız Aydın"
+       },
+       {
+        "no": 9,
+        "ad": "Ömür Pektaş"
+       },
+       {
+        "no": 19,
+        "ad": "Mehmet Melih Altınışık"
+       },
+       {
+        "no": 42,
+        "ad": "Orhan Ertaş"
+       },
+       {
+        "no": 45,
+        "ad": "İbrahim Semih Apaydın"
+       },
+       {
+        "no": 66,
+        "ad": "Arda Kutluer"
+       },
+       {
+        "no": 98,
+        "ad": "İlker Eren Gedik"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       },
+       {
+        "no": 9,
+        "ad": "Kemal Rüzgar",
+        "id": "1546355"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [],
+    "hakem": "Ömer Nazıf Baytar"
+   },
+   "alindi": "2026-11-22T12:18:33.099Z"
+  },
+  "318677": {
+   "tarih": "2026-09-06",
+   "saat": "19:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "ev": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     },
+     {
+      "id": "1400771",
+      "numara": 8
+     },
+     {
+      "id": "1546355",
+      "numara": 9
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "938777",
+      "numara": 11
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "2294684",
+      "numara": 19
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     }
+    ],
+    "girenler": [
+     "1919486",
+     "1802810",
+     "938777",
+     "958783"
+    ],
+    "goller": [
+     {
+      "id": "1546355",
+      "kk": false
+     },
+     {
+      "id": "1546355",
+      "kk": false
+     },
+     {
+      "id": "1546355",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "1030237",
+      "kirmizi": false
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "10300",
+    "ilk11": [
+     {
+      "id": "1617792",
+      "numara": 43
+     },
+     {
+      "id": "2019443",
+      "numara": 4
+     },
+     {
+      "id": "1582881",
+      "numara": 7
+     },
+     {
+      "id": "1396139",
+      "numara": 9
+     },
+     {
+      "id": "1672248",
+      "numara": 10
+     },
+     {
+      "id": "2293365",
+      "numara": 14
+     },
+     {
+      "id": "1832121",
+      "numara": 20
+     },
+     {
+      "id": "1406451",
+      "numara": 22
+     },
+     {
+      "id": "1514523",
+      "numara": 23
+     },
+     {
+      "id": "1270781",
+      "numara": 58
+     },
+     {
+      "id": "1050374",
+      "numara": 61
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1912220",
+      "numara": 1
+     },
+     {
+      "id": "1505682",
+      "numara": 6
+     },
+     {
+      "id": "1697244",
+      "numara": 11
+     },
+     {
+      "id": "1854588",
+      "numara": 15
+     },
+     {
+      "id": "1976280",
+      "numara": 17
+     },
+     {
+      "id": "1742515",
+      "numara": 19
+     },
+     {
+      "id": "2419567",
+      "numara": 24
+     },
+     {
+      "id": "2898635",
+      "numara": 27
+     },
+     {
+      "id": "1663861",
+      "numara": 77
+     },
+     {
+      "id": "1507237",
+      "numara": 99
+     }
+    ],
+    "girenler": [
+     "1505682",
+     "2898635",
+     "1507237",
+     "1742515",
+     "2419567"
+    ],
+    "goller": [
+     {
+      "id": "1507237",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "1050374",
+      "kirmizi": false
+     },
+     {
+      "id": "1672248",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 21,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "ev",
+      "id": "1546355"
+     },
+     {
+      "dk": 26,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "ev",
+      "id": "1546355"
+     },
+     {
+      "dk": 50,
+      "oyuncu": "Harun Özcan",
+      "takim": "dep"
+     },
+     {
+      "dk": 88,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "ev",
+      "id": "1546355",
+      "tur": "penalti"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 12,
+      "oyuncu": "Veli Çetin",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1030237"
+     },
+     {
+      "dk": 18,
+      "oyuncu": "Veysel Sönmezsoy",
+      "takim": "dep",
+      "renk": "sari"
+     },
+     {
+      "dk": 87,
+      "oyuncu": "Yasin Dülger",
+      "takim": "dep",
+      "renk": "sari"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 9,
+        "ad": "Kemal Rüzgar",
+        "id": "1546355"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 43,
+        "ad": "Ahmet Daş"
+       },
+       {
+        "no": 4,
+        "ad": "Mete Yıldız"
+       },
+       {
+        "no": 7,
+        "ad": "Ahmet Arda Tuzcu"
+       },
+       {
+        "no": 9,
+        "ad": "İlker Karakaş"
+       },
+       {
+        "no": 10,
+        "ad": "Veysel Sönmezsoy"
+       },
+       {
+        "no": 14,
+        "ad": "Cemal Kızılateş"
+       },
+       {
+        "no": 20,
+        "ad": "Rıdvan Dönmez"
+       },
+       {
+        "no": 22,
+        "ad": "Furkan Şan"
+       },
+       {
+        "no": 23,
+        "ad": "Burak Yamaç"
+       },
+       {
+        "no": 58,
+        "ad": "Burak Asan"
+       },
+       {
+        "no": 61,
+        "ad": "Yasin Dülger"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 1,
+        "ad": "Efe Eren Sancak"
+       },
+       {
+        "no": 6,
+        "ad": "Talha Özcan"
+       },
+       {
+        "no": 11,
+        "ad": "Eren Altıntaş"
+       },
+       {
+        "no": 15,
+        "ad": "Halit Emre Acun"
+       },
+       {
+        "no": 17,
+        "ad": "Bulut Uysal"
+       },
+       {
+        "no": 19,
+        "ad": "Güneş Güventürk"
+       },
+       {
+        "no": 24,
+        "ad": "Eren Karaağaç"
+       },
+       {
+        "no": 27,
+        "ad": "Thierry Darnel Karadeniz"
+       },
+       {
+        "no": 77,
+        "ad": "Umut Uzun"
+       },
+       {
+        "no": 99,
+        "ad": "Harun Özcan"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Harun Özcan",
+      "cikan": "Burak Yamaç"
+     },
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Eren Karaağaç",
+      "cikan": "Ahmet Arda Tuzcu"
+     },
+     {
+      "dk": 53,
+      "takim": "ev",
+      "giren": "Enes Soy",
+      "girenId": "938777",
+      "cikan": "Barış Ekincier",
+      "cikanId": "2552343"
+     },
+     {
+      "dk": 64,
+      "takim": "dep",
+      "giren": "Talha Özcan",
+      "cikan": "Burak Asan"
+     },
+     {
+      "dk": 72,
+      "takim": "dep",
+      "giren": "Güneş Güventürk",
+      "cikan": "Cemal Kızılateş"
+     },
+     {
+      "dk": 77,
+      "takim": "ev",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     },
+     {
+      "dk": 83,
+      "takim": "dep",
+      "giren": "Thierry Darnel Karadeniz",
+      "cikan": "İlker Karakaş"
+     },
+     {
+      "dk": 85,
+      "takim": "ev",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     },
+     {
+      "dk": 85,
+      "takim": "ev",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Alperen Pak",
+      "cikanId": "972735"
+     }
+    ],
+    "hakem": "Burak Akdağ"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318685": {
+   "tarih": "2026-09-12",
+   "saat": "19:00",
+   "stat": "Yeni Adana Stadyumu",
+   "ev": {
+    "kulupId": "3603",
+    "ilk11": [
+     {
+      "id": "1873141",
+      "numara": 25
+     },
+     {
+      "id": "1911102",
+      "numara": 7
+     },
+     {
+      "id": "1900766",
+      "numara": 10
+     },
+     {
+      "id": "1748501",
+      "numara": 11
+     },
+     {
+      "id": "1963255",
+      "numara": 17
+     },
+     {
+      "id": "1832656",
+      "numara": 23
+     },
+     {
+      "id": "1856050",
+      "numara": 30
+     },
+     {
+      "id": "1915354",
+      "numara": 43
+     },
+     {
+      "id": "2165546",
+      "numara": 88
+     },
+     {
+      "id": "2261338",
+      "numara": 98
+     },
+     {
+      "id": "2056858",
+      "numara": 99
+     }
+    ],
+    "yedek": [
+     {
+      "id": "2211704",
+      "numara": 1
+     },
+     {
+      "id": "1885958",
+      "numara": 2
+     },
+     {
+      "id": "2270851",
+      "numara": 3
+     },
+     {
+      "id": "1766097",
+      "numara": 4
+     },
+     {
+      "id": "1852884",
+      "numara": 6
+     },
+     {
+      "id": "1911116",
+      "numara": 9
+     },
+     {
+      "id": "2233163",
+      "numara": 37
+     },
+     {
+      "id": "2090645",
+      "numara": 61
+     },
+     {
+      "id": "2214394",
+      "numara": 70
+     },
+     {
+      "id": "2247162",
+      "numara": 77
+     }
+    ],
+    "girenler": [
+     "2214394",
+     "1911116",
+     "1766097",
+     "1885958",
+     "2090645"
+    ],
+    "goller": [],
+    "kartlar": []
+   },
+   "dep": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "1400771",
+      "numara": 8
+     },
+     {
+      "id": "1546355",
+      "numara": 9
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "938777",
+      "numara": 11
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     }
+    ],
+    "girenler": [
+     "1802810",
+     "2552343",
+     "972735",
+     "1119772",
+     "1919486"
+    ],
+    "goller": [
+     {
+      "id": "1546355",
+      "kk": false
+     },
+     {
+      "id": "1546355",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "1400771",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 50,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "dep",
+      "id": "1546355"
+     },
+     {
+      "dk": 64,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "dep",
+      "id": "1546355"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 32,
+      "oyuncu": "Hakan Yavuz",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1400771"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 25,
+        "ad": "Murat Uğur Eser"
+       },
+       {
+        "no": 7,
+        "ad": "Sefa Gülay"
+       },
+       {
+        "no": 10,
+        "ad": "Gökdeniz Tunç"
+       },
+       {
+        "no": 11,
+        "ad": "Kürşat Türkeş Küçük"
+       },
+       {
+        "no": 17,
+        "ad": "Mert Menemencioğlu"
+       },
+       {
+        "no": 23,
+        "ad": "Yusuf Buğra Demirkıran"
+       },
+       {
+        "no": 30,
+        "ad": "Yücel Gürol"
+       },
+       {
+        "no": 43,
+        "ad": "Ali Fidan"
+       },
+       {
+        "no": 88,
+        "ad": "Kayra Saygan"
+       },
+       {
+        "no": 98,
+        "ad": "Toprak Bayar"
+       },
+       {
+        "no": 99,
+        "ad": "Ahmet Bolat"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 1,
+        "ad": "Eren Fidan"
+       },
+       {
+        "no": 2,
+        "ad": "Enes Demirtaş"
+       },
+       {
+        "no": 3,
+        "ad": "Seyfi Efe Irga"
+       },
+       {
+        "no": 4,
+        "ad": "Aslan Atay"
+       },
+       {
+        "no": 6,
+        "ad": "Demir Yavuz"
+       },
+       {
+        "no": 9,
+        "ad": "Ahmet Arda Birinci"
+       },
+       {
+        "no": 37,
+        "ad": "Kağan Aldemir"
+       },
+       {
+        "no": 61,
+        "ad": "Doğuhan Asım Dübüş"
+       },
+       {
+        "no": 70,
+        "ad": "Muhammed Enes Gül"
+       },
+       {
+        "no": 77,
+        "ad": "Mustafa Bozkurt"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 9,
+        "ad": "Kemal Rüzgar",
+        "id": "1546355"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "ev",
+      "giren": "Enes Demirtaş",
+      "cikan": "Kayra Saygan"
+     },
+     {
+      "dk": 57,
+      "takim": "dep",
+      "giren": "Alperen Pak",
+      "girenId": "972735",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 57,
+      "takim": "dep",
+      "giren": "Mert Örnek",
+      "girenId": "1119772",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     },
+     {
+      "dk": 59,
+      "takim": "ev",
+      "giren": "Muhammed Enes Gül",
+      "cikan": "Kürşat Türkeş Küçük"
+     },
+     {
+      "dk": 63,
+      "takim": "ev",
+      "giren": "Aslan Atay",
+      "cikan": "Ali Fidan"
+     },
+     {
+      "dk": 68,
+      "takim": "ev",
+      "giren": "Ahmet Arda Birinci",
+      "cikan": "Gökdeniz Tunç"
+     },
+     {
+      "dk": 68,
+      "takim": "ev",
+      "giren": "Doğuhan Asım Dübüş",
+      "cikan": "Mert Menemencioğlu"
+     },
+     {
+      "dk": 72,
+      "takim": "dep",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     },
+     {
+      "dk": 72,
+      "takim": "dep",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Muhammed Demirci",
+      "cikanId": "958783"
+     },
+     {
+      "dk": 83,
+      "takim": "dep",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Abdurrahman Emir Alagöz",
+      "cikanId": "897776"
+     }
+    ],
+    "hakem": "Safa Yılmaz"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318693": {
+   "tarih": "2026-09-19",
+   "saat": "19:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "ev": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "1400771",
+      "numara": 8
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     },
+     {
+      "id": "1546355",
+      "numara": 9
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     },
+     {
+      "id": "938777",
+      "numara": 11
+     }
+    ],
+    "girenler": [
+     "1373277",
+     "2552343",
+     "938777",
+     "958783",
+     "1919486"
+    ],
+    "goller": [
+     {
+      "id": "1119772",
+      "kk": false
+     },
+     {
+      "id": "1119772",
+      "kk": false
+     },
+     {
+      "id": "1546355",
+      "kk": false
+     },
+     {
+      "id": "1030237",
+      "kk": false
+     },
+     {
+      "id": "2552343",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "111545",
+      "kirmizi": false
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "2720",
+    "ilk11": [
+     {
+      "id": "1587382",
+      "numara": 36
+     },
+     {
+      "id": "1572308",
+      "numara": 2
+     },
+     {
+      "id": "2935236",
+      "numara": 6
+     },
+     {
+      "id": "1164634",
+      "numara": 10
+     },
+     {
+      "id": "1545575",
+      "numara": 17
+     },
+     {
+      "id": "1770974",
+      "numara": 20
+     },
+     {
+      "id": "1310641",
+      "numara": 24
+     },
+     {
+      "id": "1713079",
+      "numara": 29
+     },
+     {
+      "id": "1117385",
+      "numara": 35
+     },
+     {
+      "id": "1609429",
+      "numara": 77
+     },
+     {
+      "id": "883314",
+      "numara": 99
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1453455",
+      "numara": 1
+     },
+     {
+      "id": "1040898",
+      "numara": 5
+     },
+     {
+      "id": "1448897",
+      "numara": 9
+     },
+     {
+      "id": "1916898",
+      "numara": 13
+     },
+     {
+      "id": "1916420",
+      "numara": 14
+     },
+     {
+      "id": "1806873",
+      "numara": 22
+     },
+     {
+      "id": "834690",
+      "numara": 23
+     },
+     {
+      "id": "1680359",
+      "numara": 44
+     },
+     {
+      "id": "1796444",
+      "numara": 66
+     },
+     {
+      "id": "2350608",
+      "numara": 90
+     }
+    ],
+    "girenler": [
+     "1040898",
+     "2350608",
+     "1448897",
+     "1453455",
+     "1796444"
+    ],
+    "goller": [],
+    "kartlar": []
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 12,
+      "oyuncu": "Mert Örnek",
+      "takim": "ev",
+      "id": "1119772"
+     },
+     {
+      "dk": 19,
+      "oyuncu": "Mert Örnek",
+      "takim": "ev",
+      "id": "1119772"
+     },
+     {
+      "dk": 35,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "ev",
+      "id": "1546355"
+     },
+     {
+      "dk": 53,
+      "oyuncu": "Veli Çetin",
+      "takim": "ev",
+      "id": "1030237"
+     },
+     {
+      "dk": 90,
+      "ek": 1,
+      "oyuncu": "Barış Ekincier",
+      "takim": "ev",
+      "id": "2552343"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 31,
+      "oyuncu": "Feyyaz Belen",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "111545"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 9,
+        "ad": "Kemal Rüzgar",
+        "id": "1546355"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 36,
+        "ad": "Samet Karabatak"
+       },
+       {
+        "no": 2,
+        "ad": "Harun Kaya"
+       },
+       {
+        "no": 6,
+        "ad": "Ahmet Metin Arslan"
+       },
+       {
+        "no": 10,
+        "ad": "Okan Derici"
+       },
+       {
+        "no": 17,
+        "ad": "Muhammed Mustafa Yıldırım"
+       },
+       {
+        "no": 20,
+        "ad": "İzzet Furkan Malak"
+       },
+       {
+        "no": 24,
+        "ad": "Muammer Sarıkaya"
+       },
+       {
+        "no": 29,
+        "ad": "Birkan Yılmaz"
+       },
+       {
+        "no": 35,
+        "ad": "Sergen Piçinciol"
+       },
+       {
+        "no": 77,
+        "ad": "Yusuf Erdem Gümüş"
+       },
+       {
+        "no": 99,
+        "ad": "Mustafa Tahir Babaoğlu"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 1,
+        "ad": "Halil Yeral"
+       },
+       {
+        "no": 5,
+        "ad": "Hasan Batuhan Artarslan"
+       },
+       {
+        "no": 9,
+        "ad": "Mehmet Uysal"
+       },
+       {
+        "no": 13,
+        "ad": "Adnan Aktaş"
+       },
+       {
+        "no": 14,
+        "ad": "Sercan Demirkıran"
+       },
+       {
+        "no": 22,
+        "ad": "Eren Tunalı"
+       },
+       {
+        "no": 23,
+        "ad": "Hamza Gür"
+       },
+       {
+        "no": 44,
+        "ad": "Necati Özdemir"
+       },
+       {
+        "no": 66,
+        "ad": "Furkan Yöntem"
+       },
+       {
+        "no": 90,
+        "ad": "Emrehan Gedikli"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Halil Yeral",
+      "cikan": "Samet Karabatak"
+     },
+     {
+      "dk": 58,
+      "takim": "dep",
+      "giren": "Hasan Batuhan Artarslan",
+      "cikan": "Mustafa Tahir Babaoğlu"
+     },
+     {
+      "dk": 58,
+      "takim": "dep",
+      "giren": "Emrehan Gedikli",
+      "cikan": "Okan Derici"
+     },
+     {
+      "dk": 58,
+      "takim": "dep",
+      "giren": "Mehmet Uysal",
+      "cikan": "Muhammed Mustafa Yıldırım"
+     },
+     {
+      "dk": 78,
+      "takim": "ev",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     },
+     {
+      "dk": 78,
+      "takim": "ev",
+      "giren": "Enes Soy",
+      "girenId": "938777",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     },
+     {
+      "dk": 81,
+      "takim": "ev",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     },
+     {
+      "dk": 85,
+      "takim": "dep",
+      "giren": "Furkan Yöntem",
+      "cikan": "İzzet Furkan Malak"
+     },
+     {
+      "dk": 86,
+      "takim": "ev",
+      "giren": "Çağlayan Menderes",
+      "girenId": "1373277",
+      "cikan": "Feyyaz Belen",
+      "cikanId": "111545"
+     },
+     {
+      "dk": 86,
+      "takim": "ev",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Alperen Pak",
+      "cikanId": "972735"
+     }
+    ],
+    "hakem": "Sinan Özcan"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318707": {
+   "tarih": "2026-09-27",
+   "saat": "16:00",
+   "stat": "Aleattin Kurt Stadı",
+   "ev": {
+    "kulupId": "746",
+    "ilk11": [
+     {
+      "id": "1041538",
+      "numara": 26
+     },
+     {
+      "id": "1351255",
+      "numara": 3
+     },
+     {
+      "id": "1401824",
+      "numara": 5
+     },
+     {
+      "id": "1693827",
+      "numara": 8
+     },
+     {
+      "id": "1153205",
+      "numara": 11
+     },
+     {
+      "id": "1620266",
+      "numara": 4
+     },
+     {
+      "id": "1820718",
+      "numara": 22
+     },
+     {
+      "id": "1258585",
+      "numara": 23
+     },
+     {
+      "id": "1806753",
+      "numara": 25
+     },
+     {
+      "id": "1051537",
+      "numara": 77
+     },
+     {
+      "id": "1150163",
+      "numara": 99
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1156266",
+      "numara": 31
+     },
+     {
+      "id": "1059957",
+      "numara": 17
+     },
+     {
+      "id": "2032540",
+      "numara": 9
+     },
+     {
+      "id": "952223",
+      "numara": 12
+     },
+     {
+      "id": "1742713",
+      "numara": 15
+     },
+     {
+      "id": "1873275",
+      "numara": 19
+     },
+     {
+      "id": "2220776",
+      "numara": 28
+     },
+     {
+      "id": "1709484",
+      "numara": 38
+     },
+     {
+      "id": "1839215",
+      "numara": 58
+     },
+     {
+      "id": "1742703",
+      "numara": 70
+     }
+    ],
+    "girenler": [
+     "1059957",
+     "1742703",
+     "952223"
+    ],
+    "goller": [],
+    "kartlar": [
+     {
+      "id": "952223",
+      "kirmizi": false
+     },
+     {
+      "id": "1051537",
+      "kirmizi": false
+     },
+     {
+      "id": "1153205",
+      "kirmizi": false
+     },
+     {
+      "id": "1820718",
+      "kirmizi": false
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "1400771",
+      "numara": 8
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     },
+     {
+      "id": "1546355",
+      "numara": 9
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     },
+     {
+      "id": "938777",
+      "numara": 11
+     }
+    ],
+    "girenler": [
+     "958783",
+     "938777",
+     "2552343"
+    ],
+    "goller": [],
+    "kartlar": [
+     {
+      "id": "856257",
+      "kirmizi": false
+     },
+     {
+      "id": "972735",
+      "kirmizi": false
+     },
+     {
+      "id": "1119772",
+      "kirmizi": false
+     },
+     {
+      "id": "1546355",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [],
+    "kartlar": [
+     {
+      "dk": 10,
+      "oyuncu": "Mert Örnek",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1119772"
+     },
+     {
+      "dk": 24,
+      "oyuncu": "Alperen Pak",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "972735"
+     },
+     {
+      "dk": 29,
+      "oyuncu": "Mutlu Güler",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 75,
+      "oyuncu": "Mustafa Hüseyin Seyhan",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 75,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1546355"
+     },
+     {
+      "dk": 88,
+      "oyuncu": "Tolunay Yurtseven",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 89,
+      "oyuncu": "Onur Eriş",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "856257"
+     },
+     {
+      "dk": 90,
+      "ek": 4,
+      "oyuncu": "Abdurrahman Üresin",
+      "takim": "ev",
+      "renk": "sari"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 26,
+        "ad": "Übeyd Adıyaman"
+       },
+       {
+        "no": 3,
+        "ad": "Hakan Özkan"
+       },
+       {
+        "no": 5,
+        "ad": "Emre Keskin"
+       },
+       {
+        "no": 8,
+        "ad": "Halil Çiçek"
+       },
+       {
+        "no": 11,
+        "ad": "Tolunay Yurtseven"
+       },
+       {
+        "no": 4,
+        "ad": "Haşim Arda Sarman"
+       },
+       {
+        "no": 22,
+        "ad": "Abdurrahman Üresin"
+       },
+       {
+        "no": 23,
+        "ad": "Sırat Yeşilördek"
+       },
+       {
+        "no": 25,
+        "ad": "Mustafa Erkasap"
+       },
+       {
+        "no": 77,
+        "ad": "Mutlu Güler"
+       },
+       {
+        "no": 99,
+        "ad": "Mustafa Batuhan Altıntaş"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 31,
+        "ad": "Furkan Taş"
+       },
+       {
+        "no": 17,
+        "ad": "Süleyman Güneş"
+       },
+       {
+        "no": 9,
+        "ad": "Enes Kuşçu"
+       },
+       {
+        "no": 12,
+        "ad": "Mustafa Hüseyin Seyhan"
+       },
+       {
+        "no": 15,
+        "ad": "Aytuğ Batur Kömeç"
+       },
+       {
+        "no": 19,
+        "ad": "Furkan Çelik"
+       },
+       {
+        "no": 28,
+        "ad": "Alperen Kanber"
+       },
+       {
+        "no": 38,
+        "ad": "Tolgahan Alan"
+       },
+       {
+        "no": 58,
+        "ad": "Batuhan Üzgül"
+       },
+       {
+        "no": 70,
+        "ad": "Berkan Aksoy"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 9,
+        "ad": "Kemal Rüzgar",
+        "id": "1546355"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 43,
+      "takim": "ev",
+      "giren": "Mustafa Hüseyin Seyhan",
+      "cikan": "Mustafa Erkasap"
+     },
+     {
+      "dk": 46,
+      "takim": "ev",
+      "giren": "Süleyman Güneş",
+      "cikan": "Haşim Arda Sarman"
+     },
+     {
+      "dk": 63,
+      "takim": "dep",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Abdurrahman Emir Alagöz",
+      "cikanId": "897776"
+     },
+     {
+      "dk": 71,
+      "takim": "dep",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     },
+     {
+      "dk": 82,
+      "takim": "ev",
+      "giren": "Berkan Aksoy",
+      "cikan": "Halil Çiçek"
+     },
+     {
+      "dk": 85,
+      "takim": "dep",
+      "giren": "Enes Soy",
+      "girenId": "938777",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     }
+    ],
+    "hakem": "Emre Can Furuncu"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318716": {
+   "tarih": "2026-10-04",
+   "saat": "19:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "ev": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "1400771",
+      "numara": 8
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "938777",
+      "numara": 11
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     },
+     {
+      "id": "2294684",
+      "numara": 19
+     },
+     {
+      "id": "2106723",
+      "numara": 27
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     }
+    ],
+    "girenler": [
+     "958783",
+     "2552343",
+     "2010639"
+    ],
+    "goller": [
+     {
+      "id": "972735",
+      "kk": false
+     },
+     {
+      "id": "972735",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "877646",
+      "kirmizi": false
+     },
+     {
+      "id": "958783",
+      "kirmizi": false
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "5044",
+    "ilk11": [
+     {
+      "id": "1306577",
+      "numara": 1
+     },
+     {
+      "id": "1154817",
+      "numara": 97
+     },
+     {
+      "id": "1131592",
+      "numara": 33
+     },
+     {
+      "id": "1135685",
+      "numara": 10
+     },
+     {
+      "id": "1026749",
+      "numara": 35
+     },
+     {
+      "id": "1121490",
+      "numara": 6
+     },
+     {
+      "id": "1555412",
+      "numara": 17
+     },
+     {
+      "id": "1046741",
+      "numara": 5
+     },
+     {
+      "id": "1586388",
+      "numara": 13
+     },
+     {
+      "id": "1349471",
+      "numara": 77
+     },
+     {
+      "id": "1477475",
+      "numara": 19
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1317230",
+      "numara": 99
+     },
+     {
+      "id": "1964267",
+      "numara": 91
+     },
+     {
+      "id": "1993367",
+      "numara": 61
+     },
+     {
+      "id": "1566215",
+      "numara": 23
+     },
+     {
+      "id": "1121600",
+      "numara": 7
+     },
+     {
+      "id": "2182838",
+      "numara": 68
+     },
+     {
+      "id": "1984896",
+      "numara": 2
+     },
+     {
+      "id": "1874993",
+      "numara": 9
+     },
+     {
+      "id": "1845110",
+      "numara": 50
+     },
+     {
+      "id": "1572792",
+      "numara": 14
+     }
+    ],
+    "girenler": [
+     "1572792",
+     "1874993",
+     "1121600",
+     "2182838"
+    ],
+    "goller": [
+     {
+      "id": "1046741",
+      "kk": false
+     },
+     {
+      "id": "1154817",
+      "kk": false
+     },
+     {
+      "id": "1874993",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "1046741",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 2,
+      "oyuncu": "Alperen Pak",
+      "takim": "ev",
+      "id": "972735"
+     },
+     {
+      "dk": 5,
+      "oyuncu": "Oğuzhan Yıldırım",
+      "takim": "dep"
+     },
+     {
+      "dk": 77,
+      "oyuncu": "Muhammet Beşir",
+      "takim": "dep"
+     },
+     {
+      "dk": 90,
+      "oyuncu": "Adnan Karahisar",
+      "takim": "dep"
+     },
+     {
+      "dk": 90,
+      "ek": 5,
+      "oyuncu": "Alperen Pak",
+      "takim": "ev",
+      "id": "972735"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 18,
+      "oyuncu": "Oğuzhan Yıldırım",
+      "takim": "dep",
+      "renk": "sari"
+     },
+     {
+      "dk": 72,
+      "oyuncu": "Muhammed Demirci",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "958783"
+     },
+     {
+      "dk": 74,
+      "oyuncu": "Erhan Kartal",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "877646"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 1,
+        "ad": "Ahmet Pekgöz"
+       },
+       {
+        "no": 97,
+        "ad": "Muhammet Beşir"
+       },
+       {
+        "no": 33,
+        "ad": "Ali Eren İyican"
+       },
+       {
+        "no": 10,
+        "ad": "Mahsun Çapkan"
+       },
+       {
+        "no": 35,
+        "ad": "Alpay Koldaş"
+       },
+       {
+        "no": 6,
+        "ad": "Barış Zeren"
+       },
+       {
+        "no": 17,
+        "ad": "Batuhan Ekinci"
+       },
+       {
+        "no": 5,
+        "ad": "Oğuzhan Yıldırım"
+       },
+       {
+        "no": 13,
+        "ad": "Yılmaz Ceylan"
+       },
+       {
+        "no": 77,
+        "ad": "Recep Yemişci"
+       },
+       {
+        "no": 19,
+        "ad": "Yusuf Kaplan"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 99,
+        "ad": "Hüseyin Koç"
+       },
+       {
+        "no": 91,
+        "ad": "Esat Yiğit Alkurt"
+       },
+       {
+        "no": 61,
+        "ad": "Recai Efe Kaygusuz"
+       },
+       {
+        "no": 23,
+        "ad": "Ömer Faruk Aydemir"
+       },
+       {
+        "no": 7,
+        "ad": "Ali Han Tunçer"
+       },
+       {
+        "no": 68,
+        "ad": "Sinan Baki Usluer"
+       },
+       {
+        "no": 2,
+        "ad": "Asım Efe Işık"
+       },
+       {
+        "no": 9,
+        "ad": "Adnan Karahisar"
+       },
+       {
+        "no": 50,
+        "ad": "Efe Geçim"
+       },
+       {
+        "no": 14,
+        "ad": "Volkan Uluğ"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "ev",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Ali Altınöz",
+      "cikanId": "1802810"
+     },
+     {
+      "dk": 65,
+      "takim": "dep",
+      "giren": "Volkan Uluğ",
+      "cikan": "Barış Zeren"
+     },
+     {
+      "dk": 71,
+      "takim": "ev",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 78,
+      "takim": "dep",
+      "giren": "Ali Han Tunçer",
+      "cikan": "Muhammet Beşir"
+     },
+     {
+      "dk": 79,
+      "takim": "ev",
+      "giren": "Alp Ada Abay",
+      "girenId": "2010639",
+      "cikan": "Barış Ekincier",
+      "cikanId": "2552343"
+     },
+     {
+      "dk": 84,
+      "takim": "dep",
+      "giren": "Adnan Karahisar",
+      "cikan": "Mahsun Çapkan"
+     },
+     {
+      "dk": 84,
+      "takim": "dep",
+      "giren": "Sinan Baki Usluer",
+      "cikan": "Yusuf Kaplan"
+     }
+    ],
+    "hakem": "Erdem Temel"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318725": {
+   "tarih": "2026-10-11",
+   "saat": "15:00",
+   "stat": "Reyhanlı Tayfur Sökmen",
+   "ev": {
+    "kulupId": "121",
+    "ilk11": [
+     {
+      "id": "1890216",
+      "numara": 34
+     },
+     {
+      "id": "1799918",
+      "numara": 17
+     },
+     {
+      "id": "1999837",
+      "numara": 16
+     },
+     {
+      "id": "1931659",
+      "numara": 5
+     },
+     {
+      "id": "2110520",
+      "numara": 55
+     },
+     {
+      "id": "2090603",
+      "numara": 23
+     },
+     {
+      "id": "939274",
+      "numara": 15
+     },
+     {
+      "id": "1972165",
+      "numara": 20
+     },
+     {
+      "id": "2350510",
+      "numara": 10
+     },
+     {
+      "id": "1351649",
+      "numara": 9
+     },
+     {
+      "id": "1972964",
+      "numara": 77
+     }
+    ],
+    "yedek": [
+     {
+      "id": "2064823",
+      "numara": 1
+     },
+     {
+      "id": "2095790",
+      "numara": 24
+     },
+     {
+      "id": "2040927",
+      "numara": 83
+     },
+     {
+      "id": "2266438",
+      "numara": 72
+     },
+     {
+      "id": "2027363",
+      "numara": 19
+     },
+     {
+      "id": "1660061",
+      "numara": 21
+     },
+     {
+      "id": "2150095",
+      "numara": 66
+     },
+     {
+      "id": "2269881",
+      "numara": 11
+     },
+     {
+      "id": "1987133",
+      "numara": 25
+     },
+     {
+      "id": "2375188",
+      "numara": 31
+     }
+    ],
+    "girenler": [
+     "2375188",
+     "1987133",
+     "1660061",
+     "2269881"
+    ],
+    "goller": [],
+    "kartlar": [
+     {
+      "id": "1799918",
+      "kirmizi": false
+     },
+     {
+      "id": "1999837",
+      "kirmizi": true
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "1400771",
+      "numara": 8
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     },
+     {
+      "id": "938777",
+      "numara": 11
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     },
+     {
+      "id": "2193035",
+      "numara": 99
+     }
+    ],
+    "girenler": [
+     "1373277",
+     "1792945",
+     "958783",
+     "1802810",
+     "1919486"
+    ],
+    "goller": [
+     {
+      "id": "938777",
+      "kk": false
+     },
+     {
+      "id": "1119772",
+      "kk": false
+     },
+     {
+      "id": "1373277",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "111545",
+      "kirmizi": false
+     },
+     {
+      "id": "898116",
+      "kirmizi": false
+     },
+     {
+      "id": "1373277",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 57,
+      "oyuncu": "Enes Soy",
+      "takim": "dep",
+      "id": "938777",
+      "tur": "penalti"
+     },
+     {
+      "dk": 72,
+      "oyuncu": "Mert Örnek",
+      "takim": "dep",
+      "id": "1119772"
+     },
+     {
+      "dk": 89,
+      "oyuncu": "Çağlayan Menderes",
+      "takim": "dep",
+      "id": "1373277"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 43,
+      "oyuncu": "Feyyaz Belen",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "111545"
+     },
+     {
+      "dk": 70,
+      "oyuncu": "Abdulkadir Adıyaman",
+      "takim": "ev",
+      "renk": "sari-kirmizi"
+     },
+     {
+      "dk": 90,
+      "ek": 1,
+      "oyuncu": "Engin Can Aksoy",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 90,
+      "ek": 1,
+      "oyuncu": "Sertaç Çam",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "898116"
+     },
+     {
+      "dk": 90,
+      "ek": 3,
+      "oyuncu": "Çağlayan Menderes",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1373277"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 34,
+        "ad": "Demir Sarıcalı"
+       },
+       {
+        "no": 17,
+        "ad": "Engin Can Aksoy"
+       },
+       {
+        "no": 16,
+        "ad": "Abdulkadir Adıyaman"
+       },
+       {
+        "no": 5,
+        "ad": "Melih Şen"
+       },
+       {
+        "no": 55,
+        "ad": "Alperen Alaca"
+       },
+       {
+        "no": 23,
+        "ad": "Cemil Berk Aksu"
+       },
+       {
+        "no": 15,
+        "ad": "Recep Burak Yılmaz"
+       },
+       {
+        "no": 20,
+        "ad": "Ali Yıldız"
+       },
+       {
+        "no": 10,
+        "ad": "Ensar Arslan"
+       },
+       {
+        "no": 9,
+        "ad": "Taylan Özgün"
+       },
+       {
+        "no": 77,
+        "ad": "Barış Uzel"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 1,
+        "ad": "Mert Çiçek"
+       },
+       {
+        "no": 24,
+        "ad": "Ahmet Bayam"
+       },
+       {
+        "no": 83,
+        "ad": "Atakan Özenir"
+       },
+       {
+        "no": 72,
+        "ad": "Bilal Toğ"
+       },
+       {
+        "no": 19,
+        "ad": "Ali Eren Tan"
+       },
+       {
+        "no": 21,
+        "ad": "Seyit Gazanfer"
+       },
+       {
+        "no": 66,
+        "ad": "Mert Hamit Şamlıoğlu"
+       },
+       {
+        "no": 11,
+        "ad": "İbrahim Efe Sucuoğlu"
+       },
+       {
+        "no": 25,
+        "ad": "Mustafa Said Aydın"
+       },
+       {
+        "no": 31,
+        "ad": "Mustafa Çınar Baytar"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 99,
+        "ad": "Özkan Bal",
+        "id": "2193035"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 27,
+      "takim": "dep",
+      "giren": "Atakan Nuri Ordu",
+      "girenId": "1792945",
+      "cikan": "Furkan Köse",
+      "cikanId": "766034"
+     },
+     {
+      "dk": 52,
+      "takim": "ev",
+      "giren": "Seyit Gazanfer",
+      "cikan": "Alperen Alaca"
+     },
+     {
+      "dk": 65,
+      "takim": "ev",
+      "giren": "Mustafa Said Aydın",
+      "cikan": "Cemil Berk Aksu"
+     },
+     {
+      "dk": 65,
+      "takim": "ev",
+      "giren": "İbrahim Efe Sucuoğlu",
+      "cikan": "Ensar Arslan"
+     },
+     {
+      "dk": 73,
+      "takim": "dep",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 83,
+      "takim": "ev",
+      "giren": "Mustafa Çınar Baytar",
+      "cikan": "Taylan Özgün"
+     },
+     {
+      "dk": 83,
+      "takim": "dep",
+      "giren": "Çağlayan Menderes",
+      "girenId": "1373277",
+      "cikan": "Feyyaz Belen",
+      "cikanId": "111545"
+     },
+     {
+      "dk": 83,
+      "takim": "dep",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     },
+     {
+      "dk": 83,
+      "takim": "dep",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     }
+    ],
+    "hakem": "Bekir Doğan"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318732": {
+   "tarih": "2026-10-17",
+   "saat": "19:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "ev": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "1400771",
+      "numara": 8
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "938777",
+      "numara": 11
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "1996845",
+      "numara": 66
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     },
+     {
+      "id": "2294684",
+      "numara": 19
+     }
+    ],
+    "girenler": [
+     "2010639",
+     "1866897",
+     "958783",
+     "1754246",
+     "1802810"
+    ],
+    "goller": [
+     {
+      "id": "972735",
+      "kk": false
+     },
+     {
+      "id": "1400771",
+      "kk": false
+     },
+     {
+      "id": "1030237",
+      "kk": false
+     }
+    ],
+    "kartlar": []
+   },
+   "dep": {
+    "kulupId": "6039",
+    "ilk11": [
+     {
+      "id": "1710710",
+      "numara": 19
+     },
+     {
+      "id": "2141071",
+      "numara": 2
+     },
+     {
+      "id": "2384633",
+      "numara": 25
+     },
+     {
+      "id": "1750074",
+      "numara": 6
+     },
+     {
+      "id": "1927818",
+      "numara": 8
+     },
+     {
+      "id": "1886438",
+      "numara": 9
+     },
+     {
+      "id": "1027066",
+      "numara": 10
+     },
+     {
+      "id": "1869504",
+      "numara": 18
+     },
+     {
+      "id": "2157794",
+      "numara": 21
+     },
+     {
+      "id": "1906561",
+      "numara": 33
+     },
+     {
+      "id": "1153979",
+      "numara": 61
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1990534",
+      "numara": 44
+     },
+     {
+      "id": "806933",
+      "numara": 3
+     },
+     {
+      "id": "1849476",
+      "numara": 11
+     },
+     {
+      "id": "950722",
+      "numara": 13
+     },
+     {
+      "id": "1533504",
+      "numara": 35
+     },
+     {
+      "id": "2072818",
+      "numara": 66
+     },
+     {
+      "id": "2092542",
+      "numara": 77
+     },
+     {
+      "id": "2008104",
+      "numara": 80
+     },
+     {
+      "id": "2099135",
+      "numara": 17
+     },
+     {
+      "id": "1847145",
+      "numara": 99
+     }
+    ],
+    "girenler": [
+     "2072818",
+     "950722",
+     "1533504",
+     "1849476",
+     "2008104"
+    ],
+    "goller": [],
+    "kartlar": [
+     {
+      "id": "1906561",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 17,
+      "oyuncu": "Alperen Pak",
+      "takim": "ev",
+      "id": "972735"
+     },
+     {
+      "dk": 42,
+      "oyuncu": "Hakan Yavuz",
+      "takim": "ev",
+      "id": "1400771"
+     },
+     {
+      "dk": 60,
+      "oyuncu": "Veli Çetin",
+      "takim": "ev",
+      "id": "1030237"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 31,
+      "oyuncu": "Furkan Ulupınar",
+      "takim": "dep",
+      "renk": "sari"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 19,
+        "ad": "Mahmut Eren Güler"
+       },
+       {
+        "no": 2,
+        "ad": "Mustafa Yıldırım"
+       },
+       {
+        "no": 25,
+        "ad": "Rohat Çapa"
+       },
+       {
+        "no": 6,
+        "ad": "Arda Deniz Yavaş"
+       },
+       {
+        "no": 8,
+        "ad": "Can Ediz Yıldız"
+       },
+       {
+        "no": 9,
+        "ad": "Hüseyin İkiz"
+       },
+       {
+        "no": 10,
+        "ad": "Cerem Talha Dinçer"
+       },
+       {
+        "no": 18,
+        "ad": "Kerem Çapan"
+       },
+       {
+        "no": 21,
+        "ad": "Semih Mert Korkmaz"
+       },
+       {
+        "no": 33,
+        "ad": "Furkan Ulupınar"
+       },
+       {
+        "no": 61,
+        "ad": "Berkan Burak Turan"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 44,
+        "ad": "Durmuş Ayhan"
+       },
+       {
+        "no": 3,
+        "ad": "Emre Öztürk"
+       },
+       {
+        "no": 11,
+        "ad": "Mehmet Efe Şahin"
+       },
+       {
+        "no": 13,
+        "ad": "Anıl Şahin"
+       },
+       {
+        "no": 35,
+        "ad": "Taha Dönmez"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammed Emre Taş"
+       },
+       {
+        "no": 77,
+        "ad": "Baran Erdoğan"
+       },
+       {
+        "no": 80,
+        "ad": "Cebrail Koç"
+       },
+       {
+        "no": 17,
+        "ad": "Muhammet Can Uludağ"
+       },
+       {
+        "no": 99,
+        "ad": "Eren Can Cömert"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Anıl Şahin",
+      "cikan": "Kerem Çapan"
+     },
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Taha Dönmez",
+      "cikan": "Rohat Çapa"
+     },
+     {
+      "dk": 58,
+      "takim": "dep",
+      "giren": "Mehmet Efe Şahin",
+      "cikan": "Hüseyin İkiz"
+     },
+     {
+      "dk": 58,
+      "takim": "dep",
+      "giren": "Cebrail Koç",
+      "cikan": "Semih Mert Korkmaz"
+     },
+     {
+      "dk": 71,
+      "takim": "ev",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     },
+     {
+      "dk": 76,
+      "takim": "dep",
+      "giren": "Muhammed Emre Taş",
+      "cikan": "Berkan Burak Turan"
+     },
+     {
+      "dk": 79,
+      "takim": "ev",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Alperen Pak",
+      "cikanId": "972735"
+     },
+     {
+      "dk": 86,
+      "takim": "ev",
+      "giren": "Alp Ada Abay",
+      "girenId": "2010639",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     },
+     {
+      "dk": 86,
+      "takim": "ev",
+      "giren": "Mustafa Emir Akyıldız",
+      "girenId": "1866897",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 86,
+      "takim": "ev",
+      "giren": "Ali Yeşilyurt",
+      "girenId": "1754246",
+      "cikan": "Veli Çetin",
+      "cikanId": "1030237"
+     }
+    ],
+    "hakem": "Onur Bingöl"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318742": {
+   "tarih": "2026-10-24",
+   "saat": "19:00",
+   "stat": "Isparta Atatürk Stadı",
+   "ev": {
+    "kulupId": "1484",
+    "ilk11": [
+     {
+      "id": "1627846",
+      "numara": 1
+     },
+     {
+      "id": "979773",
+      "numara": 3
+     },
+     {
+      "id": "1884517",
+      "numara": 41
+     },
+     {
+      "id": "1313089",
+      "numara": 11
+     },
+     {
+      "id": "1655926",
+      "numara": 77
+     },
+     {
+      "id": "1066300",
+      "numara": 6
+     },
+     {
+      "id": "1626898",
+      "numara": 25
+     },
+     {
+      "id": "1936915",
+      "numara": 21
+     },
+     {
+      "id": "1153697",
+      "numara": 70
+     },
+     {
+      "id": "2552340",
+      "numara": 9
+     },
+     {
+      "id": "1033243",
+      "numara": 51
+     }
+    ],
+    "yedek": [
+     {
+      "id": "855696",
+      "numara": 93
+     },
+     {
+      "id": "1918450",
+      "numara": 24
+     },
+     {
+      "id": "1566411",
+      "numara": 88
+     },
+     {
+      "id": "944496",
+      "numara": 10
+     },
+     {
+      "id": "2444437",
+      "numara": 66
+     },
+     {
+      "id": "1741846",
+      "numara": 80
+     },
+     {
+      "id": "1577205",
+      "numara": 8
+     },
+     {
+      "id": "1922433",
+      "numara": 17
+     },
+     {
+      "id": "1374658",
+      "numara": 26
+     },
+     {
+      "id": "1331387",
+      "numara": 7
+     }
+    ],
+    "girenler": [
+     "1741846",
+     "2444437",
+     "944496",
+     "1374658"
+    ],
+    "goller": [
+     {
+      "id": "1066300",
+      "kk": false
+     },
+     {
+      "id": "1033243",
+      "kk": false
+     },
+     {
+      "id": "1033243",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "1066300",
+      "kirmizi": false
+     },
+     {
+      "id": "1936915",
+      "kirmizi": false
+     },
+     {
+      "id": "2552340",
+      "kirmizi": false
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "1400771",
+      "numara": 8
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     },
+     {
+      "id": "938777",
+      "numara": 11
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1373277",
+      "numara": 4
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     },
+     {
+      "id": "2015273",
+      "numara": 18
+     }
+    ],
+    "girenler": [
+     "1919486",
+     "2552343",
+     "958783",
+     "1802810"
+    ],
+    "goller": [
+     {
+      "id": "898116",
+      "kk": false
+     },
+     {
+      "id": "1119772",
+      "kk": false
+     },
+     {
+      "id": "897776",
+      "kk": false
+     },
+     {
+      "id": "898116",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "766034",
+      "kirmizi": false
+     },
+     {
+      "id": "856257",
+      "kirmizi": false
+     },
+     {
+      "id": "877646",
+      "kirmizi": false
+     },
+     {
+      "id": "1400771",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 19,
+      "oyuncu": "Sertaç Çam",
+      "takim": "dep",
+      "id": "898116"
+     },
+     {
+      "dk": 21,
+      "oyuncu": "Mert Örnek",
+      "takim": "dep",
+      "id": "1119772"
+     },
+     {
+      "dk": 37,
+      "oyuncu": "Kaan Yüksel",
+      "takim": "ev"
+     },
+     {
+      "dk": 51,
+      "oyuncu": "Abdurrahman Emir Alagöz",
+      "takim": "dep",
+      "id": "897776"
+     },
+     {
+      "dk": 56,
+      "oyuncu": "Sertaç Çam",
+      "takim": "dep",
+      "id": "898116"
+     },
+     {
+      "dk": 61,
+      "oyuncu": "Fatih Aktay",
+      "takim": "ev"
+     },
+     {
+      "dk": 69,
+      "oyuncu": "Fatih Aktay",
+      "takim": "ev"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 18,
+      "oyuncu": "Keni Var Uzun",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 33,
+      "oyuncu": "Hakan Yavuz",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1400771"
+     },
+     {
+      "dk": 40,
+      "oyuncu": "Onur Eriş",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "856257"
+     },
+     {
+      "dk": 42,
+      "oyuncu": "Erhan Kartal",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "877646"
+     },
+     {
+      "dk": 44,
+      "oyuncu": "Kerem Nurhan",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 87,
+      "oyuncu": "Kaan Yüksel",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 90,
+      "ek": 2,
+      "oyuncu": "Furkan Köse",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "766034"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 1,
+        "ad": "Onur Can Özdemir"
+       },
+       {
+        "no": 3,
+        "ad": "Yiğithan Güveli"
+       },
+       {
+        "no": 41,
+        "ad": "Oğulcan Başol"
+       },
+       {
+        "no": 11,
+        "ad": "Hamit Kulya"
+       },
+       {
+        "no": 77,
+        "ad": "Bahadır Yıldırım"
+       },
+       {
+        "no": 6,
+        "ad": "Kaan Yüksel"
+       },
+       {
+        "no": 25,
+        "ad": "Muhammed Mustafa Özbay"
+       },
+       {
+        "no": 21,
+        "ad": "Kerem Nurhan"
+       },
+       {
+        "no": 70,
+        "ad": "Vedat Bora"
+       },
+       {
+        "no": 9,
+        "ad": "Keni Var Uzun"
+       },
+       {
+        "no": 51,
+        "ad": "Fatih Aktay"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 93,
+        "ad": "Fatih Gülmez"
+       },
+       {
+        "no": 24,
+        "ad": "Emirhan Parmaksız"
+       },
+       {
+        "no": 88,
+        "ad": "Furkan Uludaş"
+       },
+       {
+        "no": 10,
+        "ad": "Enver Cenk Şahin"
+       },
+       {
+        "no": 66,
+        "ad": "Hasip Korkmazyürek"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Mert Dursun"
+       },
+       {
+        "no": 8,
+        "ad": "Mustafa Acar"
+       },
+       {
+        "no": 17,
+        "ad": "Alperen Karaca"
+       },
+       {
+        "no": 26,
+        "ad": "Bedirhan Altunbaş"
+       },
+       {
+        "no": 7,
+        "ad": "Devrim Taşkaya"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 18,
+        "ad": "Yiğit Ekrem Karakaş",
+        "id": "2015273"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 59,
+      "takim": "ev",
+      "giren": "Enver Cenk Şahin",
+      "cikan": "Bahadır Yıldırım"
+     },
+     {
+      "dk": 59,
+      "takim": "ev",
+      "giren": "Bedirhan Altunbaş",
+      "cikan": "Kerem Nurhan"
+     },
+     {
+      "dk": 67,
+      "takim": "ev",
+      "giren": "Muhammed Mert Dursun",
+      "cikan": "Vedat Bora"
+     },
+     {
+      "dk": 67,
+      "takim": "ev",
+      "giren": "Hasip Korkmazyürek",
+      "cikan": "Muhammed Mustafa Özbay"
+     },
+     {
+      "dk": 72,
+      "takim": "dep",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 85,
+      "takim": "dep",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     },
+     {
+      "dk": 85,
+      "takim": "dep",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     },
+     {
+      "dk": 90,
+      "ek": 1,
+      "takim": "dep",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     }
+    ],
+    "hakem": "Can Cengiz"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "318753": {
+   "tarih": "2026-11-01",
+   "saat": "13:00",
+   "stat": "Gazi Stadı",
+   "ev": {
+    "kulupId": "4342",
+    "ilk11": [
+     {
+      "id": "1297242",
+      "numara": 1
+     },
+     {
+      "id": "1492956",
+      "numara": 4
+     },
+     {
+      "id": "996102",
+      "numara": 9
+     },
+     {
+      "id": "1131605",
+      "numara": 10
+     },
+     {
+      "id": "1691580",
+      "numara": 17
+     },
+     {
+      "id": "1863983",
+      "numara": 20
+     },
+     {
+      "id": "2185141",
+      "numara": 24
+     },
+     {
+      "id": "1733309",
+      "numara": 32
+     },
+     {
+      "id": "1629651",
+      "numara": 37
+     },
+     {
+      "id": "1049256",
+      "numara": 66
+     },
+     {
+      "id": "1912517",
+      "numara": 77
+     }
+    ],
+    "yedek": [
+     {
+      "id": "2144429",
+      "numara": 31
+     },
+     {
+      "id": "1907874",
+      "numara": 7
+     },
+     {
+      "id": "2109227",
+      "numara": 8
+     },
+     {
+      "id": "2172263",
+      "numara": 15
+     },
+     {
+      "id": "2174057",
+      "numara": 18
+     },
+     {
+      "id": "2354933",
+      "numara": 27
+     },
+     {
+      "id": "2157450",
+      "numara": 55
+     },
+     {
+      "id": "1993200",
+      "numara": 58
+     },
+     {
+      "id": "1900235",
+      "numara": 88
+     }
+    ],
+    "girenler": [
+     "2109227",
+     "1900235",
+     "2354933"
+    ],
+    "goller": [],
+    "kartlar": [
+     {
+      "id": "1912517",
+      "kirmizi": false
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "766034",
+      "numara": 77
+     },
+     {
+      "id": "877646",
+      "numara": 20
+     },
+     {
+      "id": "1030237",
+      "numara": 3
+     },
+     {
+      "id": "111545",
+      "numara": 6
+     },
+     {
+      "id": "856257",
+      "numara": 10
+     },
+     {
+      "id": "897776",
+      "numara": 5
+     },
+     {
+      "id": "1400771",
+      "numara": 8
+     },
+     {
+      "id": "972735",
+      "numara": 22
+     },
+     {
+      "id": "898116",
+      "numara": 1
+     },
+     {
+      "id": "1119772",
+      "numara": 23
+     },
+     {
+      "id": "938777",
+      "numara": 11
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1996845",
+      "numara": 66
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     },
+     {
+      "id": "2106723",
+      "numara": 27
+     }
+    ],
+    "girenler": [
+     "1754246",
+     "1866897",
+     "958783",
+     "1802810",
+     "2552343"
+    ],
+    "goller": [
+     {
+      "id": "897776",
+      "kk": false
+     },
+     {
+      "id": "898116",
+      "kk": false
+     },
+     {
+      "id": "1119772",
+      "kk": false
+     },
+     {
+      "id": "2552343",
+      "kk": false
+     },
+     {
+      "id": "2552343",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "111545",
+      "kirmizi": false
+     },
+     {
+      "id": "877646",
+      "kirmizi": false
+     },
+     {
+      "id": "898116",
+      "kirmizi": false
+     },
+     {
+      "id": "972735",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 24,
+      "oyuncu": "Abdurrahman Emir Alagöz",
+      "takim": "dep",
+      "id": "897776"
+     },
+     {
+      "dk": 29,
+      "oyuncu": "Sertaç Çam",
+      "takim": "dep",
+      "id": "898116"
+     },
+     {
+      "dk": 49,
+      "oyuncu": "Mert Örnek",
+      "takim": "dep",
+      "id": "1119772"
+     },
+     {
+      "dk": 82,
+      "oyuncu": "Barış Ekincier",
+      "takim": "dep",
+      "id": "2552343",
+      "tur": "penalti"
+     },
+     {
+      "dk": 89,
+      "oyuncu": "Barış Ekincier",
+      "takim": "dep",
+      "id": "2552343"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 31,
+      "oyuncu": "Alperen Pak",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "972735"
+     },
+     {
+      "dk": 60,
+      "oyuncu": "Feyyaz Belen",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "111545"
+     },
+     {
+      "dk": 71,
+      "oyuncu": "Sertaç Çam",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "898116"
+     },
+     {
+      "dk": 81,
+      "oyuncu": "Mert Çalışkan",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 90,
+      "ek": 1,
+      "oyuncu": "Erhan Kartal",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "877646"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 1,
+        "ad": "Deniz Çörtlen"
+       },
+       {
+        "no": 4,
+        "ad": "İsmail Hasan Bakkal"
+       },
+       {
+        "no": 9,
+        "ad": "Ahmethan Köse"
+       },
+       {
+        "no": 10,
+        "ad": "Ahmet Yazar"
+       },
+       {
+        "no": 17,
+        "ad": "Necati Bilgiç"
+       },
+       {
+        "no": 20,
+        "ad": "Emir Açıkgöz"
+       },
+       {
+        "no": 24,
+        "ad": "Kerim Temizkan"
+       },
+       {
+        "no": 32,
+        "ad": "Gökmen Özince"
+       },
+       {
+        "no": 37,
+        "ad": "Erdem Reis"
+       },
+       {
+        "no": 66,
+        "ad": "Yasin Başaytaç"
+       },
+       {
+        "no": 77,
+        "ad": "Mert Çalışkan"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 31,
+        "ad": "Kerem Çavdar"
+       },
+       {
+        "no": 7,
+        "ad": "Doruk Paflak"
+       },
+       {
+        "no": 8,
+        "ad": "Oğuz Duman"
+       },
+       {
+        "no": 15,
+        "ad": "Yasin Hızar"
+       },
+       {
+        "no": 18,
+        "ad": "Samet Tarık Güler"
+       },
+       {
+        "no": 27,
+        "ad": "Serdar Avkaroğlu"
+       },
+       {
+        "no": 55,
+        "ad": "Deniz Güngör"
+       },
+       {
+        "no": 58,
+        "ad": "Ögeday Hadi Uyanık"
+       },
+       {
+        "no": 88,
+        "ad": "Niyazi Kılıç"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 44,
+      "takim": "dep",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 46,
+      "takim": "ev",
+      "giren": "Serdar Avkaroğlu",
+      "cikan": "Kerim Temizkan"
+     },
+     {
+      "dk": 62,
+      "takim": "dep",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Alperen Pak",
+      "cikanId": "972735"
+     },
+     {
+      "dk": 62,
+      "takim": "dep",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     },
+     {
+      "dk": 65,
+      "takim": "ev",
+      "giren": "Oğuz Duman",
+      "cikan": "İsmail Hasan Bakkal"
+     },
+     {
+      "dk": 79,
+      "takim": "ev",
+      "giren": "Niyazi Kılıç",
+      "cikan": "Necati Bilgiç"
+     },
+     {
+      "dk": 82,
+      "takim": "dep",
+      "giren": "Ali Yeşilyurt",
+      "girenId": "1754246",
+      "cikan": "Feyyaz Belen",
+      "cikanId": "111545"
+     },
+     {
+      "dk": 82,
+      "takim": "dep",
+      "giren": "Mustafa Emir Akyıldız",
+      "girenId": "1866897",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     }
+    ],
+    "hakem": "Kadir Demir"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  },
+  "373121": {
+   "tarih": "2026-10-27",
+   "saat": "15:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "ev": {
+    "kulupId": "37",
+    "ilk11": [
+     {
+      "id": "1792945",
+      "numara": 25
+     },
+     {
+      "id": "2552343",
+      "numara": 7
+     },
+     {
+      "id": "1802810",
+      "numara": 17
+     },
+     {
+      "id": "2294684",
+      "numara": 19
+     },
+     {
+      "id": "2106723",
+      "numara": 27
+     },
+     {
+      "id": "1919486",
+      "numara": 30
+     },
+     {
+      "id": "2010639",
+      "numara": 35
+     },
+     {
+      "id": "1866897",
+      "numara": 55
+     },
+     {
+      "id": "1754246",
+      "numara": 58
+     },
+     {
+      "id": "1996845",
+      "numara": 66
+     },
+     {
+      "id": "958783",
+      "numara": 80
+     }
+    ],
+    "yedek": [
+     {
+      "id": "2305851",
+      "numara": 26
+     },
+     {
+      "id": "2015273",
+      "numara": 18
+     },
+     {
+      "id": "2092687",
+      "numara": 40
+     },
+     {
+      "id": "2294742",
+      "numara": 41
+     },
+     {
+      "id": "2326770",
+      "numara": 42
+     },
+     {
+      "id": "2076180",
+      "numara": 43
+     },
+     {
+      "id": "2350144",
+      "numara": 46
+     },
+     {
+      "id": "1963359",
+      "numara": 50
+     },
+     {
+      "id": "2193035",
+      "numara": 99
+     }
+    ],
+    "girenler": [
+     "2076180",
+     "2294742",
+     "2015273",
+     "2193035"
+    ],
+    "goller": [],
+    "kartlar": [
+     {
+      "id": "1802810",
+      "kirmizi": false
+     },
+     {
+      "id": "1866897",
+      "kirmizi": false
+     },
+     {
+      "id": "2294684",
+      "kirmizi": false
+     }
+    ]
+   },
+   "dep": {
+    "kulupId": "4398",
+    "ilk11": [
+     {
+      "id": "1886979",
+      "numara": 1
+     },
+     {
+      "id": "1536082",
+      "numara": 54
+     },
+     {
+      "id": "1998397",
+      "numara": 3
+     },
+     {
+      "id": "2111549",
+      "numara": 38
+     },
+     {
+      "id": "1737333",
+      "numara": 18
+     },
+     {
+      "id": "897782",
+      "numara": 8
+     },
+     {
+      "id": "1871157",
+      "numara": 6
+     },
+     {
+      "id": "1540116",
+      "numara": 17
+     },
+     {
+      "id": "1581732",
+      "numara": 19
+     },
+     {
+      "id": "1969647",
+      "numara": 99
+     },
+     {
+      "id": "2182821",
+      "numara": 79
+     }
+    ],
+    "yedek": [
+     {
+      "id": "1982985",
+      "numara": 12
+     },
+     {
+      "id": "1056702",
+      "numara": 7
+     },
+     {
+      "id": "1425529",
+      "numara": 10
+     },
+     {
+      "id": "935828",
+      "numara": 2
+     },
+     {
+      "id": "1449745",
+      "numara": 66
+     },
+     {
+      "id": "1734117",
+      "numara": 77
+     },
+     {
+      "id": "2497079",
+      "numara": 21
+     },
+     {
+      "id": "1540684",
+      "numara": 11
+     },
+     {
+      "id": "1553717",
+      "numara": 4
+     },
+     {
+      "id": "1513822",
+      "numara": 5
+     }
+    ],
+    "girenler": [
+     "1540684",
+     "1425529",
+     "1056702",
+     "1513822",
+     "1734117"
+    ],
+    "goller": [
+     {
+      "id": "1056702",
+      "kk": false
+     },
+     {
+      "id": "1056702",
+      "kk": false
+     }
+    ],
+    "kartlar": [
+     {
+      "id": "1536082",
+      "kirmizi": false
+     }
+    ]
+   },
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 74,
+      "oyuncu": "Çağrı Yağız Yasak",
+      "takim": "dep"
+     },
+     {
+      "dk": 90,
+      "ek": 2,
+      "oyuncu": "Çağrı Yağız Yasak",
+      "takim": "dep"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 13,
+      "oyuncu": "Mustafa Emir Akyıldız",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1866897"
+     },
+     {
+      "dk": 34,
+      "oyuncu": "Ali Altınöz",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1802810"
+     },
+     {
+      "dk": 42,
+      "oyuncu": "Serhat Genç",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "2294684"
+     },
+     {
+      "dk": 70,
+      "oyuncu": "Ensar Bilir",
+      "takim": "dep",
+      "renk": "sari"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 26,
+        "ad": "Yusuf Ayaz",
+        "id": "2305851"
+       },
+       {
+        "no": 18,
+        "ad": "Yiğit Ekrem Karakaş",
+        "id": "2015273"
+       },
+       {
+        "no": 40,
+        "ad": "Muhammet Yusuf Kılbitmez",
+        "id": "2092687"
+       },
+       {
+        "no": 41,
+        "ad": "Eymen Önder",
+        "id": "2294742"
+       },
+       {
+        "no": 42,
+        "ad": "Muhammet Eren Başöz",
+        "id": "2326770"
+       },
+       {
+        "no": 43,
+        "ad": "Muhammed Sefa Gül",
+        "id": "2076180"
+       },
+       {
+        "no": 46,
+        "ad": "Aytuğ Berkay Mavidemir",
+        "id": "2350144"
+       },
+       {
+        "no": 50,
+        "ad": "Emirhan Karataş",
+        "id": "1963359"
+       },
+       {
+        "no": 99,
+        "ad": "Özkan Bal",
+        "id": "2193035"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 1,
+        "ad": "Kerem Yandal"
+       },
+       {
+        "no": 54,
+        "ad": "Ensar Bilir"
+       },
+       {
+        "no": 3,
+        "ad": "Hakan Eren Atabey"
+       },
+       {
+        "no": 38,
+        "ad": "Batuhan Özgan"
+       },
+       {
+        "no": 18,
+        "ad": "Burak Efe Arslan"
+       },
+       {
+        "no": 8,
+        "ad": "Mehmet Tosun"
+       },
+       {
+        "no": 6,
+        "ad": "Caner Kaban"
+       },
+       {
+        "no": 17,
+        "ad": "Seyit Ali Kahya"
+       },
+       {
+        "no": 19,
+        "ad": "İlkay İşler"
+       },
+       {
+        "no": 99,
+        "ad": "Ali Kılıç"
+       },
+       {
+        "no": 79,
+        "ad": "Berke Özçelik"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 12,
+        "ad": "Yağız Efe Dere"
+       },
+       {
+        "no": 7,
+        "ad": "Çağrı Yağız Yasak"
+       },
+       {
+        "no": 10,
+        "ad": "Osman Şahin"
+       },
+       {
+        "no": 2,
+        "ad": "Mehmet Eksik"
+       },
+       {
+        "no": 66,
+        "ad": "Mikail Koçak"
+       },
+       {
+        "no": 77,
+        "ad": "Utkan Gökçen"
+       },
+       {
+        "no": 21,
+        "ad": "Mustafa Yağız Altıntaş"
+       },
+       {
+        "no": 11,
+        "ad": "Fatih Yiğit Şanlitürk"
+       },
+       {
+        "no": 4,
+        "ad": "Halil Duman"
+       },
+       {
+        "no": 5,
+        "ad": "Güney Gençel"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "ev",
+      "giren": "Özkan Bal",
+      "girenId": "2193035",
+      "cikan": "Bünyamin Güler",
+      "cikanId": "2106723"
+     },
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Çağrı Yağız Yasak",
+      "cikan": "Berke Özçelik"
+     },
+     {
+      "dk": 60,
+      "takim": "ev",
+      "giren": "Yiğit Ekrem Karakaş",
+      "girenId": "2015273",
+      "cikan": "Serhat Genç",
+      "cikanId": "2294684"
+     },
+     {
+      "dk": 65,
+      "takim": "dep",
+      "giren": "Fatih Yiğit Şanlitürk",
+      "cikan": "Seyit Ali Kahya"
+     },
+     {
+      "dk": 65,
+      "takim": "dep",
+      "giren": "Osman Şahin",
+      "cikan": "İlkay İşler"
+     },
+     {
+      "dk": 77,
+      "takim": "dep",
+      "giren": "Utkan Gökçen",
+      "cikan": "Burak Efe Arslan"
+     },
+     {
+      "dk": 81,
+      "takim": "dep",
+      "giren": "Güney Gençel",
+      "cikan": "Caner Kaban"
+     },
+     {
+      "dk": 90,
+      "takim": "ev",
+      "giren": "Muhammed Sefa Gül",
+      "girenId": "2076180",
+      "cikan": "İsmail Esat Buğa",
+      "cikanId": "1919486"
+     },
+     {
+      "dk": 90,
+      "takim": "ev",
+      "giren": "Eymen Önder",
+      "girenId": "2294742",
+      "cikan": "Muhammet Berat Sağlam",
+      "cikanId": "1996845"
+     }
+    ],
+    "hakem": "Talha Öztürk"
+   },
+   "alindi": "2026-11-22T09:02:34.849Z"
+  }
+ },
+ "yayin": {}
+}

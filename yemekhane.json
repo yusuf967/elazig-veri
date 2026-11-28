@@ -1,0 +1,205 @@
+{
+ "guncelleme": "2026-11-28T08:30:38.710Z",
+ "durum": "guncel",
+ "plan": "A",
+ "kaynak": "Fırat Üniversitesi SKS (Yemek Menüsü)",
+ "kaynakUrl": "https://unievi.firat.edu.tr/tr",
+ "sonBasari": "2026-11-28T08:30:38.710Z",
+ "ogeler": [
+  {
+   "tarih": "2026-11-30",
+   "gun": "Pazartesi",
+   "yemekler": [
+    {
+     "tur": "Ana Yemek",
+     "ad": "Etli Bezelye",
+     "kalori": 298,
+     "protein": 18.3,
+     "karbonhidrat": 29.2,
+     "yag": 12
+    },
+    {
+     "tur": "Yardımcı Yemek",
+     "ad": "Bulgur Pilavı",
+     "kalori": 291,
+     "protein": 6.5,
+     "karbonhidrat": 37.2,
+     "yag": 12.9
+    },
+    {
+     "tur": "Eşlikçi",
+     "ad": "Toyga Çorba",
+     "kalori": 115,
+     "protein": 3.3,
+     "karbonhidrat": 12.4,
+     "yag": 5.8
+    },
+    {
+     "tur": "Tamamlayıcı",
+     "ad": "İrmik Tatlısı",
+     "kalori": 528,
+     "protein": 6.7,
+     "karbonhidrat": 76,
+     "yag": 21.9
+    }
+   ],
+   "toplamKalori": 1232
+  },
+  {
+   "tarih": "2026-12-01",
+   "gun": "Salı",
+   "yemekler": [
+    {
+     "tur": "Ana Yemek",
+     "ad": "Tavuk Haşlama",
+     "kalori": 259,
+     "protein": 26.2,
+     "karbonhidrat": 14.9,
+     "yag": 10.5
+    },
+    {
+     "tur": "Yardımcı Yemek",
+     "ad": "Pirinç Pilavı",
+     "kalori": 326,
+     "protein": 4.1,
+     "karbonhidrat": 49.1,
+     "yag": 12.6
+    },
+    {
+     "tur": "Eşlikçi",
+     "ad": "Mevsim Salata",
+     "kalori": 123,
+     "protein": 1.3,
+     "karbonhidrat": 6.3,
+     "yag": 10.3
+    },
+    {
+     "tur": "Tamamlayıcı",
+     "ad": "Meyve",
+     "kalori": 60,
+     "protein": 31.6,
+     "karbonhidrat": 15,
+     "yag": 33.4
+    }
+   ],
+   "toplamKalori": 768
+  },
+  {
+   "tarih": "2026-12-02",
+   "gun": "Çarşamba",
+   "yemekler": [
+    {
+     "tur": "Ana Yemek",
+     "ad": "Kıymalı Karnabahar",
+     "kalori": 187,
+     "protein": 11.3,
+     "karbonhidrat": 9.1,
+     "yag": 11.7
+    },
+    {
+     "tur": "Yardımcı Yemek",
+     "ad": "Bulgur Pilavı",
+     "kalori": 291,
+     "protein": 6.5,
+     "karbonhidrat": 37.2,
+     "yag": 12.9
+    },
+    {
+     "tur": "Eşlikçi",
+     "ad": "Domates Çorba",
+     "kalori": 20,
+     "protein": 15,
+     "karbonhidrat": 5,
+     "yag": 4.9
+    },
+    {
+     "tur": "Tamamlayıcı",
+     "ad": "Yoğurt",
+     "kalori": 64,
+     "protein": 3,
+     "karbonhidrat": 4.5,
+     "yag": 3.8
+    }
+   ],
+   "toplamKalori": 562
+  },
+  {
+   "tarih": "2026-12-03",
+   "gun": "Perşembe",
+   "yemekler": [
+    {
+     "tur": "Ana Yemek",
+     "ad": "Somon Kızartma",
+     "kalori": 460,
+     "protein": 48,
+     "karbonhidrat": null,
+     "yag": 30
+    },
+    {
+     "tur": "Yardımcı Yemek",
+     "ad": "Fasulye Pilaki",
+     "kalori": 275,
+     "protein": 11.5,
+     "karbonhidrat": 36,
+     "yag": 12.5
+    },
+    {
+     "tur": "Eşlikçi",
+     "ad": "Mercimek Çorba",
+     "kalori": 183,
+     "protein": 7.9,
+     "karbonhidrat": 22.8,
+     "yag": 6.7
+    },
+    {
+     "tur": "Tamamlayıcı",
+     "ad": "Kadayıf",
+     "kalori": 246,
+     "protein": 3,
+     "karbonhidrat": 27,
+     "yag": 14
+    }
+   ],
+   "toplamKalori": 1164
+  },
+  {
+   "tarih": "2026-12-04",
+   "gun": "Cuma",
+   "yemekler": [
+    {
+     "tur": "Ana Yemek",
+     "ad": "Zeytinyağlı Barbunya",
+     "kalori": 267,
+     "protein": 7.8,
+     "karbonhidrat": 25.2,
+     "yag": 15
+    },
+    {
+     "tur": "Yardımcı Yemek",
+     "ad": "Pirinç Pilavı",
+     "kalori": 326,
+     "protein": 4.1,
+     "karbonhidrat": 49.1,
+     "yag": 12.6
+    },
+    {
+     "tur": "Eşlikçi",
+     "ad": "Mevsim Salata",
+     "kalori": 123,
+     "protein": 1.3,
+     "karbonhidrat": 6.3,
+     "yag": 10.3
+    },
+    {
+     "tur": "Tamamlayıcı",
+     "ad": "Meyve",
+     "kalori": 60,
+     "protein": 13.2,
+     "karbonhidrat": 15,
+     "yag": 37.9
+    }
+   ],
+   "toplamKalori": 776
+  }
+ ]
+}

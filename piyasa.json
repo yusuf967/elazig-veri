@@ -1,0 +1,173 @@
+{
+ "guncelleme": "2026-11-28T11:29:44.795Z",
+ "durum": "guncel",
+ "plan": "A",
+ "kaynak": "Truncgil Finans",
+ "kaynakUrl": "https://finans.truncgil.com/",
+ "sonBasari": "2026-11-28T11:29:44.795Z",
+ "kaynakGuncelleme": "2026-11-28T14:29:01+03:00",
+ "ogeler": [
+  {
+   "kod": "USD",
+   "ad": "Amerikan Doları",
+   "tur": "doviz",
+   "birim": "TRY",
+   "alis": 50.7507,
+   "satis": 50.7842,
+   "degisimYuzde": 0.2
+  },
+  {
+   "kod": "EUR",
+   "ad": "Euro",
+   "tur": "doviz",
+   "birim": "TRY",
+   "alis": 55.5386,
+   "satis": 55.5956,
+   "degisimYuzde": -0.29
+  },
+  {
+   "kod": "GBP",
+   "ad": "İngiliz Sterlini",
+   "tur": "doviz",
+   "birim": "TRY",
+   "alis": 66.4998,
+   "satis": 66.5704,
+   "degisimYuzde": -0.08
+  },
+  {
+   "kod": "GRAM",
+   "ad": "Gram Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 5963.87,
+   "satis": 5964.82,
+   "degisimYuzde": 2.58
+  },
+  {
+   "kod": "CEYREK",
+   "ad": "Çeyrek Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 9886,
+   "satis": 10171,
+   "degisimYuzde": 1.49
+  },
+  {
+   "kod": "YARIM",
+   "ad": "Yarım Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 19771,
+   "satis": 20343,
+   "degisimYuzde": 1.5
+  },
+  {
+   "kod": "TAM",
+   "ad": "Tam Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 39422,
+   "satis": 40257,
+   "degisimYuzde": 1.19
+  },
+  {
+   "kod": "CUMHURIYET",
+   "ad": "Cumhuriyet Altını",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 40513,
+   "satis": 41114,
+   "degisimYuzde": 1.49
+  },
+  {
+   "kod": "ONS",
+   "ad": "Ons Altın",
+   "tur": "altin",
+   "birim": "USD",
+   "alis": 3653.86,
+   "satis": 3654.44,
+   "degisimYuzde": 2.43
+  },
+  {
+   "kod": "GUMUS",
+   "ad": "Gram Gümüş",
+   "tur": "gumus",
+   "birim": "TRY",
+   "alis": 71.34,
+   "satis": 71.44,
+   "degisimYuzde": 5.52
+  },
+  {
+   "kod": "ATA",
+   "ad": "Ata Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 40513,
+   "satis": 41114,
+   "degisimYuzde": 1.49
+  },
+  {
+   "kod": "YIA",
+   "ad": "22 Ayar Bilezik",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 5517.01,
+   "satis": 5736.84,
+   "degisimYuzde": 1.5
+  },
+  {
+   "kod": "HAS",
+   "ad": "Has Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 5934.05,
+   "satis": 5935,
+   "degisimYuzde": 2.58
+  },
+  {
+   "kod": "RESAT",
+   "ad": "Reşat Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 40513,
+   "satis": 41114,
+   "degisimYuzde": 1.49
+  },
+  {
+   "kod": "BESLI",
+   "ad": "Beşli Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 197121.6,
+   "satis": 200979.77,
+   "degisimYuzde": 1.11
+  },
+  {
+   "kod": "GREMSE",
+   "ad": "Gremse Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 98251,
+   "satis": 100182,
+   "degisimYuzde": 0.57
+  },
+  {
+   "kod": "AYAR18",
+   "ad": "18 Ayar Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 4192,
+   "satis": 4925,
+   "degisimYuzde": 1.86
+  },
+  {
+   "kod": "AYAR14",
+   "ad": "14 Ayar Altın",
+   "tur": "altin",
+   "birim": "TRY",
+   "alis": 3306.32,
+   "satis": 4480.79,
+   "degisimYuzde": 1.33
+  }
+ ]
+}

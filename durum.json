@@ -1,0 +1,110 @@
+{
+ "guncelleme": "2026-11-28T14:33:24.656Z",
+ "betikler": {
+  "eczane": {
+   "sonBasari": "2026-11-28T14:33:24.656Z",
+   "ogeSayisi": 9,
+   "sonHata": null,
+   "sureMs": 1371,
+   "plan": "A",
+   "kaynak": "Elazığ Eczacı Odası"
+  },
+  "elektrik-kesintileri": {
+   "sonBasari": "2026-11-28T07:59:25.041Z",
+   "ogeSayisi": 63,
+   "sonHata": null,
+   "sureMs": 3521,
+   "plan": "A",
+   "kaynak": "Fırat EDAŞ"
+  },
+  "su-kesintileri": {
+   "sonBasari": "2026-11-27T21:41:51.559Z",
+   "ogeSayisi": 0,
+   "sonHata": {
+    "zaman": "2026-11-28T08:30:36.371Z",
+    "mesaj": "su-kesintileri: tüm kaynaklar başarısız -> A (Elazığ Belediyesi haber ve duyuruları (anahtar kelime süzgeci)): belediye sayfalarına ulaşılamadı"
+   },
+   "sureMs": 1506,
+   "plan": "A",
+   "kaynak": "Elazığ Belediyesi haber ve duyuruları (anahtar kelime süzgeci)"
+  },
+  "vefat": {
+   "sonBasari": "2026-11-27T21:41:29.871Z",
+   "ogeSayisi": 24,
+   "sonHata": {
+    "zaman": "2026-11-28T08:30:18.540Z",
+    "mesaj": "vefat: tüm kaynaklar başarısız -> A (Elazığ Belediyesi): HTTP 403 https://www.elazig.bel.tr/vefat-edenler/"
+   },
+   "sureMs": 425,
+   "plan": "A",
+   "kaynak": "Elazığ Belediyesi"
+  },
+  "is-ilanlari": {
+   "sonBasari": "2026-11-28T08:30:32.860Z",
+   "ogeSayisi": 45,
+   "sonHata": null,
+   "sureMs": 13320,
+   "plan": "A",
+   "kaynak": "İŞKUR e-Şube"
+  },
+  "yemekhane": {
+   "sonHata": null,
+   "sureMs": 1339,
+   "sonBasari": "2026-11-28T08:30:38.711Z",
+   "ogeSayisi": 5,
+   "plan": "A",
+   "kaynak": "Fırat Üniversitesi SKS (Yemek Menüsü)"
+  },
+  "etkinlikler": {
+   "sonBasari": "2026-11-27T21:41:48.270Z",
+   "ogeSayisi": 27,
+   "sonHata": {
+    "zaman": "2026-11-28T08:30:33.864Z",
+    "mesaj": "etkinlikler: tüm kaynaklar başarısız -> A (Elazığ Belediyesi): www.elazig.bel.tr bu çalıştırmada 403/429 verdi, tekrar istek atılmıyor"
+   },
+   "sureMs": 2,
+   "plan": "A",
+   "kaynak": "Elazığ Belediyesi"
+  },
+  "deprem": {
+   "sonBasari": "2026-11-28T11:29:42.943Z",
+   "ogeSayisi": 109,
+   "sonHata": null,
+   "sureMs": 1175,
+   "plan": "A",
+   "kaynak": "AFAD Deprem Dairesi"
+  },
+  "piyasa": {
+   "sonBasari": "2026-11-28T11:29:44.796Z",
+   "ogeSayisi": 18,
+   "sonHata": null,
+   "sureMs": 852,
+   "plan": "A",
+   "kaynak": "Truncgil Finans"
+  },
+  "hava": {
+   "sonBasari": "2026-11-28T11:29:48.978Z",
+   "ogeSayisi": 24,
+   "sonHata": null,
+   "sureMs": 1020,
+   "plan": "A",
+   "kaynak": "MET Norway"
+  },
+  "elazigspor": {
+   "sonBasari": "2026-11-28T12:12:57.581Z",
+   "ogeSayisi": 27,
+   "plan": "A",
+   "kaynak": "TFF",
+   "sonHata": null,
+   "sureMs": 15955
+  },
+  "piyasa-gecmis": {
+   "sonBasari": "2026-11-28T11:29:46.957Z",
+   "ogeSayisi": 12,
+   "plan": "A",
+   "kaynak": "Piyasa ölçümü (30 dk); döviz geçmişi ECB referans kuru",
+   "sonHata": null,
+   "sureMs": 1160
+  }
+ }
+}

@@ -1,0 +1,5429 @@
+{
+ "guncelleme": "2026-11-28T12:12:41.629Z",
+ "durum": "guncel",
+ "plan": "A",
+ "kaynak": "TFF",
+ "kaynakUrl": "https://www.tff.org/Default.aspx?pageID=28&kulupID=37",
+ "sonBasari": "2026-11-28T12:12:41.629Z",
+ "lig": {
+  "ad": "2. Lig",
+  "grup": "Beyaz",
+  "sezon": "2026-2027"
+ },
+ "takim": {
+  "ad": "Elazığspor",
+  "tamAd": "Seza Çimento Elazığspor",
+  "stat": "Elazığ Atatürk Stadyumu"
+ },
+ "bolumler": {
+  "puanDurumu": {
+   "durum": "guncel",
+   "plan": "A",
+   "sonBasari": "2026-11-28T12:12:41.629Z",
+   "ceza": [
+    {
+     "takim": "Gmg Kastamonuspor",
+     "puan": 3
+    },
+    {
+     "takim": "Arkent Arnavutköy Belediyesi",
+     "puan": 3
+    },
+    {
+     "takim": "Hatayspor",
+     "puan": 9
+    },
+    {
+     "takim": "Adana Demirspor",
+     "puan": 63
+    }
+   ]
+  },
+  "fikstur": {
+   "durum": "guncel",
+   "plan": "A",
+   "sonBasari": "2026-11-28T12:12:41.629Z"
+  },
+  "kadro": {
+   "durum": "guncel",
+   "plan": "A",
+   "sonBasari": "2026-11-28T12:12:41.629Z"
+  }
+ },
+ "puanDurumu": [
+  {
+   "sira": 1,
+   "takim": "Muş Spor",
+   "o": 13,
+   "g": 10,
+   "b": 2,
+   "m": 1,
+   "a": 40,
+   "y": 15,
+   "av": 25,
+   "p": 32
+  },
+  {
+   "sira": 2,
+   "takim": "Elazığspor",
+   "o": 13,
+   "g": 9,
+   "b": 3,
+   "m": 1,
+   "a": 33,
+   "y": 9,
+   "av": 24,
+   "p": 30,
+   "biz": true
+  },
+  {
+   "sira": 3,
+   "takim": "Aliağa",
+   "o": 13,
+   "g": 9,
+   "b": 2,
+   "m": 2,
+   "a": 25,
+   "y": 16,
+   "av": 9,
+   "p": 29
+  },
+  {
+   "sira": 4,
+   "takim": "Kızılkaya Tarım Şanlıurfaspor",
+   "o": 14,
+   "g": 8,
+   "b": 4,
+   "m": 2,
+   "a": 32,
+   "y": 17,
+   "av": 15,
+   "p": 28
+  },
+  {
+   "sira": 5,
+   "takim": "İnegöl Kafkas Spor",
+   "o": 14,
+   "g": 8,
+   "b": 3,
+   "m": 3,
+   "a": 27,
+   "y": 16,
+   "av": 11,
+   "p": 27
+  },
+  {
+   "sira": 6,
+   "takim": "Güzide Gebze Spor",
+   "o": 13,
+   "g": 8,
+   "b": 3,
+   "m": 2,
+   "a": 24,
+   "y": 17,
+   "av": 7,
+   "p": 27
+  },
+  {
+   "sira": 7,
+   "takim": "Çorlu Spor 1947",
+   "o": 13,
+   "g": 7,
+   "b": 3,
+   "m": 3,
+   "a": 22,
+   "y": 15,
+   "av": 7,
+   "p": 24
+  },
+  {
+   "sira": 8,
+   "takim": "Efor Çay Erbaaspor",
+   "o": 13,
+   "g": 6,
+   "b": 2,
+   "m": 5,
+   "a": 24,
+   "y": 17,
+   "av": 7,
+   "p": 20
+  },
+  {
+   "sira": 9,
+   "takim": "Sebat Spor",
+   "o": 13,
+   "g": 5,
+   "b": 3,
+   "m": 5,
+   "a": 28,
+   "y": 19,
+   "av": 9,
+   "p": 18
+  },
+  {
+   "sira": 10,
+   "takim": "68 Aksaray Belediye Spor",
+   "o": 13,
+   "g": 5,
+   "b": 3,
+   "m": 5,
+   "a": 24,
+   "y": 19,
+   "av": 5,
+   "p": 18
+  },
+  {
+   "sira": 11,
+   "takim": "Ankaraspor",
+   "o": 14,
+   "g": 5,
+   "b": 1,
+   "m": 8,
+   "a": 21,
+   "y": 23,
+   "av": -2,
+   "p": 16
+  },
+  {
+   "sira": 12,
+   "takim": "Isbaş Isparta 32 Spor",
+   "o": 14,
+   "g": 4,
+   "b": 4,
+   "m": 6,
+   "a": 21,
+   "y": 23,
+   "av": -2,
+   "p": 16
+  },
+  {
+   "sira": 13,
+   "takim": "Menemen",
+   "o": 13,
+   "g": 4,
+   "b": 4,
+   "m": 5,
+   "a": 14,
+   "y": 17,
+   "av": -3,
+   "p": 16
+  },
+  {
+   "sira": 14,
+   "takim": "Somaspor",
+   "o": 14,
+   "g": 3,
+   "b": 3,
+   "m": 8,
+   "a": 15,
+   "y": 27,
+   "av": -12,
+   "p": 12
+  },
+  {
+   "sira": 15,
+   "takim": "Gmg Kastamonuspor",
+   "o": 13,
+   "g": 2,
+   "b": 2,
+   "m": 9,
+   "a": 10,
+   "y": 43,
+   "av": -33,
+   "p": 5
+  },
+  {
+   "sira": 16,
+   "takim": "Arkent Arnavutköy Belediyesi",
+   "o": 13,
+   "g": 1,
+   "b": 1,
+   "m": 11,
+   "a": 9,
+   "y": 30,
+   "av": -21,
+   "p": 1
+  },
+  {
+   "sira": 17,
+   "takim": "Hatayspor",
+   "o": 14,
+   "g": 1,
+   "b": 1,
+   "m": 12,
+   "a": 6,
+   "y": 33,
+   "av": -27,
+   "p": -5
+  },
+  {
+   "sira": 18,
+   "takim": "Adana Demirspor",
+   "o": 13,
+   "g": 2,
+   "b": 2,
+   "m": 9,
+   "a": 13,
+   "y": 32,
+   "av": -19,
+   "p": -55
+  }
+ ],
+ "fikstur": [
+  {
+   "macId": "318677",
+   "hafta": 1,
+   "tarih": "2026-09-06",
+   "evSahibi": "Elazığspor",
+   "deplasman": "Sebat Spor",
+   "ev": true,
+   "skor": "3-1",
+   "evGol": 3,
+   "depGol": 1,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "19:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 21,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "ev",
+      "id": "1546355"
+     },
+     {
+      "dk": 26,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "ev",
+      "id": "1546355"
+     },
+     {
+      "dk": 50,
+      "oyuncu": "Harun Özcan",
+      "takim": "dep"
+     },
+     {
+      "dk": 88,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "ev",
+      "id": "1546355",
+      "tur": "penalti"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 12,
+      "oyuncu": "Veli Çetin",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1030237"
+     },
+     {
+      "dk": 18,
+      "oyuncu": "Veysel Sönmezsoy",
+      "takim": "dep",
+      "renk": "sari"
+     },
+     {
+      "dk": 87,
+      "oyuncu": "Yasin Dülger",
+      "takim": "dep",
+      "renk": "sari"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 9,
+        "ad": "Kemal Rüzgar",
+        "id": "1546355"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 43,
+        "ad": "Ahmet Daş"
+       },
+       {
+        "no": 4,
+        "ad": "Mete Yıldız"
+       },
+       {
+        "no": 7,
+        "ad": "Ahmet Arda Tuzcu"
+       },
+       {
+        "no": 9,
+        "ad": "İlker Karakaş"
+       },
+       {
+        "no": 10,
+        "ad": "Veysel Sönmezsoy"
+       },
+       {
+        "no": 14,
+        "ad": "Cemal Kızılateş"
+       },
+       {
+        "no": 20,
+        "ad": "Rıdvan Dönmez"
+       },
+       {
+        "no": 22,
+        "ad": "Furkan Şan"
+       },
+       {
+        "no": 23,
+        "ad": "Burak Yamaç"
+       },
+       {
+        "no": 58,
+        "ad": "Burak Asan"
+       },
+       {
+        "no": 61,
+        "ad": "Yasin Dülger"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 1,
+        "ad": "Efe Eren Sancak"
+       },
+       {
+        "no": 6,
+        "ad": "Talha Özcan"
+       },
+       {
+        "no": 11,
+        "ad": "Eren Altıntaş"
+       },
+       {
+        "no": 15,
+        "ad": "Halit Emre Acun"
+       },
+       {
+        "no": 17,
+        "ad": "Bulut Uysal"
+       },
+       {
+        "no": 19,
+        "ad": "Güneş Güventürk"
+       },
+       {
+        "no": 24,
+        "ad": "Eren Karaağaç"
+       },
+       {
+        "no": 27,
+        "ad": "Thierry Darnel Karadeniz"
+       },
+       {
+        "no": 77,
+        "ad": "Umut Uzun"
+       },
+       {
+        "no": 99,
+        "ad": "Harun Özcan"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Harun Özcan",
+      "cikan": "Burak Yamaç"
+     },
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Eren Karaağaç",
+      "cikan": "Ahmet Arda Tuzcu"
+     },
+     {
+      "dk": 53,
+      "takim": "ev",
+      "giren": "Enes Soy",
+      "girenId": "938777",
+      "cikan": "Barış Ekincier",
+      "cikanId": "2552343"
+     },
+     {
+      "dk": 64,
+      "takim": "dep",
+      "giren": "Talha Özcan",
+      "cikan": "Burak Asan"
+     },
+     {
+      "dk": 72,
+      "takim": "dep",
+      "giren": "Güneş Güventürk",
+      "cikan": "Cemal Kızılateş"
+     },
+     {
+      "dk": 77,
+      "takim": "ev",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     },
+     {
+      "dk": 83,
+      "takim": "dep",
+      "giren": "Thierry Darnel Karadeniz",
+      "cikan": "İlker Karakaş"
+     },
+     {
+      "dk": 85,
+      "takim": "ev",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     },
+     {
+      "dk": 85,
+      "takim": "ev",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Alperen Pak",
+      "cikanId": "972735"
+     }
+    ],
+    "hakem": "Burak Akdağ"
+   }
+  },
+  {
+   "macId": "318685",
+   "hafta": 2,
+   "tarih": "2026-09-12",
+   "evSahibi": "Adana Demirspor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": "0-2",
+   "evGol": 0,
+   "depGol": 2,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "19:00",
+   "stat": "Yeni Adana Stadyumu",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 50,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "dep",
+      "id": "1546355"
+     },
+     {
+      "dk": 64,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "dep",
+      "id": "1546355"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 32,
+      "oyuncu": "Hakan Yavuz",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1400771"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 25,
+        "ad": "Murat Uğur Eser"
+       },
+       {
+        "no": 7,
+        "ad": "Sefa Gülay"
+       },
+       {
+        "no": 10,
+        "ad": "Gökdeniz Tunç"
+       },
+       {
+        "no": 11,
+        "ad": "Kürşat Türkeş Küçük"
+       },
+       {
+        "no": 17,
+        "ad": "Mert Menemencioğlu"
+       },
+       {
+        "no": 23,
+        "ad": "Yusuf Buğra Demirkıran"
+       },
+       {
+        "no": 30,
+        "ad": "Yücel Gürol"
+       },
+       {
+        "no": 43,
+        "ad": "Ali Fidan"
+       },
+       {
+        "no": 88,
+        "ad": "Kayra Saygan"
+       },
+       {
+        "no": 98,
+        "ad": "Toprak Bayar"
+       },
+       {
+        "no": 99,
+        "ad": "Ahmet Bolat"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 1,
+        "ad": "Eren Fidan"
+       },
+       {
+        "no": 2,
+        "ad": "Enes Demirtaş"
+       },
+       {
+        "no": 3,
+        "ad": "Seyfi Efe Irga"
+       },
+       {
+        "no": 4,
+        "ad": "Aslan Atay"
+       },
+       {
+        "no": 6,
+        "ad": "Demir Yavuz"
+       },
+       {
+        "no": 9,
+        "ad": "Ahmet Arda Birinci"
+       },
+       {
+        "no": 37,
+        "ad": "Kağan Aldemir"
+       },
+       {
+        "no": 61,
+        "ad": "Doğuhan Asım Dübüş"
+       },
+       {
+        "no": 70,
+        "ad": "Muhammed Enes Gül"
+       },
+       {
+        "no": 77,
+        "ad": "Mustafa Bozkurt"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 9,
+        "ad": "Kemal Rüzgar",
+        "id": "1546355"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "ev",
+      "giren": "Enes Demirtaş",
+      "cikan": "Kayra Saygan"
+     },
+     {
+      "dk": 57,
+      "takim": "dep",
+      "giren": "Alperen Pak",
+      "girenId": "972735",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 57,
+      "takim": "dep",
+      "giren": "Mert Örnek",
+      "girenId": "1119772",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     },
+     {
+      "dk": 59,
+      "takim": "ev",
+      "giren": "Muhammed Enes Gül",
+      "cikan": "Kürşat Türkeş Küçük"
+     },
+     {
+      "dk": 63,
+      "takim": "ev",
+      "giren": "Aslan Atay",
+      "cikan": "Ali Fidan"
+     },
+     {
+      "dk": 68,
+      "takim": "ev",
+      "giren": "Ahmet Arda Birinci",
+      "cikan": "Gökdeniz Tunç"
+     },
+     {
+      "dk": 68,
+      "takim": "ev",
+      "giren": "Doğuhan Asım Dübüş",
+      "cikan": "Mert Menemencioğlu"
+     },
+     {
+      "dk": 72,
+      "takim": "dep",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     },
+     {
+      "dk": 72,
+      "takim": "dep",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Muhammed Demirci",
+      "cikanId": "958783"
+     },
+     {
+      "dk": 83,
+      "takim": "dep",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Abdurrahman Emir Alagöz",
+      "cikanId": "897776"
+     }
+    ],
+    "hakem": "Safa Yılmaz"
+   }
+  },
+  {
+   "macId": "318693",
+   "hafta": 3,
+   "tarih": "2026-09-19",
+   "evSahibi": "Elazığspor",
+   "deplasman": "Aliağa",
+   "ev": true,
+   "skor": "5-0",
+   "evGol": 5,
+   "depGol": 0,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "19:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 12,
+      "oyuncu": "Mert Örnek",
+      "takim": "ev",
+      "id": "1119772"
+     },
+     {
+      "dk": 19,
+      "oyuncu": "Mert Örnek",
+      "takim": "ev",
+      "id": "1119772"
+     },
+     {
+      "dk": 35,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "ev",
+      "id": "1546355"
+     },
+     {
+      "dk": 53,
+      "oyuncu": "Veli Çetin",
+      "takim": "ev",
+      "id": "1030237"
+     },
+     {
+      "dk": 90,
+      "ek": 1,
+      "oyuncu": "Barış Ekincier",
+      "takim": "ev",
+      "id": "2552343"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 31,
+      "oyuncu": "Feyyaz Belen",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "111545"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 9,
+        "ad": "Kemal Rüzgar",
+        "id": "1546355"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 36,
+        "ad": "Samet Karabatak"
+       },
+       {
+        "no": 2,
+        "ad": "Harun Kaya"
+       },
+       {
+        "no": 6,
+        "ad": "Ahmet Metin Arslan"
+       },
+       {
+        "no": 10,
+        "ad": "Okan Derici"
+       },
+       {
+        "no": 17,
+        "ad": "Muhammed Mustafa Yıldırım"
+       },
+       {
+        "no": 20,
+        "ad": "İzzet Furkan Malak"
+       },
+       {
+        "no": 24,
+        "ad": "Muammer Sarıkaya"
+       },
+       {
+        "no": 29,
+        "ad": "Birkan Yılmaz"
+       },
+       {
+        "no": 35,
+        "ad": "Sergen Piçinciol"
+       },
+       {
+        "no": 77,
+        "ad": "Yusuf Erdem Gümüş"
+       },
+       {
+        "no": 99,
+        "ad": "Mustafa Tahir Babaoğlu"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 1,
+        "ad": "Halil Yeral"
+       },
+       {
+        "no": 5,
+        "ad": "Hasan Batuhan Artarslan"
+       },
+       {
+        "no": 9,
+        "ad": "Mehmet Uysal"
+       },
+       {
+        "no": 13,
+        "ad": "Adnan Aktaş"
+       },
+       {
+        "no": 14,
+        "ad": "Sercan Demirkıran"
+       },
+       {
+        "no": 22,
+        "ad": "Eren Tunalı"
+       },
+       {
+        "no": 23,
+        "ad": "Hamza Gür"
+       },
+       {
+        "no": 44,
+        "ad": "Necati Özdemir"
+       },
+       {
+        "no": 66,
+        "ad": "Furkan Yöntem"
+       },
+       {
+        "no": 90,
+        "ad": "Emrehan Gedikli"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Halil Yeral",
+      "cikan": "Samet Karabatak"
+     },
+     {
+      "dk": 58,
+      "takim": "dep",
+      "giren": "Hasan Batuhan Artarslan",
+      "cikan": "Mustafa Tahir Babaoğlu"
+     },
+     {
+      "dk": 58,
+      "takim": "dep",
+      "giren": "Emrehan Gedikli",
+      "cikan": "Okan Derici"
+     },
+     {
+      "dk": 58,
+      "takim": "dep",
+      "giren": "Mehmet Uysal",
+      "cikan": "Muhammed Mustafa Yıldırım"
+     },
+     {
+      "dk": 78,
+      "takim": "ev",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     },
+     {
+      "dk": 78,
+      "takim": "ev",
+      "giren": "Enes Soy",
+      "girenId": "938777",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     },
+     {
+      "dk": 81,
+      "takim": "ev",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     },
+     {
+      "dk": 85,
+      "takim": "dep",
+      "giren": "Furkan Yöntem",
+      "cikan": "İzzet Furkan Malak"
+     },
+     {
+      "dk": 86,
+      "takim": "ev",
+      "giren": "Çağlayan Menderes",
+      "girenId": "1373277",
+      "cikan": "Feyyaz Belen",
+      "cikanId": "111545"
+     },
+     {
+      "dk": 86,
+      "takim": "ev",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Alperen Pak",
+      "cikanId": "972735"
+     }
+    ],
+    "hakem": "Sinan Özcan"
+   }
+  },
+  {
+   "macId": "318707",
+   "hafta": 4,
+   "tarih": "2026-09-27",
+   "evSahibi": "Güzide Gebze Spor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": "0-0",
+   "evGol": 0,
+   "depGol": 0,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "16:00",
+   "stat": "Aleattin Kurt Stadı",
+   "olaylar": {
+    "goller": [],
+    "kartlar": [
+     {
+      "dk": 10,
+      "oyuncu": "Mert Örnek",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1119772"
+     },
+     {
+      "dk": 24,
+      "oyuncu": "Alperen Pak",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "972735"
+     },
+     {
+      "dk": 29,
+      "oyuncu": "Mutlu Güler",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 75,
+      "oyuncu": "Mustafa Hüseyin Seyhan",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 75,
+      "oyuncu": "Kemal Rüzgar",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1546355"
+     },
+     {
+      "dk": 88,
+      "oyuncu": "Tolunay Yurtseven",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 89,
+      "oyuncu": "Onur Eriş",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "856257"
+     },
+     {
+      "dk": 90,
+      "ek": 4,
+      "oyuncu": "Abdurrahman Üresin",
+      "takim": "ev",
+      "renk": "sari"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 26,
+        "ad": "Übeyd Adıyaman"
+       },
+       {
+        "no": 3,
+        "ad": "Hakan Özkan"
+       },
+       {
+        "no": 5,
+        "ad": "Emre Keskin"
+       },
+       {
+        "no": 8,
+        "ad": "Halil Çiçek"
+       },
+       {
+        "no": 11,
+        "ad": "Tolunay Yurtseven"
+       },
+       {
+        "no": 4,
+        "ad": "Haşim Arda Sarman"
+       },
+       {
+        "no": 22,
+        "ad": "Abdurrahman Üresin"
+       },
+       {
+        "no": 23,
+        "ad": "Sırat Yeşilördek"
+       },
+       {
+        "no": 25,
+        "ad": "Mustafa Erkasap"
+       },
+       {
+        "no": 77,
+        "ad": "Mutlu Güler"
+       },
+       {
+        "no": 99,
+        "ad": "Mustafa Batuhan Altıntaş"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 31,
+        "ad": "Furkan Taş"
+       },
+       {
+        "no": 17,
+        "ad": "Süleyman Güneş"
+       },
+       {
+        "no": 9,
+        "ad": "Enes Kuşçu"
+       },
+       {
+        "no": 12,
+        "ad": "Mustafa Hüseyin Seyhan"
+       },
+       {
+        "no": 15,
+        "ad": "Aytuğ Batur Kömeç"
+       },
+       {
+        "no": 19,
+        "ad": "Furkan Çelik"
+       },
+       {
+        "no": 28,
+        "ad": "Alperen Kanber"
+       },
+       {
+        "no": 38,
+        "ad": "Tolgahan Alan"
+       },
+       {
+        "no": 58,
+        "ad": "Batuhan Üzgül"
+       },
+       {
+        "no": 70,
+        "ad": "Berkan Aksoy"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 9,
+        "ad": "Kemal Rüzgar",
+        "id": "1546355"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 43,
+      "takim": "ev",
+      "giren": "Mustafa Hüseyin Seyhan",
+      "cikan": "Mustafa Erkasap"
+     },
+     {
+      "dk": 46,
+      "takim": "ev",
+      "giren": "Süleyman Güneş",
+      "cikan": "Haşim Arda Sarman"
+     },
+     {
+      "dk": 63,
+      "takim": "dep",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Abdurrahman Emir Alagöz",
+      "cikanId": "897776"
+     },
+     {
+      "dk": 71,
+      "takim": "dep",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     },
+     {
+      "dk": 82,
+      "takim": "ev",
+      "giren": "Berkan Aksoy",
+      "cikan": "Halil Çiçek"
+     },
+     {
+      "dk": 85,
+      "takim": "dep",
+      "giren": "Enes Soy",
+      "girenId": "938777",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     }
+    ],
+    "hakem": "Emre Can Furuncu"
+   }
+  },
+  {
+   "macId": "318716",
+   "hafta": 5,
+   "tarih": "2026-10-04",
+   "evSahibi": "Elazığspor",
+   "deplasman": "Çorlu Spor 1947",
+   "ev": true,
+   "skor": "2-3",
+   "evGol": 2,
+   "depGol": 3,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "19:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 2,
+      "oyuncu": "Alperen Pak",
+      "takim": "ev",
+      "id": "972735"
+     },
+     {
+      "dk": 5,
+      "oyuncu": "Oğuzhan Yıldırım",
+      "takim": "dep"
+     },
+     {
+      "dk": 77,
+      "oyuncu": "Muhammet Beşir",
+      "takim": "dep"
+     },
+     {
+      "dk": 90,
+      "oyuncu": "Adnan Karahisar",
+      "takim": "dep"
+     },
+     {
+      "dk": 90,
+      "ek": 5,
+      "oyuncu": "Alperen Pak",
+      "takim": "ev",
+      "id": "972735"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 18,
+      "oyuncu": "Oğuzhan Yıldırım",
+      "takim": "dep",
+      "renk": "sari"
+     },
+     {
+      "dk": 72,
+      "oyuncu": "Muhammed Demirci",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "958783"
+     },
+     {
+      "dk": 74,
+      "oyuncu": "Erhan Kartal",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "877646"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 1,
+        "ad": "Ahmet Pekgöz"
+       },
+       {
+        "no": 97,
+        "ad": "Muhammet Beşir"
+       },
+       {
+        "no": 33,
+        "ad": "Ali Eren İyican"
+       },
+       {
+        "no": 10,
+        "ad": "Mahsun Çapkan"
+       },
+       {
+        "no": 35,
+        "ad": "Alpay Koldaş"
+       },
+       {
+        "no": 6,
+        "ad": "Barış Zeren"
+       },
+       {
+        "no": 17,
+        "ad": "Batuhan Ekinci"
+       },
+       {
+        "no": 5,
+        "ad": "Oğuzhan Yıldırım"
+       },
+       {
+        "no": 13,
+        "ad": "Yılmaz Ceylan"
+       },
+       {
+        "no": 77,
+        "ad": "Recep Yemişci"
+       },
+       {
+        "no": 19,
+        "ad": "Yusuf Kaplan"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 99,
+        "ad": "Hüseyin Koç"
+       },
+       {
+        "no": 91,
+        "ad": "Esat Yiğit Alkurt"
+       },
+       {
+        "no": 61,
+        "ad": "Recai Efe Kaygusuz"
+       },
+       {
+        "no": 23,
+        "ad": "Ömer Faruk Aydemir"
+       },
+       {
+        "no": 7,
+        "ad": "Ali Han Tunçer"
+       },
+       {
+        "no": 68,
+        "ad": "Sinan Baki Usluer"
+       },
+       {
+        "no": 2,
+        "ad": "Asım Efe Işık"
+       },
+       {
+        "no": 9,
+        "ad": "Adnan Karahisar"
+       },
+       {
+        "no": 50,
+        "ad": "Efe Geçim"
+       },
+       {
+        "no": 14,
+        "ad": "Volkan Uluğ"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "ev",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Ali Altınöz",
+      "cikanId": "1802810"
+     },
+     {
+      "dk": 65,
+      "takim": "dep",
+      "giren": "Volkan Uluğ",
+      "cikan": "Barış Zeren"
+     },
+     {
+      "dk": 71,
+      "takim": "ev",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 78,
+      "takim": "dep",
+      "giren": "Ali Han Tunçer",
+      "cikan": "Muhammet Beşir"
+     },
+     {
+      "dk": 79,
+      "takim": "ev",
+      "giren": "Alp Ada Abay",
+      "girenId": "2010639",
+      "cikan": "Barış Ekincier",
+      "cikanId": "2552343"
+     },
+     {
+      "dk": 84,
+      "takim": "dep",
+      "giren": "Adnan Karahisar",
+      "cikan": "Mahsun Çapkan"
+     },
+     {
+      "dk": 84,
+      "takim": "dep",
+      "giren": "Sinan Baki Usluer",
+      "cikan": "Yusuf Kaplan"
+     }
+    ],
+    "hakem": "Erdem Temel"
+   }
+  },
+  {
+   "macId": "318725",
+   "hafta": 6,
+   "tarih": "2026-10-11",
+   "evSahibi": "Hatayspor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": "0-3",
+   "evGol": 0,
+   "depGol": 3,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "15:00",
+   "stat": "Reyhanlı Tayfur Sökmen",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 57,
+      "oyuncu": "Enes Soy",
+      "takim": "dep",
+      "id": "938777",
+      "tur": "penalti"
+     },
+     {
+      "dk": 72,
+      "oyuncu": "Mert Örnek",
+      "takim": "dep",
+      "id": "1119772"
+     },
+     {
+      "dk": 89,
+      "oyuncu": "Çağlayan Menderes",
+      "takim": "dep",
+      "id": "1373277"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 43,
+      "oyuncu": "Feyyaz Belen",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "111545"
+     },
+     {
+      "dk": 70,
+      "oyuncu": "Abdulkadir Adıyaman",
+      "takim": "ev",
+      "renk": "sari-kirmizi"
+     },
+     {
+      "dk": 90,
+      "ek": 1,
+      "oyuncu": "Engin Can Aksoy",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 90,
+      "ek": 1,
+      "oyuncu": "Sertaç Çam",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "898116"
+     },
+     {
+      "dk": 90,
+      "ek": 3,
+      "oyuncu": "Çağlayan Menderes",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1373277"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 34,
+        "ad": "Demir Sarıcalı"
+       },
+       {
+        "no": 17,
+        "ad": "Engin Can Aksoy"
+       },
+       {
+        "no": 16,
+        "ad": "Abdulkadir Adıyaman"
+       },
+       {
+        "no": 5,
+        "ad": "Melih Şen"
+       },
+       {
+        "no": 55,
+        "ad": "Alperen Alaca"
+       },
+       {
+        "no": 23,
+        "ad": "Cemil Berk Aksu"
+       },
+       {
+        "no": 15,
+        "ad": "Recep Burak Yılmaz"
+       },
+       {
+        "no": 20,
+        "ad": "Ali Yıldız"
+       },
+       {
+        "no": 10,
+        "ad": "Ensar Arslan"
+       },
+       {
+        "no": 9,
+        "ad": "Taylan Özgün"
+       },
+       {
+        "no": 77,
+        "ad": "Barış Uzel"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 1,
+        "ad": "Mert Çiçek"
+       },
+       {
+        "no": 24,
+        "ad": "Ahmet Bayam"
+       },
+       {
+        "no": 83,
+        "ad": "Atakan Özenir"
+       },
+       {
+        "no": 72,
+        "ad": "Bilal Toğ"
+       },
+       {
+        "no": 19,
+        "ad": "Ali Eren Tan"
+       },
+       {
+        "no": 21,
+        "ad": "Seyit Gazanfer"
+       },
+       {
+        "no": 66,
+        "ad": "Mert Hamit Şamlıoğlu"
+       },
+       {
+        "no": 11,
+        "ad": "İbrahim Efe Sucuoğlu"
+       },
+       {
+        "no": 25,
+        "ad": "Mustafa Said Aydın"
+       },
+       {
+        "no": 31,
+        "ad": "Mustafa Çınar Baytar"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 99,
+        "ad": "Özkan Bal",
+        "id": "2193035"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 27,
+      "takim": "dep",
+      "giren": "Atakan Nuri Ordu",
+      "girenId": "1792945",
+      "cikan": "Furkan Köse",
+      "cikanId": "766034"
+     },
+     {
+      "dk": 52,
+      "takim": "ev",
+      "giren": "Seyit Gazanfer",
+      "cikan": "Alperen Alaca"
+     },
+     {
+      "dk": 65,
+      "takim": "ev",
+      "giren": "Mustafa Said Aydın",
+      "cikan": "Cemil Berk Aksu"
+     },
+     {
+      "dk": 65,
+      "takim": "ev",
+      "giren": "İbrahim Efe Sucuoğlu",
+      "cikan": "Ensar Arslan"
+     },
+     {
+      "dk": 73,
+      "takim": "dep",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 83,
+      "takim": "ev",
+      "giren": "Mustafa Çınar Baytar",
+      "cikan": "Taylan Özgün"
+     },
+     {
+      "dk": 83,
+      "takim": "dep",
+      "giren": "Çağlayan Menderes",
+      "girenId": "1373277",
+      "cikan": "Feyyaz Belen",
+      "cikanId": "111545"
+     },
+     {
+      "dk": 83,
+      "takim": "dep",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     },
+     {
+      "dk": 83,
+      "takim": "dep",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     }
+    ],
+    "hakem": "Bekir Doğan"
+   }
+  },
+  {
+   "macId": "318732",
+   "hafta": 7,
+   "tarih": "2026-10-17",
+   "evSahibi": "Elazığspor",
+   "deplasman": "Arkent Arnavutköy Belediyesi",
+   "ev": true,
+   "skor": "3-0",
+   "evGol": 3,
+   "depGol": 0,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "19:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 17,
+      "oyuncu": "Alperen Pak",
+      "takim": "ev",
+      "id": "972735"
+     },
+     {
+      "dk": 42,
+      "oyuncu": "Hakan Yavuz",
+      "takim": "ev",
+      "id": "1400771"
+     },
+     {
+      "dk": 60,
+      "oyuncu": "Veli Çetin",
+      "takim": "ev",
+      "id": "1030237"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 31,
+      "oyuncu": "Furkan Ulupınar",
+      "takim": "dep",
+      "renk": "sari"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 19,
+        "ad": "Mahmut Eren Güler"
+       },
+       {
+        "no": 2,
+        "ad": "Mustafa Yıldırım"
+       },
+       {
+        "no": 25,
+        "ad": "Rohat Çapa"
+       },
+       {
+        "no": 6,
+        "ad": "Arda Deniz Yavaş"
+       },
+       {
+        "no": 8,
+        "ad": "Can Ediz Yıldız"
+       },
+       {
+        "no": 9,
+        "ad": "Hüseyin İkiz"
+       },
+       {
+        "no": 10,
+        "ad": "Cerem Talha Dinçer"
+       },
+       {
+        "no": 18,
+        "ad": "Kerem Çapan"
+       },
+       {
+        "no": 21,
+        "ad": "Semih Mert Korkmaz"
+       },
+       {
+        "no": 33,
+        "ad": "Furkan Ulupınar"
+       },
+       {
+        "no": 61,
+        "ad": "Berkan Burak Turan"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 44,
+        "ad": "Durmuş Ayhan"
+       },
+       {
+        "no": 3,
+        "ad": "Emre Öztürk"
+       },
+       {
+        "no": 11,
+        "ad": "Mehmet Efe Şahin"
+       },
+       {
+        "no": 13,
+        "ad": "Anıl Şahin"
+       },
+       {
+        "no": 35,
+        "ad": "Taha Dönmez"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammed Emre Taş"
+       },
+       {
+        "no": 77,
+        "ad": "Baran Erdoğan"
+       },
+       {
+        "no": 80,
+        "ad": "Cebrail Koç"
+       },
+       {
+        "no": 17,
+        "ad": "Muhammet Can Uludağ"
+       },
+       {
+        "no": 99,
+        "ad": "Eren Can Cömert"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Anıl Şahin",
+      "cikan": "Kerem Çapan"
+     },
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Taha Dönmez",
+      "cikan": "Rohat Çapa"
+     },
+     {
+      "dk": 58,
+      "takim": "dep",
+      "giren": "Mehmet Efe Şahin",
+      "cikan": "Hüseyin İkiz"
+     },
+     {
+      "dk": 58,
+      "takim": "dep",
+      "giren": "Cebrail Koç",
+      "cikan": "Semih Mert Korkmaz"
+     },
+     {
+      "dk": 71,
+      "takim": "ev",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     },
+     {
+      "dk": 76,
+      "takim": "dep",
+      "giren": "Muhammed Emre Taş",
+      "cikan": "Berkan Burak Turan"
+     },
+     {
+      "dk": 79,
+      "takim": "ev",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Alperen Pak",
+      "cikanId": "972735"
+     },
+     {
+      "dk": 86,
+      "takim": "ev",
+      "giren": "Alp Ada Abay",
+      "girenId": "2010639",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     },
+     {
+      "dk": 86,
+      "takim": "ev",
+      "giren": "Mustafa Emir Akyıldız",
+      "girenId": "1866897",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 86,
+      "takim": "ev",
+      "giren": "Ali Yeşilyurt",
+      "girenId": "1754246",
+      "cikan": "Veli Çetin",
+      "cikanId": "1030237"
+     }
+    ],
+    "hakem": "Onur Bingöl"
+   }
+  },
+  {
+   "macId": "318742",
+   "hafta": 8,
+   "tarih": "2026-10-24",
+   "evSahibi": "Isbaş Isparta 32 Spor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": "3-4",
+   "evGol": 3,
+   "depGol": 4,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "19:00",
+   "stat": "Isparta Atatürk Stadı",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 19,
+      "oyuncu": "Sertaç Çam",
+      "takim": "dep",
+      "id": "898116"
+     },
+     {
+      "dk": 21,
+      "oyuncu": "Mert Örnek",
+      "takim": "dep",
+      "id": "1119772"
+     },
+     {
+      "dk": 37,
+      "oyuncu": "Kaan Yüksel",
+      "takim": "ev"
+     },
+     {
+      "dk": 51,
+      "oyuncu": "Abdurrahman Emir Alagöz",
+      "takim": "dep",
+      "id": "897776"
+     },
+     {
+      "dk": 56,
+      "oyuncu": "Sertaç Çam",
+      "takim": "dep",
+      "id": "898116"
+     },
+     {
+      "dk": 61,
+      "oyuncu": "Fatih Aktay",
+      "takim": "ev"
+     },
+     {
+      "dk": 69,
+      "oyuncu": "Fatih Aktay",
+      "takim": "ev"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 18,
+      "oyuncu": "Keni Var Uzun",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 33,
+      "oyuncu": "Hakan Yavuz",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1400771"
+     },
+     {
+      "dk": 40,
+      "oyuncu": "Onur Eriş",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "856257"
+     },
+     {
+      "dk": 42,
+      "oyuncu": "Erhan Kartal",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "877646"
+     },
+     {
+      "dk": 44,
+      "oyuncu": "Kerem Nurhan",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 87,
+      "oyuncu": "Kaan Yüksel",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 90,
+      "ek": 2,
+      "oyuncu": "Furkan Köse",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "766034"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 1,
+        "ad": "Onur Can Özdemir"
+       },
+       {
+        "no": 3,
+        "ad": "Yiğithan Güveli"
+       },
+       {
+        "no": 41,
+        "ad": "Oğulcan Başol"
+       },
+       {
+        "no": 11,
+        "ad": "Hamit Kulya"
+       },
+       {
+        "no": 77,
+        "ad": "Bahadır Yıldırım"
+       },
+       {
+        "no": 6,
+        "ad": "Kaan Yüksel"
+       },
+       {
+        "no": 25,
+        "ad": "Muhammed Mustafa Özbay"
+       },
+       {
+        "no": 21,
+        "ad": "Kerem Nurhan"
+       },
+       {
+        "no": 70,
+        "ad": "Vedat Bora"
+       },
+       {
+        "no": 9,
+        "ad": "Keni Var Uzun"
+       },
+       {
+        "no": 51,
+        "ad": "Fatih Aktay"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 93,
+        "ad": "Fatih Gülmez"
+       },
+       {
+        "no": 24,
+        "ad": "Emirhan Parmaksız"
+       },
+       {
+        "no": 88,
+        "ad": "Furkan Uludaş"
+       },
+       {
+        "no": 10,
+        "ad": "Enver Cenk Şahin"
+       },
+       {
+        "no": 66,
+        "ad": "Hasip Korkmazyürek"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Mert Dursun"
+       },
+       {
+        "no": 8,
+        "ad": "Mustafa Acar"
+       },
+       {
+        "no": 17,
+        "ad": "Alperen Karaca"
+       },
+       {
+        "no": 26,
+        "ad": "Bedirhan Altunbaş"
+       },
+       {
+        "no": 7,
+        "ad": "Devrim Taşkaya"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 18,
+        "ad": "Yiğit Ekrem Karakaş",
+        "id": "2015273"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 59,
+      "takim": "ev",
+      "giren": "Enver Cenk Şahin",
+      "cikan": "Bahadır Yıldırım"
+     },
+     {
+      "dk": 59,
+      "takim": "ev",
+      "giren": "Bedirhan Altunbaş",
+      "cikan": "Kerem Nurhan"
+     },
+     {
+      "dk": 67,
+      "takim": "ev",
+      "giren": "Muhammed Mert Dursun",
+      "cikan": "Vedat Bora"
+     },
+     {
+      "dk": 67,
+      "takim": "ev",
+      "giren": "Hasip Korkmazyürek",
+      "cikan": "Muhammed Mustafa Özbay"
+     },
+     {
+      "dk": 72,
+      "takim": "dep",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 85,
+      "takim": "dep",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     },
+     {
+      "dk": 85,
+      "takim": "dep",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Hakan Yavuz",
+      "cikanId": "1400771"
+     },
+     {
+      "dk": 90,
+      "ek": 1,
+      "takim": "dep",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     }
+    ],
+    "hakem": "Can Cengiz"
+   }
+  },
+  {
+   "macId": "373121",
+   "hafta": null,
+   "tarih": "2026-10-27",
+   "evSahibi": "Elazığspor",
+   "deplasman": "Açıkalın Erciyes 38 Futbol Spor",
+   "ev": true,
+   "skor": "0-2",
+   "evGol": 0,
+   "depGol": 2,
+   "turnuva": "Ziraat Türkiye Kupası",
+   "saat": "15:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 74,
+      "oyuncu": "Çağrı Yağız Yasak",
+      "takim": "dep"
+     },
+     {
+      "dk": 90,
+      "ek": 2,
+      "oyuncu": "Çağrı Yağız Yasak",
+      "takim": "dep"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 13,
+      "oyuncu": "Mustafa Emir Akyıldız",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1866897"
+     },
+     {
+      "dk": 34,
+      "oyuncu": "Ali Altınöz",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1802810"
+     },
+     {
+      "dk": 42,
+      "oyuncu": "Serhat Genç",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "2294684"
+     },
+     {
+      "dk": 70,
+      "oyuncu": "Ensar Bilir",
+      "takim": "dep",
+      "renk": "sari"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 26,
+        "ad": "Yusuf Ayaz",
+        "id": "2305851"
+       },
+       {
+        "no": 18,
+        "ad": "Yiğit Ekrem Karakaş",
+        "id": "2015273"
+       },
+       {
+        "no": 40,
+        "ad": "Muhammet Yusuf Kılbitmez",
+        "id": "2092687"
+       },
+       {
+        "no": 41,
+        "ad": "Eymen Önder",
+        "id": "2294742"
+       },
+       {
+        "no": 42,
+        "ad": "Muhammet Eren Başöz",
+        "id": "2326770"
+       },
+       {
+        "no": 43,
+        "ad": "Muhammed Sefa Gül",
+        "id": "2076180"
+       },
+       {
+        "no": 46,
+        "ad": "Aytuğ Berkay Mavidemir",
+        "id": "2350144"
+       },
+       {
+        "no": 50,
+        "ad": "Emirhan Karataş",
+        "id": "1963359"
+       },
+       {
+        "no": 99,
+        "ad": "Özkan Bal",
+        "id": "2193035"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 1,
+        "ad": "Kerem Yandal"
+       },
+       {
+        "no": 54,
+        "ad": "Ensar Bilir"
+       },
+       {
+        "no": 3,
+        "ad": "Hakan Eren Atabey"
+       },
+       {
+        "no": 38,
+        "ad": "Batuhan Özgan"
+       },
+       {
+        "no": 18,
+        "ad": "Burak Efe Arslan"
+       },
+       {
+        "no": 8,
+        "ad": "Mehmet Tosun"
+       },
+       {
+        "no": 6,
+        "ad": "Caner Kaban"
+       },
+       {
+        "no": 17,
+        "ad": "Seyit Ali Kahya"
+       },
+       {
+        "no": 19,
+        "ad": "İlkay İşler"
+       },
+       {
+        "no": 99,
+        "ad": "Ali Kılıç"
+       },
+       {
+        "no": 79,
+        "ad": "Berke Özçelik"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 12,
+        "ad": "Yağız Efe Dere"
+       },
+       {
+        "no": 7,
+        "ad": "Çağrı Yağız Yasak"
+       },
+       {
+        "no": 10,
+        "ad": "Osman Şahin"
+       },
+       {
+        "no": 2,
+        "ad": "Mehmet Eksik"
+       },
+       {
+        "no": 66,
+        "ad": "Mikail Koçak"
+       },
+       {
+        "no": 77,
+        "ad": "Utkan Gökçen"
+       },
+       {
+        "no": 21,
+        "ad": "Mustafa Yağız Altıntaş"
+       },
+       {
+        "no": 11,
+        "ad": "Fatih Yiğit Şanlitürk"
+       },
+       {
+        "no": 4,
+        "ad": "Halil Duman"
+       },
+       {
+        "no": 5,
+        "ad": "Güney Gençel"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "ev",
+      "giren": "Özkan Bal",
+      "girenId": "2193035",
+      "cikan": "Bünyamin Güler",
+      "cikanId": "2106723"
+     },
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Çağrı Yağız Yasak",
+      "cikan": "Berke Özçelik"
+     },
+     {
+      "dk": 60,
+      "takim": "ev",
+      "giren": "Yiğit Ekrem Karakaş",
+      "girenId": "2015273",
+      "cikan": "Serhat Genç",
+      "cikanId": "2294684"
+     },
+     {
+      "dk": 65,
+      "takim": "dep",
+      "giren": "Fatih Yiğit Şanlitürk",
+      "cikan": "Seyit Ali Kahya"
+     },
+     {
+      "dk": 65,
+      "takim": "dep",
+      "giren": "Osman Şahin",
+      "cikan": "İlkay İşler"
+     },
+     {
+      "dk": 77,
+      "takim": "dep",
+      "giren": "Utkan Gökçen",
+      "cikan": "Burak Efe Arslan"
+     },
+     {
+      "dk": 81,
+      "takim": "dep",
+      "giren": "Güney Gençel",
+      "cikan": "Caner Kaban"
+     },
+     {
+      "dk": 90,
+      "takim": "ev",
+      "giren": "Muhammed Sefa Gül",
+      "girenId": "2076180",
+      "cikan": "İsmail Esat Buğa",
+      "cikanId": "1919486"
+     },
+     {
+      "dk": 90,
+      "takim": "ev",
+      "giren": "Eymen Önder",
+      "girenId": "2294742",
+      "cikan": "Muhammet Berat Sağlam",
+      "cikanId": "1996845"
+     }
+    ],
+    "hakem": "Talha Öztürk"
+   }
+  },
+  {
+   "macId": "318753",
+   "hafta": 9,
+   "tarih": "2026-11-01",
+   "evSahibi": "Gmg Kastamonuspor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": "0-5",
+   "evGol": 0,
+   "depGol": 5,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "13:00",
+   "stat": "Gazi Stadı",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 24,
+      "oyuncu": "Abdurrahman Emir Alagöz",
+      "takim": "dep",
+      "id": "897776"
+     },
+     {
+      "dk": 29,
+      "oyuncu": "Sertaç Çam",
+      "takim": "dep",
+      "id": "898116"
+     },
+     {
+      "dk": 49,
+      "oyuncu": "Mert Örnek",
+      "takim": "dep",
+      "id": "1119772"
+     },
+     {
+      "dk": 82,
+      "oyuncu": "Barış Ekincier",
+      "takim": "dep",
+      "id": "2552343",
+      "tur": "penalti"
+     },
+     {
+      "dk": 89,
+      "oyuncu": "Barış Ekincier",
+      "takim": "dep",
+      "id": "2552343"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 31,
+      "oyuncu": "Alperen Pak",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "972735"
+     },
+     {
+      "dk": 60,
+      "oyuncu": "Feyyaz Belen",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "111545"
+     },
+     {
+      "dk": 71,
+      "oyuncu": "Sertaç Çam",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "898116"
+     },
+     {
+      "dk": 81,
+      "oyuncu": "Mert Çalışkan",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 90,
+      "ek": 1,
+      "oyuncu": "Erhan Kartal",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "877646"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 1,
+        "ad": "Deniz Çörtlen"
+       },
+       {
+        "no": 4,
+        "ad": "İsmail Hasan Bakkal"
+       },
+       {
+        "no": 9,
+        "ad": "Ahmethan Köse"
+       },
+       {
+        "no": 10,
+        "ad": "Ahmet Yazar"
+       },
+       {
+        "no": 17,
+        "ad": "Necati Bilgiç"
+       },
+       {
+        "no": 20,
+        "ad": "Emir Açıkgöz"
+       },
+       {
+        "no": 24,
+        "ad": "Kerim Temizkan"
+       },
+       {
+        "no": 32,
+        "ad": "Gökmen Özince"
+       },
+       {
+        "no": 37,
+        "ad": "Erdem Reis"
+       },
+       {
+        "no": 66,
+        "ad": "Yasin Başaytaç"
+       },
+       {
+        "no": 77,
+        "ad": "Mert Çalışkan"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 31,
+        "ad": "Kerem Çavdar"
+       },
+       {
+        "no": 7,
+        "ad": "Doruk Paflak"
+       },
+       {
+        "no": 8,
+        "ad": "Oğuz Duman"
+       },
+       {
+        "no": 15,
+        "ad": "Yasin Hızar"
+       },
+       {
+        "no": 18,
+        "ad": "Samet Tarık Güler"
+       },
+       {
+        "no": 27,
+        "ad": "Serdar Avkaroğlu"
+       },
+       {
+        "no": 55,
+        "ad": "Deniz Güngör"
+       },
+       {
+        "no": 58,
+        "ad": "Ögeday Hadi Uyanık"
+       },
+       {
+        "no": 88,
+        "ad": "Niyazi Kılıç"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 8,
+        "ad": "Hakan Yavuz",
+        "id": "1400771"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 44,
+      "takim": "dep",
+      "giren": "Barış Ekincier",
+      "girenId": "2552343",
+      "cikan": "Enes Soy",
+      "cikanId": "938777"
+     },
+     {
+      "dk": 46,
+      "takim": "ev",
+      "giren": "Serdar Avkaroğlu",
+      "cikan": "Kerim Temizkan"
+     },
+     {
+      "dk": 62,
+      "takim": "dep",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Alperen Pak",
+      "cikanId": "972735"
+     },
+     {
+      "dk": 62,
+      "takim": "dep",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     },
+     {
+      "dk": 65,
+      "takim": "ev",
+      "giren": "Oğuz Duman",
+      "cikan": "İsmail Hasan Bakkal"
+     },
+     {
+      "dk": 79,
+      "takim": "ev",
+      "giren": "Niyazi Kılıç",
+      "cikan": "Necati Bilgiç"
+     },
+     {
+      "dk": 82,
+      "takim": "dep",
+      "giren": "Ali Yeşilyurt",
+      "girenId": "1754246",
+      "cikan": "Feyyaz Belen",
+      "cikanId": "111545"
+     },
+     {
+      "dk": 82,
+      "takim": "dep",
+      "giren": "Mustafa Emir Akyıldız",
+      "girenId": "1866897",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     }
+    ],
+    "hakem": "Kadir Demir"
+   }
+  },
+  {
+   "macId": "318472",
+   "hafta": 10,
+   "tarih": "2026-11-08",
+   "evSahibi": "Elazığspor",
+   "deplasman": "Kızılkaya Tarım Şanlıurfaspor",
+   "ev": true,
+   "skor": "1-0",
+   "evGol": 1,
+   "depGol": 0,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "15:30",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 4,
+      "oyuncu": "Veli Çetin",
+      "takim": "ev",
+      "id": "1030237"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 13,
+      "oyuncu": "Alperen Pak",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "972735"
+     },
+     {
+      "dk": 41,
+      "oyuncu": "Özcan Aydın",
+      "takim": "dep",
+      "renk": "sari"
+     },
+     {
+      "dk": 61,
+      "oyuncu": "Feyyaz Belen",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "111545"
+     },
+     {
+      "dk": 90,
+      "oyuncu": "Tahsin Bülbül",
+      "takim": "dep",
+      "renk": "sari"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 18,
+        "ad": "Yiğit Ekrem Karakaş",
+        "id": "2015273"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 99,
+        "ad": "Özkan Bal",
+        "id": "2193035"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 45,
+        "ad": "Aydın Bağ"
+       },
+       {
+        "no": 3,
+        "ad": "Alper Tursun"
+       },
+       {
+        "no": 6,
+        "ad": "Umut Mert Toy"
+       },
+       {
+        "no": 23,
+        "ad": "Sedat Dursun"
+       },
+       {
+        "no": 27,
+        "ad": "İlker Günaslan"
+       },
+       {
+        "no": 4,
+        "ad": "Muhammed Gönülaçar"
+       },
+       {
+        "no": 8,
+        "ad": "Ferhan Evren"
+       },
+       {
+        "no": 16,
+        "ad": "Yiğitali Bayrak"
+       },
+       {
+        "no": 10,
+        "ad": "Çekdar Orhan"
+       },
+       {
+        "no": 14,
+        "ad": "Özcan Aydın"
+       },
+       {
+        "no": 11,
+        "ad": "Ali Aydemir"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 35,
+        "ad": "Baran Demir"
+       },
+       {
+        "no": 39,
+        "ad": "İbrahim Sürgülü"
+       },
+       {
+        "no": 77,
+        "ad": "Aslan Gök"
+       },
+       {
+        "no": 63,
+        "ad": "Mahmut Küçük"
+       },
+       {
+        "no": 66,
+        "ad": "Cebrail İrtürk"
+       },
+       {
+        "no": 19,
+        "ad": "Tahsin Bülbül"
+       },
+       {
+        "no": 25,
+        "ad": "Özgür Sert"
+       },
+       {
+        "no": 52,
+        "ad": "Hüsamettin Yener"
+       },
+       {
+        "no": 9,
+        "ad": "İbrahim Burak Işık"
+       },
+       {
+        "no": 7,
+        "ad": "Oğuzhan Doğan"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Aslan Gök",
+      "cikan": "Özcan Aydın"
+     },
+     {
+      "dk": 46,
+      "takim": "dep",
+      "giren": "Hüsamettin Yener",
+      "cikan": "İlker Günaslan"
+     },
+     {
+      "dk": 60,
+      "takim": "dep",
+      "giren": "Oğuzhan Doğan",
+      "cikan": "Yiğitali Bayrak"
+     },
+     {
+      "dk": 77,
+      "takim": "dep",
+      "giren": "Tahsin Bülbül",
+      "cikan": "Ali Aydemir"
+     },
+     {
+      "dk": 81,
+      "takim": "ev",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Barış Ekincier",
+      "cikanId": "2552343"
+     },
+     {
+      "dk": 84,
+      "takim": "dep",
+      "giren": "Özgür Sert",
+      "cikan": "Ferhan Evren"
+     },
+     {
+      "dk": 88,
+      "takim": "ev",
+      "giren": "Mustafa Emir Akyıldız",
+      "girenId": "1866897",
+      "cikan": "Sertaç Çam",
+      "cikanId": "898116"
+     },
+     {
+      "dk": 90,
+      "ek": 3,
+      "takim": "ev",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Mert Örnek",
+      "cikanId": "1119772"
+     }
+    ],
+    "hakem": "Levent Buğra Vartemel"
+   }
+  },
+  {
+   "macId": "318480",
+   "hafta": 11,
+   "tarih": "2026-11-14",
+   "evSahibi": "Efor Çay Erbaaspor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": "0-0",
+   "evGol": 0,
+   "depGol": 0,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "13:00",
+   "stat": "Erbaa İlçe",
+   "olaylar": {
+    "goller": [],
+    "kartlar": [
+     {
+      "dk": 11,
+      "oyuncu": "Yunus Emre Aydemir",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 12,
+      "oyuncu": "Veli Çetin",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1030237"
+     },
+     {
+      "dk": 33,
+      "oyuncu": "Oğuz Han Aynaoğlu",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 60,
+      "oyuncu": "Alp Arda",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 64,
+      "oyuncu": "Tugay Keleş",
+      "takim": "ev",
+      "renk": "sari"
+     },
+     {
+      "dk": 80,
+      "oyuncu": "Ali Yeşilyurt",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1754246"
+     },
+     {
+      "dk": 90,
+      "oyuncu": "İsmail Esat Buğa",
+      "takim": "dep",
+      "renk": "sari",
+      "id": "1919486"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 1,
+        "ad": "Alp Arda"
+       },
+       {
+        "no": 5,
+        "ad": "Ramazan Kallıoğlu"
+       },
+       {
+        "no": 7,
+        "ad": "Oğuz Han Aynaoğlu"
+       },
+       {
+        "no": 10,
+        "ad": "Cemal Şener"
+       },
+       {
+        "no": 11,
+        "ad": "Yasin Kargı"
+       },
+       {
+        "no": 12,
+        "ad": "Muhammed Ali Doğan"
+       },
+       {
+        "no": 70,
+        "ad": "Oğulcan Enes Demiroğlu"
+       },
+       {
+        "no": 33,
+        "ad": "Ömer Önder"
+       },
+       {
+        "no": 57,
+        "ad": "Melih Altıkulaç"
+       },
+       {
+        "no": 61,
+        "ad": "Yunus Emre Aydemir"
+       },
+       {
+        "no": 99,
+        "ad": "Oktay Balcı"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 74,
+        "ad": "Abdullah Yılmaz"
+       },
+       {
+        "no": 3,
+        "ad": "Ömer Alp Gülay"
+       },
+       {
+        "no": 9,
+        "ad": "Tugay Keleş"
+       },
+       {
+        "no": 13,
+        "ad": "Ertuğrul Yıldırım"
+       },
+       {
+        "no": 17,
+        "ad": "Dağhan Erdoğan"
+       },
+       {
+        "no": 19,
+        "ad": "Yunus Azrak"
+       },
+       {
+        "no": 20,
+        "ad": "Eslem Öztürk"
+       },
+       {
+        "no": 30,
+        "ad": "Adar Aygür"
+       },
+       {
+        "no": 31,
+        "ad": "Ali Emre Keklikçi"
+       },
+       {
+        "no": 68,
+        "ad": "Tolga Köksal"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 18,
+        "ad": "Yiğit Ekrem Karakaş",
+        "id": "2015273"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       },
+       {
+        "no": 99,
+        "ad": "Özkan Bal",
+        "id": "2193035"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 52,
+      "takim": "ev",
+      "giren": "Tugay Keleş",
+      "cikan": "Oktay Balcı"
+     },
+     {
+      "dk": 65,
+      "takim": "dep",
+      "giren": "Muhammed Demirci",
+      "girenId": "958783",
+      "cikan": "Ali Altınöz",
+      "cikanId": "1802810"
+     },
+     {
+      "dk": 68,
+      "takim": "ev",
+      "giren": "Dağhan Erdoğan",
+      "cikan": "Cemal Şener"
+     },
+     {
+      "dk": 69,
+      "takim": "dep",
+      "giren": "Ali Yeşilyurt",
+      "girenId": "1754246",
+      "cikan": "Çağlayan Menderes",
+      "cikanId": "1373277"
+     },
+     {
+      "dk": 80,
+      "takim": "ev",
+      "giren": "Eslem Öztürk",
+      "cikan": "Yasin Kargı"
+     },
+     {
+      "dk": 80,
+      "takim": "ev",
+      "giren": "Yunus Azrak",
+      "cikan": "Muhammed Ali Doğan"
+     },
+     {
+      "dk": 87,
+      "takim": "dep",
+      "giren": "Mustafa Emir Akyıldız",
+      "girenId": "1866897",
+      "cikan": "Abdurrahman Emir Alagöz",
+      "cikanId": "897776"
+     },
+     {
+      "dk": 87,
+      "takim": "dep",
+      "giren": "İsmail Esat Buğa",
+      "girenId": "1919486",
+      "cikan": "Barış Ekincier",
+      "cikanId": "2552343"
+     }
+    ],
+    "hakem": "Mustafa Ünver"
+   }
+  },
+  {
+   "macId": "318484",
+   "hafta": 12,
+   "tarih": "2026-11-18",
+   "evSahibi": "Elazığspor",
+   "deplasman": "Menemen",
+   "ev": true,
+   "skor": "1-1",
+   "evGol": 1,
+   "depGol": 1,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "13:00",
+   "stat": "Elazığ Atatürk Stadyumu",
+   "olaylar": {
+    "goller": [
+     {
+      "dk": 13,
+      "oyuncu": "Mert Örnek",
+      "takim": "ev",
+      "id": "1119772"
+     },
+     {
+      "dk": 30,
+      "oyuncu": "Doğukan Emeksiz",
+      "takim": "dep"
+     }
+    ],
+    "kartlar": [
+     {
+      "dk": 52,
+      "oyuncu": "İsmail Esat Buğa",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1919486"
+     },
+     {
+      "dk": 64,
+      "oyuncu": "Feyyaz Belen",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "111545"
+     },
+     {
+      "dk": 74,
+      "oyuncu": "Veli Çetin",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1030237"
+     },
+     {
+      "dk": 79,
+      "oyuncu": "Burak Tranova",
+      "takim": "dep",
+      "renk": "sari"
+     },
+     {
+      "dk": 87,
+      "oyuncu": "Erhan Kartal",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "877646"
+     },
+     {
+      "dk": 87,
+      "oyuncu": "Erkan Gövercin",
+      "takim": "dep",
+      "renk": "sari"
+     },
+     {
+      "dk": 90,
+      "ek": 6,
+      "oyuncu": "Muhammed Demirci",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "958783"
+     },
+     {
+      "dk": 90,
+      "ek": 6,
+      "oyuncu": "Ali Altınöz",
+      "takim": "ev",
+      "renk": "sari",
+      "id": "1802810"
+     }
+    ],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 20,
+        "ad": "Erhan Kartal",
+        "id": "877646"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 18,
+        "ad": "Yiğit Ekrem Karakaş",
+        "id": "2015273"
+       },
+       {
+        "no": 19,
+        "ad": "Serhat Genç",
+        "id": "2294684"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 99,
+        "ad": "Mehmet Emin Sapancı"
+       },
+       {
+        "no": 35,
+        "ad": "Eren Fansa"
+       },
+       {
+        "no": 26,
+        "ad": "Göktürk Efe Görgün"
+       },
+       {
+        "no": 5,
+        "ad": "Mustafa Can Birol"
+       },
+       {
+        "no": 55,
+        "ad": "Selim Can Sönmez"
+       },
+       {
+        "no": 77,
+        "ad": "Eyüp Poyraz"
+       },
+       {
+        "no": 25,
+        "ad": "Yiğit Kerem"
+       },
+       {
+        "no": 14,
+        "ad": "Alican Özfesli"
+       },
+       {
+        "no": 36,
+        "ad": "Erkan Gövercin"
+       },
+       {
+        "no": 8,
+        "ad": "Burak İngenç"
+       },
+       {
+        "no": 10,
+        "ad": "Doğukan Emeksiz"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 23,
+        "ad": "İsmail Buğra Torkut"
+       },
+       {
+        "no": 53,
+        "ad": "Hakan Selim Yıldız"
+       },
+       {
+        "no": 48,
+        "ad": "Burak Tranova"
+       },
+       {
+        "no": 6,
+        "ad": "Musa Kaan Pehlivan"
+       },
+       {
+        "no": 18,
+        "ad": "Aydın Ali"
+       },
+       {
+        "no": 9,
+        "ad": "Ömer Ege Ökte"
+       },
+       {
+        "no": 24,
+        "ad": "Burak Enes Fıstıkçıoğlu"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [
+     {
+      "dk": 50,
+      "takim": "dep",
+      "giren": "Burak Enes Fıstıkçıoğlu",
+      "cikan": "Göktürk Efe Görgün"
+     },
+     {
+      "dk": 60,
+      "takim": "ev",
+      "giren": "Ali Altınöz",
+      "girenId": "1802810",
+      "cikan": "Muhammed Demirci",
+      "cikanId": "958783"
+     },
+     {
+      "dk": 60,
+      "takim": "dep",
+      "giren": "Ömer Ege Ökte",
+      "cikan": "Doğukan Emeksiz"
+     },
+     {
+      "dk": 60,
+      "takim": "dep",
+      "giren": "Aydın Ali",
+      "cikan": "Yiğit Kerem"
+     },
+     {
+      "dk": 78,
+      "takim": "dep",
+      "giren": "Burak Tranova",
+      "cikan": "Alican Özfesli"
+     },
+     {
+      "dk": 78,
+      "takim": "dep",
+      "giren": "Hakan Selim Yıldız",
+      "cikan": "Burak İngenç"
+     },
+     {
+      "dk": 85,
+      "takim": "ev",
+      "giren": "Mustafa Emir Akyıldız",
+      "girenId": "1866897",
+      "cikan": "İsmail Esat Buğa",
+      "cikanId": "1919486"
+     },
+     {
+      "dk": 89,
+      "takim": "ev",
+      "giren": "Ali Yeşilyurt",
+      "girenId": "1754246",
+      "cikan": "Barış Ekincier",
+      "cikanId": "2552343"
+     }
+    ],
+    "hakem": "Berkay Ağış"
+   }
+  },
+  {
+   "macId": "318493",
+   "hafta": 13,
+   "tarih": "2026-11-22",
+   "evSahibi": "Somaspor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": "1-4",
+   "evGol": 1,
+   "depGol": 4,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "13:00",
+   "stat": "Soma Nazım Yavuz",
+   "olaylar": {
+    "goller": [],
+    "kartlar": [],
+    "kadrolar": {
+     "ev": {
+      "ilk11": [
+       {
+        "no": 25,
+        "ad": "Batuhan Ataç"
+       },
+       {
+        "no": 6,
+        "ad": "Enes Tayfun"
+       },
+       {
+        "no": 7,
+        "ad": "Berk Çetin"
+       },
+       {
+        "no": 8,
+        "ad": "Enes Yetkin"
+       },
+       {
+        "no": 10,
+        "ad": "Emir Şenocak"
+       },
+       {
+        "no": 20,
+        "ad": "Mehmet Gündüz"
+       },
+       {
+        "no": 23,
+        "ad": "Mustafa Taner Tamer"
+       },
+       {
+        "no": 5,
+        "ad": "Ferit Bay Gündüz"
+       },
+       {
+        "no": 33,
+        "ad": "Eniscan Atik"
+       },
+       {
+        "no": 41,
+        "ad": "Berke Kayar"
+       },
+       {
+        "no": 97,
+        "ad": "Sadettin Derviş Erkan"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 1,
+        "ad": "Eran Şenol"
+       },
+       {
+        "no": 3,
+        "ad": "Bilal Selamet"
+       },
+       {
+        "no": 21,
+        "ad": "Yağız Aydın"
+       },
+       {
+        "no": 9,
+        "ad": "Ömür Pektaş"
+       },
+       {
+        "no": 19,
+        "ad": "Mehmet Melih Altınışık"
+       },
+       {
+        "no": 42,
+        "ad": "Orhan Ertaş"
+       },
+       {
+        "no": 45,
+        "ad": "İbrahim Semih Apaydın"
+       },
+       {
+        "no": 66,
+        "ad": "Arda Kutluer"
+       },
+       {
+        "no": 98,
+        "ad": "İlker Eren Gedik"
+       }
+      ]
+     },
+     "dep": {
+      "ilk11": [
+       {
+        "no": 77,
+        "ad": "Furkan Köse",
+        "id": "766034"
+       },
+       {
+        "no": 55,
+        "ad": "Mustafa Emir Akyıldız",
+        "id": "1866897"
+       },
+       {
+        "no": 3,
+        "ad": "Veli Çetin",
+        "id": "1030237"
+       },
+       {
+        "no": 6,
+        "ad": "Feyyaz Belen",
+        "id": "111545"
+       },
+       {
+        "no": 10,
+        "ad": "Onur Eriş",
+        "id": "856257"
+       },
+       {
+        "no": 5,
+        "ad": "Abdurrahman Emir Alagöz",
+        "id": "897776"
+       },
+       {
+        "no": 17,
+        "ad": "Ali Altınöz",
+        "id": "1802810"
+       },
+       {
+        "no": 22,
+        "ad": "Alperen Pak",
+        "id": "972735"
+       },
+       {
+        "no": 1,
+        "ad": "Sertaç Çam",
+        "id": "898116"
+       },
+       {
+        "no": 23,
+        "ad": "Mert Örnek",
+        "id": "1119772"
+       },
+       {
+        "no": 7,
+        "ad": "Barış Ekincier",
+        "id": "2552343"
+       }
+      ],
+      "yedek": [
+       {
+        "no": 25,
+        "ad": "Atakan Nuri Ordu",
+        "id": "1792945"
+       },
+       {
+        "no": 4,
+        "ad": "Çağlayan Menderes",
+        "id": "1373277"
+       },
+       {
+        "no": 66,
+        "ad": "Muhammet Berat Sağlam",
+        "id": "1996845"
+       },
+       {
+        "no": 27,
+        "ad": "Bünyamin Güler",
+        "id": "2106723"
+       },
+       {
+        "no": 35,
+        "ad": "Alp Ada Abay",
+        "id": "2010639"
+       },
+       {
+        "no": 58,
+        "ad": "Ali Yeşilyurt",
+        "id": "1754246"
+       },
+       {
+        "no": 80,
+        "ad": "Muhammed Demirci",
+        "id": "958783"
+       },
+       {
+        "no": 30,
+        "ad": "İsmail Esat Buğa",
+        "id": "1919486"
+       },
+       {
+        "no": 11,
+        "ad": "Enes Soy",
+        "id": "938777"
+       },
+       {
+        "no": 9,
+        "ad": "Kemal Rüzgar",
+        "id": "1546355"
+       }
+      ]
+     }
+    },
+    "degisiklikler": [],
+    "hakem": "Ömer Nazıf Baytar"
+   }
+  },
+  {
+   "macId": "318507",
+   "hafta": 14,
+   "tarih": "2026-11-29",
+   "evSahibi": "Elazığspor",
+   "deplasman": "68 Aksaray Belediye Spor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz",
+   "saat": "13:00",
+   "stat": "Elazığ Atatürk Stadyumu"
+  },
+  {
+   "macId": "318513",
+   "hafta": 15,
+   "tarih": null,
+   "evSahibi": "İnegöl Kafkas Spor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318526",
+   "hafta": 16,
+   "tarih": null,
+   "evSahibi": "Elazığspor",
+   "deplasman": "Muş Spor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318530",
+   "hafta": 17,
+   "tarih": null,
+   "evSahibi": "Ankaraspor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318542",
+   "hafta": 18,
+   "tarih": null,
+   "evSahibi": "Sebat Spor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318550",
+   "hafta": 19,
+   "tarih": null,
+   "evSahibi": "Elazığspor",
+   "deplasman": "Adana Demirspor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318558",
+   "hafta": 20,
+   "tarih": null,
+   "evSahibi": "Aliağa",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318572",
+   "hafta": 21,
+   "tarih": null,
+   "evSahibi": "Elazığspor",
+   "deplasman": "Güzide Gebze Spor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318581",
+   "hafta": 22,
+   "tarih": null,
+   "evSahibi": "Çorlu Spor 1947",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318590",
+   "hafta": 23,
+   "tarih": null,
+   "evSahibi": "Elazığspor",
+   "deplasman": "Hatayspor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318597",
+   "hafta": 24,
+   "tarih": null,
+   "evSahibi": "Arkent Arnavutköy Belediyesi",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318607",
+   "hafta": 25,
+   "tarih": null,
+   "evSahibi": "Elazığspor",
+   "deplasman": "Isbaş Isparta 32 Spor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318618",
+   "hafta": 26,
+   "tarih": null,
+   "evSahibi": "Elazığspor",
+   "deplasman": "Gmg Kastamonuspor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318625",
+   "hafta": 27,
+   "tarih": null,
+   "evSahibi": "Kızılkaya Tarım Şanlıurfaspor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318633",
+   "hafta": 28,
+   "tarih": null,
+   "evSahibi": "Elazığspor",
+   "deplasman": "Efor Çay Erbaaspor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318637",
+   "hafta": 29,
+   "tarih": null,
+   "evSahibi": "Menemen",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318646",
+   "hafta": 30,
+   "tarih": null,
+   "evSahibi": "Elazığspor",
+   "deplasman": "Somaspor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318660",
+   "hafta": 31,
+   "tarih": null,
+   "evSahibi": "68 Aksaray Belediye Spor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318666",
+   "hafta": 32,
+   "tarih": null,
+   "evSahibi": "Elazığspor",
+   "deplasman": "İnegöl Kafkas Spor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318764",
+   "hafta": 33,
+   "tarih": null,
+   "evSahibi": "Muş Spor",
+   "deplasman": "Elazığspor",
+   "ev": false,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  },
+  {
+   "macId": "318768",
+   "hafta": 34,
+   "tarih": null,
+   "evSahibi": "Elazığspor",
+   "deplasman": "Ankaraspor",
+   "ev": true,
+   "skor": null,
+   "evGol": null,
+   "depGol": null,
+   "turnuva": "2. Lig Beyaz"
+  }
+ ],
+ "kadro": [
+  {
+   "id": "897776",
+   "ad": "Abdurrahman Emir Alagöz",
+   "numara": 5,
+   "dogum": "1992-01-28",
+   "dogumYeri": "Kartal",
+   "uyruk": "Türkiye",
+   "mac": 13,
+   "ilk11": 13,
+   "gol": 2,
+   "sari": 0,
+   "kirmizi": 0,
+   "mevki": "Orta saha"
+  },
+  {
+   "id": "1802810",
+   "ad": "Ali Altınöz",
+   "numara": 17,
+   "dogum": "2005-04-17",
+   "dogumYeri": "Antakya",
+   "uyruk": "Türkiye",
+   "mac": 12,
+   "ilk11": 5,
+   "gol": 0,
+   "sari": 2,
+   "kirmizi": 0,
+   "mevki": "Orta saha"
+  },
+  {
+   "id": "1754246",
+   "ad": "Ali Yeşilyurt",
+   "kiralik": "Galatasaray",
+   "numara": 58,
+   "dogum": "2005-07-30",
+   "dogumYeri": "Küçükçekmece",
+   "uyruk": "Türkiye",
+   "mac": 5,
+   "ilk11": 1,
+   "gol": 0,
+   "sari": 1,
+   "kirmizi": 0,
+   "mevki": "Defans"
+  },
+  {
+   "id": "2010639",
+   "ad": "Alp Ada Abay",
+   "kiralik": "Antalyaspor",
+   "numara": 35,
+   "dogum": "2006-05-11",
+   "dogumYeri": "Altındağ",
+   "uyruk": "Türkiye",
+   "mac": 3,
+   "ilk11": 1,
+   "gol": 0,
+   "sari": 0,
+   "kirmizi": 0,
+   "mevki": "Defans"
+  },
+  {
+   "id": "972735",
+   "ad": "Alperen Pak",
+   "numara": 22,
+   "dogum": "1995-12-05",
+   "dogumYeri": "19 Mayıs",
+   "uyruk": "Türkiye",
+   "mac": 12,
+   "ilk11": 11,
+   "gol": 3,
+   "sari": 3,
+   "kirmizi": 0,
+   "mevki": "Orta saha"
+  },
+  {
+   "id": "1792945",
+   "ad": "Atakan Nuri Ordu",
+   "kiralik": "Galata Spor",
+   "numara": 25,
+   "dogum": "2005-03-29",
+   "dogumYeri": "Denizli",
+   "uyruk": "Türkiye",
+   "mac": 2,
+   "ilk11": 1,
+   "gol": 0,
+   "sari": 0,
+   "kirmizi": 0,
+   "mevki": "Kaleci"
+  },
+  {
+   "id": "2552343",
+   "ad": "Barış Ekincier",
+   "numara": 7,
+   "dogum": "1999-03-24",
+   "dogumYeri": "Hemer",
+   "uyruk": "Türkiye",
+   "mac": 12,
+   "ilk11": 6,
+   "gol": 3,
+   "sari": 0,
+   "kirmizi": 0,
+   "mevki": "Forvet"
+  },
+  {
+   "id": "2106723",
+   "ad": "Bünyamin Güler",
+   "numara": 27,
+   "dogum": "2006-01-01",
+   "dogumYeri": "Alacakaya",
+   "uyruk": "Türkiye",
+   "mac": 1,
+   "ilk11": 1,
+   "gol": 0,
+   "sari": 0,
+   "kirmizi": 0,
+   "mevki": "Orta saha"
+  },
+  {
+   "id": "1373277",
+   "ad": "Çağlayan Menderes",
+   "numara": 4,
+   "dogum": "1999-06-09",
+   "dogumYeri": "Aydın",
+   "uyruk": "Türkiye",
+   "mac": 3,
+   "ilk11": 1,
+   "gol": 1,
+   "sari": 1,
+   "kirmizi": 0,
+   "mevki": "Defans"
+  },
+  {
+   "id": "1694770",
+   "ad": "Efe Tatlı",
+   "numara": 44,
+   "dogum": "2002-07-29",
+   "dogumYeri": "Gaziosmanpaşa",
+   "uyruk": "Türkiye",
+   "mac": 0,
+   "ilk11": 0,
+   "gol": 0,
+   "sari": 0,
+   "kirmizi": 0,
+   "mevki": "Orta saha"
+  },
+  {
+   "id": "1963359",
+   "ad": "Emirhan Karataş",
+   "numara": 50,
+   "dogum": "2007-01-11",
+   "dogumYeri": "Elazığ",
+   "uyruk": "Türkiye",
+   "mac": 0,
+   "ilk11": 0,
+   "gol": 0,
+   "sari": 0,
+   "kirmizi": 0,
+   "mevki": null
+  },
+  {
+   "id": "938777",
+   "ad": "Enes Soy",
+   "numara": 11,
+   "dogum": "1995-12-20",
+   "dogumYeri": "Fatih",
+   "uyruk": "Türkiye",
+   "mac": 9,
+   "ilk11": 6,
+   "gol": 1,
+   "sari": 0,
+   "kirmizi": 0,
+   "mevki": "Forvet"
+  },
+  {
+   "id": "877646",
+   "ad": "Erhan Kartal",
+   "numara": 20,
+   "dogum": "1993-03-01",
+   "dogumYeri": "Milas",
+   "uyruk": "Türkiye",
+   "mac": 12,
+   "ilk11": 12,
+   "gol": 0,
+   "sari": 4,
+   "kirmizi": 0,
+   "mevki": "Defans"
+  },
+  {
+   "id": "111545",
+   "ad": "Feyyaz Belen",
+   "numara": 6,
+   "dogum": "1990-11-10",
+   "dogumYeri": "Antalya",
+   "uyruk": "Türkiye",
+   "mac": 12,
+   "ilk11": 12,
+   "gol": 0,
+   "sari": 5,
+   "kirmizi": 0,
+   "mevki": "Defans"
+  },
+  {
+   "id": "766034",
+   "ad": "Furkan Köse",
+   "numara": 77,
+   "dogum": "1993-05-28",
+   "dogumYeri": "Samsun",
+   "uyruk": "Türkiye",
+   "mac": 13,
+   "ilk11": 13,
+   "gol": 0,
+   "sari": 1,
+   "kirmizi": 0,
+   "mevki": "Kaleci"
+  },
+  {
+   "id": "1400771",
+   "ad": "Hakan Yavuz",
+   "numara": 8,
+   "dogum": "1997-10-15",
+   "dogumYeri": "Gemlik",
+   "uyruk": "Türkiye",
+   "mac": 9,
+   "ilk11": 9,
+   "gol": 1,
+   "sari": 2,
+   "kirmizi": 0,
+   "mevki": "Orta saha"
+  },
+  {
+   "id": "1919486",
+   "ad": "İsmail Esat Buğa",
+   "kiralik": "Tümosan Konyaspor",
+   "numara": 30,
+   "dogum": "2006-08-08",
+   "dogumYeri": "Selçuklu",
+   "uyruk": "Türkiye",
+   "mac": 9,
+   "ilk11": 2,
+   "gol": 0,
+   "sari": 2,
+   "kirmizi": 0,
+   "mevki": "Orta saha"
+  },
+  {
+   "id": "1546355",
+   "ad": "Kemal Rüzgar",
+   "numara": 9,
+   "dogum": "1995-06-20",
+   "dogumYeri": "Dıllenburg",
+   "uyruk": "Türkiye",
+   "mac": 4,
+   "ilk11": 4,
+   "gol": 6,
+   "sari": 1,
+   "kirmizi": 0,
+   "mevki": "Forvet"
+  },
+  {
+   "id": "1119772",
+   "ad": "Mert Örnek",
+   "numara": 23,
+   "dogum": "1997-02-12",
+   "dogumYeri": "Aydın",
+   "uyruk": "Türkiye",
+   "mac": 11,
+   "ilk11": 10,
+   "gol": 6,
+   "sari": 1,
+   "kirmizi": 0,
+   "mevki": "Forvet"
+  },
+  {
+   "id": "958783",
+   "ad": "Muhammed Demirci",
+   "numara": 80,
+   "dogum": "1995-01-03",
+   "dogumYeri": "Göynücek",
+   "uyruk": "Türkiye",
+   "mac": 13,
+   "ilk11": 3,
+   "gol": 0,
+   "sari": 2,
+   "kirmizi": 0,
+   "mevki": "Orta saha"
+  },
+  {
+   "id": "1996845",
+   "ad": "Muhammet Berat Sağlam",
+   "numara": 66,
+   "dogum": "2006-11-25",
+   "dogumYeri": "Konak",
+   "uyruk": "Türkiye",
+   "mac": 1,
+   "ilk11": 1,
+   "gol": 0,
+   "sari": 0,
+   "kirmizi": 0,
+   "mevki": null
+  },
+  {
+   "id": "1866897",
+   "ad": "Mustafa Emir Akyıldız",
+   "kiralik": "Fenerbahçe",
+   "numara": 55,
+   "dogum": "2006-03-23",
+   "dogumYeri": "Sultanbeyli",
+   "uyruk": "Türkiye",
+   "mac": 7,
+   "ilk11": 2,
+   "gol": 0,
+   "sari": 1,
+   "kirmizi": 0,
+   "mevki": "Defans"
+  },
+  {
+   "id": "856257",
+   "ad": "Onur Eriş",
+   "numara": 10,
+   "dogum": "1993-02-24",
+   "dogumYeri": "Osmangazi",
+   "uyruk": "Türkiye",
+   "mac": 13,
+   "ilk11": 13,
+   "gol": 0,
+   "sari": 2,
+   "kirmizi": 0,
+   "mevki": "Defans"
+  },
+  {
+   "id": "2294684",
+   "ad": "Serhat Genç",
+   "numara": 19,
+   "dogum": "2007-01-01",
+   "dogumYeri": "Elazığ",
+   "uyruk": "Türkiye",
+   "mac": 1,
+   "ilk11": 1,
+   "gol": 0,
+   "sari": 1,
+   "kirmizi": 0,
+   "mevki": "Forvet"
+  },
+  {
+   "id": "898116",
+   "ad": "Sertaç Çam",
+   "numara": 1,
+   "dogum": "1992-11-28",
+   "dogumYeri": "Bakırköy",
+   "uyruk": "Türkiye",
+   "mac": 13,
+   "ilk11": 13,
+   "gol": 3,
+   "sari": 2,
+   "kirmizi": 0,
+   "mevki": "Forvet"
+  },
+  {
+   "id": "1030237",
+   "ad": "Veli Çetin",
+   "numara": 3,
+   "dogum": "1994-11-01",
+   "dogumYeri": "Bakırköy",
+   "uyruk": "Türkiye",
+   "mac": 13,
+   "ilk11": 13,
+   "gol": 3,
+   "sari": 3,
+   "kirmizi": 0,
+   "mevki": "Defans"
+  },
+  {
+   "id": "2305851",
+   "ad": "Yusuf Ayaz",
+   "numara": 26,
+   "dogum": "2006-03-26",
+   "dogumYeri": "Elazığ",
+   "uyruk": "Türkiye",
+   "mac": 0,
+   "ilk11": 0,
+   "gol": 0,
+   "sari": 0,
+   "kirmizi": 0,
+   "mevki": "Kaleci"
+  }
+ ]
+}

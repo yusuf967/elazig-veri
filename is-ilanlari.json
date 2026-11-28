@@ -1,0 +1,462 @@
+{
+ "guncelleme": "2026-11-28T08:30:32.859Z",
+ "durum": "guncel",
+ "plan": "A",
+ "kaynak": "İŞKUR e-Şube",
+ "kaynakUrl": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanAra.aspx",
+ "sonBasari": "2026-11-28T08:30:32.859Z",
+ "toplamKayit": 83,
+ "not": "İşyeri adı İŞKUR üyeliği gerektirdiği için yoktur; başvuru bağlantıdan İŞKUR üzerinden yapılır. Toplam 83 ilanın ilk 45 tanesi (en fazla 3 sayfa) alınır; tamamı için İŞKUR sayfasına bakın.",
+ "ogeler": [
+  {
+   "ilanNo": "00009902499",
+   "meslek": "Mutfak Görevlisi",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-11-30",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009902499"
+  },
+  {
+   "ilanNo": "00009896768",
+   "meslek": "Motosikletli Kurye",
+   "pozisyonSayisi": 3,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Kısmi Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-11-30",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009896768"
+  },
+  {
+   "ilanNo": "00009896596",
+   "meslek": "İnşaat Teknolojisi Teknikeri",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İl Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-10",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009896596"
+  },
+  {
+   "ilanNo": "00009896724",
+   "meslek": "Beden İşçisi (Genel)",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İl Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-10",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009896724"
+  },
+  {
+   "ilanNo": "00009896910",
+   "meslek": "Satış Elemanı / Danışmanı",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İl Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-10",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009896910"
+  },
+  {
+   "ilanNo": "00009897993",
+   "meslek": "Beden İşçisi (Genel)",
+   "pozisyonSayisi": 5,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İl Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-11",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009897993"
+  },
+  {
+   "ilanNo": "00009898130",
+   "meslek": "Satış Elemanı / Danışmanı",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-11",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009898130"
+  },
+  {
+   "ilanNo": "00009899259",
+   "meslek": "Buldozer-Dozer Operatörü",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-11",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009899259"
+  },
+  {
+   "ilanNo": "00009899599",
+   "meslek": "Sıhhi Tesisatçı/Isıtma ve Sıhhi Tesisatçı(Doğal Gaz Isıtma ve Gaz Yakıcı Cihaz Servis Personeli)",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-11",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009899599"
+  },
+  {
+   "ilanNo": "00009899657",
+   "meslek": "Temizlik Görevlisi",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-11",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009899657"
+  },
+  {
+   "ilanNo": "00009899769",
+   "meslek": "Beden İşçisi (Temizlik)",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-11",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009899769"
+  },
+  {
+   "ilanNo": "00009901216",
+   "meslek": "Büro Memuru (Genel)",
+   "pozisyonSayisi": 2,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-12",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009901216"
+  },
+  {
+   "ilanNo": "00009901228",
+   "meslek": "Dalgıç (Balıkadam)",
+   "pozisyonSayisi": 10,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / KEBAN)",
+   "sonBasvuru": "2026-12-12",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009901228"
+  },
+  {
+   "ilanNo": "00009901500",
+   "meslek": "Temizlik Görevlisi",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İl Geneli Başvuru (ELAZIĞ / KEBAN)",
+   "sonBasvuru": "2026-12-12",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009901500"
+  },
+  {
+   "ilanNo": "00009901673",
+   "meslek": "Mutfak Görevlisi",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-12",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009901673"
+  },
+  {
+   "ilanNo": "00009901680",
+   "meslek": "Temizlik Görevlisi(Kat Hizmetleri Elemanı)",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-12",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009901680"
+  },
+  {
+   "ilanNo": "00009901694",
+   "meslek": "Bagaj Taşıyıcısı (Bellboy)",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-12",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009901694"
+  },
+  {
+   "ilanNo": "00009901713",
+   "meslek": "Ön Büro Görevlisi (Otel Resepsiyoncusu)",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-12",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009901713"
+  },
+  {
+   "ilanNo": "00009902235",
+   "meslek": "Kasiyer",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-14",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009902235"
+  },
+  {
+   "ilanNo": "00009902266",
+   "meslek": "Mobilya Montajcısı",
+   "pozisyonSayisi": 2,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-14",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009902266"
+  },
+  {
+   "ilanNo": "00009905174",
+   "meslek": "Temizlik Görevlisi",
+   "pozisyonSayisi": 2,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-16",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009905174"
+  },
+  {
+   "ilanNo": "00009905281",
+   "meslek": "Sağlık Bakım Teknisyeni",
+   "pozisyonSayisi": 2,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-16",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009905281"
+  },
+  {
+   "ilanNo": "00009908400",
+   "meslek": "Güvenlik Sistemleri Elemanı",
+   "pozisyonSayisi": 2,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-17",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009908400"
+  },
+  {
+   "ilanNo": "00009907419",
+   "meslek": "Satın Alma Sorumlusu",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-17",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009907419"
+  },
+  {
+   "ilanNo": "00009908234",
+   "meslek": "Satış Danışmanı Personel Yardımcısı",
+   "pozisyonSayisi": 2,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-18",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009908234"
+  },
+  {
+   "ilanNo": "00009909142",
+   "meslek": "Aşçı",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-18",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009909142"
+  },
+  {
+   "ilanNo": "00009910235",
+   "meslek": "Temizlik Görevlisi",
+   "pozisyonSayisi": 2,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İl Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-19",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009910235"
+  },
+  {
+   "ilanNo": "00009910766",
+   "meslek": "Kurye",
+   "pozisyonSayisi": 2,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Kısmi Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-20",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009910766"
+  },
+  {
+   "ilanNo": "00009911632",
+   "meslek": "Diğer Mühendisler",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İl Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-22",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009911632"
+  },
+  {
+   "ilanNo": "00009913174",
+   "meslek": "Kasiyer",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / KOVANCILAR)",
+   "sonBasvuru": "2026-12-23",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009913174"
+  },
+  {
+   "ilanNo": "00009913895",
+   "meslek": "Alabalık Yetiştiricisi",
+   "pozisyonSayisi": 10,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-23",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009913895"
+  },
+  {
+   "ilanNo": "00009913995",
+   "meslek": "Forklift Operatörü",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-23",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009913995"
+  },
+  {
+   "ilanNo": "00009914111",
+   "meslek": "Su Ürünleri Mühendisi",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-23",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009914111"
+  },
+  {
+   "ilanNo": "00009914117",
+   "meslek": "Dalgıç (Balıkadam)",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-23",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009914117"
+  },
+  {
+   "ilanNo": "00009914216",
+   "meslek": "Gazeteci",
+   "pozisyonSayisi": 12,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-23",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009914216"
+  },
+  {
+   "ilanNo": "00009914562",
+   "meslek": "Kaynakçı",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-24",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009914562"
+  },
+  {
+   "ilanNo": "00009914734",
+   "meslek": "Beden İşçisi (Genel)",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İl Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-24",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009914734"
+  },
+  {
+   "ilanNo": "00009914971",
+   "meslek": "Temizlik Görevlisi",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-24",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009914971"
+  },
+  {
+   "ilanNo": "00009915399",
+   "meslek": "Oto Yıkama Elemanı",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-24",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009915399"
+  },
+  {
+   "ilanNo": "00009915839",
+   "meslek": "Beden İşçisi (Genel)",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-24",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009915839"
+  },
+  {
+   "ilanNo": "00009916507",
+   "meslek": "Dokuma Konfeksiyon Makineci",
+   "pozisyonSayisi": 5,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "Bölge Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-25",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009916507"
+  },
+  {
+   "ilanNo": "00009916680",
+   "meslek": "Ahşap Kenar Bantlama Makinesi Operatörü",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-25",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009916680"
+  },
+  {
+   "ilanNo": "00009916725",
+   "meslek": "Depo Sevkiyat Sorumlusu",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-25",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009916725"
+  },
+  {
+   "ilanNo": "00009916728",
+   "meslek": "Tornacı (Torna Tezgahı Operatörü)",
+   "pozisyonSayisi": 3,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-25",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009916728"
+  },
+  {
+   "ilanNo": "00009917495",
+   "meslek": "Ön Muhasebeci",
+   "pozisyonSayisi": 1,
+   "isverenTuru": "Özel",
+   "calismaSekli": "Tam Zamanlı",
+   "calismaYeri": "İlçe Geneli Başvuru (ELAZIĞ / ELAZIĞ MERKEZ)",
+   "sonBasvuru": "2026-12-25",
+   "baglanti": "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID=00009917495"
+  }
+ ]
+}

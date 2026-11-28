@@ -1,0 +1,84 @@
+{
+ "guncelleme": "2026-11-28T14:33:24.654Z",
+ "durum": "guncel",
+ "plan": "A",
+ "kaynak": "Elazığ Eczacı Odası",
+ "kaynakUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig",
+ "sonBasari": "2026-11-28T14:33:24.654Z",
+ "not": "Hafta içi 18:00 - ertesi gün 08:30; Cumartesi 13:00 - Pazar 08:30; Pazar 08:30 - Pazartesi 08:30 (oda sayfasındaki açıklama). Listede olmayan ilçeler için oda sayfasına bakın.",
+ "nobetGunu": "2026-11-28",
+ "ogeler": [
+  {
+   "ilce": "MERKEZ",
+   "ad": "ÇAKILCIOGLU ECZANESİ",
+   "adres": "ORDUEVİNDEN BİZİM TOPTAN MARKET(DOĞU GARAJI) İNERKEN GAZİ LİSESİNİ GEÇİNCE SOL TARAFTA MUSTAFA PAŞA KAZIM KARABEKIR CAD. NO:47",
+   "telefon": "04242332020",
+   "lat": 38.668742,
+   "lon": 39.234573
+  },
+  {
+   "ilce": "MERKEZ",
+   "ad": "AKSIN ECZANESİ",
+   "adres": "NAİLBEY MAH.GAZİ CAD.NO:7/A",
+   "telefon": "04242183285",
+   "lat": 38.674807,
+   "lon": 39.221629
+  },
+  {
+   "ilce": "MERKEZ",
+   "ad": "ATAGÜN ECZANESİ",
+   "adres": "FIRAT ÜNİVERSİTE HASTANESİ POLİKLİNİK KARŞISI Üniversite Mah.Yahya Kemal Cad. No:44/C",
+   "telefon": "04245020234",
+   "lat": 38.680017,
+   "lon": 39.207339
+  },
+  {
+   "ilce": "MERKEZ",
+   "ad": "ÇELIK ECZANESİ",
+   "adres": "YEMİŞLİK TOKİ 1. ETAP CAMİİ KARŞISI GÜNEYKENT MAH. 19730 SOK. NO:6/A",
+   "telefon": "04242366334",
+   "lat": 38.645473,
+   "lon": 39.166514
+  },
+  {
+   "ilce": "BASKİL",
+   "ad": "BASKİL ECZANESİ",
+   "adres": "PTT KATŞISI ZİRAAT BANKASI YANI CANBEYLER MAH. ELAZIĞ CAD. NO:21/A",
+   "telefon": "04245112233",
+   "lat": 38.567489,
+   "lon": 38.823188
+  },
+  {
+   "ilce": "KARAKOÇAN",
+   "ad": "KARAKOÇAN ECZANESİ",
+   "adres": "YENI MAH. CARSI CAD. NO:62",
+   "telefon": "04247113328",
+   "lat": 38.955172,
+   "lon": 40.036909
+  },
+  {
+   "ilce": "KEBAN",
+   "ad": "KEBAN ECZANESİ",
+   "adres": "DEĞİRMENBAŞI MAH. ŞEHİT GENERAL POLAT HAŞİMOV CAD.NO:299",
+   "telefon": "04245712300",
+   "lat": 38.793201,
+   "lon": 38.745569
+  },
+  {
+   "ilce": "KOVANCILAR",
+   "ad": "ATAS ECZANESİ",
+   "adres": "ÇARSIBASI MAH. ILHAMI ERTEM CAD. NO:53/A",
+   "telefon": "04246115001",
+   "lat": 38.719916,
+   "lon": 39.864585
+  },
+  {
+   "ilce": "PALU",
+   "ad": "ŞİFA ECZANESİ",
+   "adres": "KALEKENT MAH.58. CAD. NO:5/A",
+   "telefon": "04245039619",
+   "lat": 38.692536,
+   "lon": 39.912762
+  }
+ ]
+}
